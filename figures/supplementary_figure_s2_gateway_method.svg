@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="510" height="360" preserveAspectRatio="xMinYMin meet" viewBox="0 0 510 360" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="510" height="360"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-360)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="510" height="360" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 169.5,350 L 169.5,20 Z" style="stroke: rgb(86%,89%,90%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 358.5,350 L 358.5,20 Z" style="stroke: rgb(86%,89%,90%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="7" y="340" style="font-family: Helvetica-Bold; font-size: 12.420000000000002px;fill: rgb(12%,14%,16%); stroke:none;" transform="translate(0,680) scale(1,-1)">A</text>
+			<text x="24" y="340" style="font-family: Helvetica-Bold; font-size: 9.504000000000001px;fill: rgb(12%,14%,16%); stroke:none;" transform="translate(0,680) scale(1,-1)">Seven TM-helix gateways</text>
+			<text x="24" y="327" style="font-family: Helvetica; font-size: 6.696000000000001px;fill: rgb(41%,44%,49%); stroke:none;" transform="translate(0,654) scale(1,-1)">Top view; TM assignments from GPCRdb</text>
+			<path d="M 84,281 L 121.527911,262.92751 Z" style="stroke: rgb(16%,61%,56%); stroke-linecap: butt; stroke-width: 4.0;"/>
+			<path d="M 121.527911,262.92751 L 130.79654,222.318995 Z" style="stroke: rgb(16%,61%,56%); stroke-linecap: butt; stroke-width: 4.0;"/>
+			<path d="M 130.79654,222.318995 L 104.826419,189.753494 Z" style="stroke: rgb(16%,61%,56%); stroke-linecap: butt; stroke-width: 4.0;"/>
+			<path d="M 104.826419,189.753494 L 63.173581,189.753494 Z" style="stroke: rgb(16%,61%,56%); stroke-linecap: butt; stroke-width: 4.0;"/>
+			<path d="M 63.173581,189.753494 L 37.20346,222.318995 Z" style="stroke: rgb(16%,61%,56%); stroke-linecap: butt; stroke-width: 4.0;"/>
+			<path d="M 37.20346,222.318995 L 46.472089,262.92751 Z" style="stroke: rgb(16%,61%,56%); stroke-linecap: butt; stroke-width: 4.0;"/>
+			<path d="M 46.472089,262.92751 L 84,281 Z" style="stroke: rgb(16%,61%,56%); stroke-linecap: butt; stroke-width: 4.0;"/>
+			<circle cx="84" cy="233" r="22" style="stroke: rgb(86%,89%,90%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(91%,94%,97%); fill-rule: evenodd;"/>
+			<text x="70.604652" y="236.0" style="font-family: Helvetica-Bold; font-size: 6.696000000000001px;fill: rgb(12%,14%,16%); stroke:none;" transform="translate(0,472) scale(1,-1)">receptor</text>
+			<text x="76.929024" y="228.8" style="font-family: Helvetica-Bold; font-size: 6.696000000000001px;fill: rgb(12%,14%,16%); stroke:none;" transform="translate(0,457) scale(1,-1)">core</text>
+			<circle cx="84.0" cy="281.0" r="10.5" style="stroke: rgb(29%,44%,69%); stroke-linecap: butt; stroke-width: 2.1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="77.196" y="278.8" style="font-family: Helvetica-Bold; font-size: 6.804px;fill: rgb(29%,44%,69%); stroke:none;" transform="translate(0,557) scale(1,-1)">TM1</text>
+			<circle cx="121.52791115846543" cy="262.92751048921923" r="10.5" style="stroke: rgb(29%,44%,69%); stroke-linecap: butt; stroke-width: 2.1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="114.72391115846543" y="260.7275104892192" style="font-family: Helvetica-Bold; font-size: 6.804px;fill: rgb(29%,44%,69%); stroke:none;" transform="translate(0,521) scale(1,-1)">TM2</text>
+			<circle cx="130.79653978472754" cy="222.3189951700969" r="10.5" style="stroke: rgb(29%,44%,69%); stroke-linecap: butt; stroke-width: 2.1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="123.99253978472754" y="220.11899517009692" style="font-family: Helvetica-Bold; font-size: 6.804px;fill: rgb(29%,44%,69%); stroke:none;" transform="translate(0,440) scale(1,-1)">TM3</text>
+			<circle cx="104.8264194776428" cy="189.7534943406839" r="10.5" style="stroke: rgb(29%,44%,69%); stroke-linecap: butt; stroke-width: 2.1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="98.0224194776428" y="187.5534943406839" style="font-family: Helvetica-Bold; font-size: 6.804px;fill: rgb(29%,44%,69%); stroke:none;" transform="translate(0,375) scale(1,-1)">TM4</text>
+			<circle cx="63.17358052235721" cy="189.7534943406839" r="10.5" style="stroke: rgb(29%,44%,69%); stroke-linecap: butt; stroke-width: 2.1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="56.36958052235721" y="187.5534943406839" style="font-family: Helvetica-Bold; font-size: 6.804px;fill: rgb(29%,44%,69%); stroke:none;" transform="translate(0,375) scale(1,-1)">TM5</text>
+			<circle cx="37.20346021527246" cy="222.3189951700969" r="10.5" style="stroke: rgb(29%,44%,69%); stroke-linecap: butt; stroke-width: 2.1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="30.399460215272455" y="220.11899517009692" style="font-family: Helvetica-Bold; font-size: 6.804px;fill: rgb(29%,44%,69%); stroke:none;" transform="translate(0,440) scale(1,-1)">TM6</text>
+			<circle cx="46.472088841534564" cy="262.92751048921923" r="10.5" style="stroke: rgb(29%,44%,69%); stroke-linecap: butt; stroke-width: 2.1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="39.66808884153456" y="260.7275104892192" style="font-family: Helvetica-Bold; font-size: 6.804px;fill: rgb(29%,44%,69%); stroke:none;" transform="translate(0,521) scale(1,-1)">TM7</text>
+			<text x="117.364972" y="291" style="font-family: Helvetica-Bold; font-size: 5.832000000000001px;fill: rgb(16%,61%,56%); stroke:none;" transform="translate(0,582) scale(1,-1)">TM1-TM2</text>
+			<text x="137.364972" y="247" style="font-family: Helvetica-Bold; font-size: 5.832000000000001px;fill: rgb(16%,61%,56%); stroke:none;" transform="translate(0,494) scale(1,-1)">TM2-TM3</text>
+			<text x="123.364972" y="188" style="font-family: Helvetica-Bold; font-size: 5.832000000000001px;fill: rgb(16%,61%,56%); stroke:none;" transform="translate(0,376) scale(1,-1)">TM3-TM4</text>
+			<text x="71.364972" y="166" style="font-family: Helvetica-Bold; font-size: 5.832000000000001px;fill: rgb(16%,61%,56%); stroke:none;" transform="translate(0,332) scale(1,-1)">TM4-TM5</text>
+			<text x="18.364971999999998" y="188" style="font-family: Helvetica-Bold; font-size: 5.832000000000001px;fill: rgb(16%,61%,56%); stroke:none;" transform="translate(0,376) scale(1,-1)">TM5-TM6</text>
+			<text x="4.364971999999998" y="247" style="font-family: Helvetica-Bold; font-size: 5.832000000000001px;fill: rgb(16%,61%,56%); stroke:none;" transform="translate(0,494) scale(1,-1)">TM6-TM7</text>
+			<text x="25.364971999999998" y="291" style="font-family: Helvetica-Bold; font-size: 5.832000000000001px;fill: rgb(16%,61%,56%); stroke:none;" transform="translate(0,582) scale(1,-1)">TM7-TM1</text>
+			<rect x="12" y="106" width="149" height="40" rx="4" ry="4" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(91%,94%,97%); fill-rule: evenodd;"/>
+			<text x="20" y="132" style="font-family: Helvetica-Bold; font-size: 6.912000000000001px;fill: rgb(12%,14%,16%); stroke:none;" transform="translate(0,264) scale(1,-1)">One record per neighboring helix pair</text>
+			<text x="20" y="120" style="font-family: Helvetica; font-size: 7.0200000000000005px;fill: rgb(41%,44%,49%); stroke:none;" transform="translate(0,240) scale(1,-1)">7 interfaces x 4 reported metrics</text>
+			<text x="19" y="85" style="font-family: Helvetica-Bold; font-size: 7.0200000000000005px;fill: rgb(29%,44%,69%); stroke:none;" transform="translate(0,170) scale(1,-1)">Identity contract</text>
+			<path d="M 19,79 L 154,79 Z" style="stroke: rgb(86%,89%,90%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="19" y="66" style="font-family: Helvetica; font-size: 6.696000000000001px;fill: rgb(12%,14%,16%); stroke:none;" transform="translate(0,132) scale(1,-1)">Same interface keys in every included system</text>
+			<text x="19" y="53" style="font-family: Helvetica; font-size: 6.696000000000001px;fill: rgb(12%,14%,16%); stroke:none;" transform="translate(0,106) scale(1,-1)">Missing record: null + reason code</text>
+			<text x="19" y="40" style="font-family: Helvetica-Bold; font-size: 6.696000000000001px;fill: rgb(76%,30%,32%); stroke:none;" transform="translate(0,80) scale(1,-1)">Never substitute a numerical zero</text>
+			<text x="174" y="340" style="font-family: Helvetica-Bold; font-size: 12.420000000000002px;fill: rgb(12%,14%,16%); stroke:none;" transform="translate(0,680) scale(1,-1)">B</text>
+			<text x="191" y="340" style="font-family: Helvetica-Bold; font-size: 9.504000000000001px;fill: rgb(12%,14%,16%); stroke:none;" transform="translate(0,680) scale(1,-1)">Frame-level classification</text>
+			<text x="191" y="327" style="font-family: Helvetica; font-size: 6.696000000000001px;fill: rgb(41%,44%,49%); stroke:none;" transform="translate(0,654) scale(1,-1)">Two decisions are applied to each sampled frame</text>
+			<text x="176.538032" y="305" style="font-family: Helvetica-Bold; font-size: 8.856px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,610) scale(1,-1)">1</text>
+			<circle cx="179" cy="307.5" r="7" style="stroke: rgb(16%,61%,56%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(16%,61%,56%); fill-rule: evenodd;"/>
+			<text x="191" y="305" style="font-family: Helvetica-Bold; font-size: 7.5600000000000005px;fill: rgb(16%,61%,56%); stroke:none;" transform="translate(0,610) scale(1,-1)">WEDGED LIPID ATOM</text>
+			<rect x="187" y="239" width="150" height="46" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(91%,95%,92%); fill-rule: evenodd;"/>
+			<text x="235.833922" y="278" style="font-family: Helvetica-Bold; font-size: 6.156000000000001px;fill: rgb(33%,65%,40%); stroke:none;" transform="translate(0,556) scale(1,-1)">central TM z-band</text>
+			<text x="236.22839199999999" y="243" style="font-family: Helvetica; font-size: 5.832000000000001px;fill: rgb(33%,65%,40%); stroke:none;" transform="translate(0,486) scale(1,-1)">25th-75th percentile</text>
+			<rect x="198" y="218" width="22" height="81" rx="10" ry="10" style="stroke: rgb(29%,44%,69%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="306" y="218" width="22" height="81" rx="10" ry="10" style="stroke: rgb(29%,44%,69%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="200.42696" y="209" style="font-family: Helvetica-Bold; font-size: 6.048px;fill: rgb(29%,44%,69%); stroke:none;" transform="translate(0,418) scale(1,-1)">helix i</text>
+			<text x="304.9796" y="209" style="font-family: Helvetica-Bold; font-size: 6.048px;fill: rgb(29%,44%,69%); stroke:none;" transform="translate(0,418) scale(1,-1)">helix i+1</text>
+			<circle cx="264" cy="260" r="4.2" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(87%,47%,24%); fill-rule: evenodd;"/>
+			<path d="M 220,260 L 259,260 Z" style="stroke: rgb(16%,61%,56%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<polygon points="259 260, 256.8 261.21, 256.8 258.79" style="stroke: rgb(16%,61%,56%); stroke-linecap: butt; stroke-width: 0.2; fill: rgb(16%,61%,56%); fill-rule: evenodd;"/>
+			<path d="M 259,260 L 220,260 Z" style="stroke: rgb(16%,61%,56%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<polygon points="220 260, 222.2 258.79, 222.2 261.21" style="stroke: rgb(16%,61%,56%); stroke-linecap: butt; stroke-width: 0.2; fill: rgb(16%,61%,56%); fill-rule: evenodd;"/>
+			<path d="M 269,260 L 306,260 Z" style="stroke: rgb(16%,61%,56%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<polygon points="306 260, 303.8 261.21, 303.8 258.79" style="stroke: rgb(16%,61%,56%); stroke-linecap: butt; stroke-width: 0.2; fill: rgb(16%,61%,56%); fill-rule: evenodd;"/>
+			<path d="M 306,260 L 269,260 Z" style="stroke: rgb(16%,61%,56%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<polygon points="269 260, 271.2 258.79, 271.2 261.21" style="stroke: rgb(16%,61%,56%); stroke-linecap: butt; stroke-width: 0.2; fill: rgb(16%,61%,56%); fill-rule: evenodd;"/>
+			<text x="231.649008" y="264" style="font-family: Helvetica-Bold; font-size: 5.6160000000000005px;fill: rgb(16%,61%,56%); stroke:none;" transform="translate(0,528) scale(1,-1)">&lt;5.0 Å</text>
+			<text x="276.649008" y="264" style="font-family: Helvetica-Bold; font-size: 5.6160000000000005px;fill: rgb(16%,61%,56%); stroke:none;" transform="translate(0,528) scale(1,-1)">&lt;5.0 Å</text>
+			<circle cx="264" cy="300" r="3.5" style="stroke: rgb(41%,44%,49%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(93%,94%,95%); fill-rule: evenodd;"/>
+			<text x="270" y="298.5" style="font-family: Helvetica; font-size: 5.6160000000000005px;fill: rgb(41%,44%,49%); stroke:none;" transform="translate(0,597) scale(1,-1)">outside z-band</text>
+			<rect x="191" y="176" width="147" height="24" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(90%,96%,94%); fill-rule: evenodd;"/>
+			<text x="213.49164" y="190" style="font-family: Helvetica-Bold; font-size: 6.48px;fill: rgb(12%,14%,16%); stroke:none;" transform="translate(0,380) scale(1,-1)">distance to BOTH helices &lt; 5.0 Å</text>
+			<text x="204.335778" y="181" style="font-family: Helvetica-Bold; font-size: 6.372000000000001px;fill: rgb(12%,14%,16%); stroke:none;" transform="translate(0,362) scale(1,-1)">AND atom z lies inside the central band</text>
+			<path d="M 182,165 L 348,165 Z" style="stroke: rgb(86%,89%,90%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="176.538032" y="146" style="font-family: Helvetica-Bold; font-size: 8.856px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,292) scale(1,-1)">2</text>
+			<circle cx="179" cy="148.5" r="7" style="stroke: rgb(87%,47%,24%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(87%,47%,24%); fill-rule: evenodd;"/>
+			<text x="191" y="146" style="font-family: Helvetica-Bold; font-size: 7.5600000000000005px;fill: rgb(87%,47%,24%); stroke:none;" transform="translate(0,292) scale(1,-1)">OPEN FRAME</text>
+			<path d="M 321,131 L 321,74 Z" style="stroke: rgb(87%,47%,24%); stroke-linecap: butt; stroke-width: 1.3; stroke-dasharray: 3, 2;"/>
+			<text x="236.608744" y="136" style="font-family: Helvetica-Bold; font-size: 5.724px;fill: rgb(87%,47%,24%); stroke:none;" transform="translate(0,272) scale(1,-1)">nearest helix-pair C-alpha wall</text>
+			<circle cx="259" cy="102" r="8" style="stroke: rgb(29%,44%,69%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,97%); fill-rule: evenodd;"/>
+			<text x="253.525696" y="100" style="font-family: Helvetica-Bold; font-size: 5.184px;fill: rgb(29%,44%,69%); stroke:none;" transform="translate(0,200) scale(1,-1)">core</text>
+			<circle cx="306" cy="115" r="3.4" style="stroke: rgb(41%,44%,49%); stroke-linecap: butt; stroke-width: 0.6; fill: rgb(93%,94%,95%); fill-rule: evenodd;"/>
+			<circle cx="293" cy="92" r="3.4" style="stroke: rgb(41%,44%,49%); stroke-linecap: butt; stroke-width: 0.6; fill: rgb(93%,94%,95%); fill-rule: evenodd;"/>
+			<circle cx="276" cy="105" r="3.4" style="stroke: rgb(41%,44%,49%); stroke-linecap: butt; stroke-width: 0.6; fill: rgb(93%,94%,95%); fill-rule: evenodd;"/>
+			<circle cx="276" cy="105" r="4.1" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(76%,30%,32%); fill-rule: evenodd;"/>
+			<path d="M 281,105 L 320,105 Z" style="stroke: rgb(76%,30%,32%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="320 105, 317.5 106.375, 317.5 103.625" style="stroke: rgb(76%,30%,32%); stroke-linecap: butt; stroke-width: 0.2; fill: rgb(76%,30%,32%); fill-rule: evenodd;"/>
+			<path d="M 320,105 L 281,105 Z" style="stroke: rgb(76%,30%,32%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="281 105, 283.5 103.625, 283.5 106.375" style="stroke: rgb(76%,30%,32%); stroke-linecap: butt; stroke-width: 0.2; fill: rgb(76%,30%,32%); fill-rule: evenodd;"/>
+			<text x="292.28763968" y="110" style="font-family: Helvetica-Bold; font-size: 6.048px;fill: rgb(76%,30%,32%); stroke:none;" transform="translate(0,220) scale(1,-1)"></text>
+			<text x="292.28763968" y="110" style="font-family: Helvetica-Bold; font-size: 6.048px;fill: rgb(76%,30%,32%); stroke:none;" transform="translate(0,220) scale(1,-1)">p</text>
+			<text x="295.98296768" y="108.60896" style="font-family: Helvetica-Bold; font-size: 4.11264px;fill: rgb(76%,30%,32%); stroke:none;" transform="translate(0,217) scale(1,-1)">max</text>
+			<text x="304.71236032" y="110" style="font-family: Helvetica-Bold; font-size: 6.048px;fill: rgb(76%,30%,32%); stroke:none;" transform="translate(0,220) scale(1,-1)"></text>
+			<text x="191" y="121" style="font-family: Helvetica; font-size: 5.832000000000001px;fill: rgb(41%,44%,49%); stroke:none;" transform="translate(0,242) scale(1,-1)">wedged atoms</text>
+			<path d="M 235,123 L 290,114 Z" style="stroke: rgb(41%,44%,49%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<polygon points="290 114, 288.2039 115.4085, 287.8486 113.2374" style="stroke: rgb(41%,44%,49%); stroke-linecap: butt; stroke-width: 0.2; fill: rgb(41%,44%,49%); fill-rule: evenodd;"/>
+			<text x="217.29660368" y="73" style="font-family: Helvetica; font-size: 5.832000000000001px;fill: rgb(41%,44%,49%); stroke:none;" transform="translate(0,146) scale(1,-1)"></text>
+			<text x="217.29660368" y="73" style="font-family: Helvetica; font-size: 5.832000000000001px;fill: rgb(41%,44%,49%); stroke:none;" transform="translate(0,146) scale(1,-1)">p</text>
+			<text x="220.53919568" y="71.65863999999999" style="font-family: Helvetica; font-size: 3.965760000000001px;fill: rgb(41%,44%,49%); stroke:none;" transform="translate(0,143) scale(1,-1)">max</text>
+			<text x="228.53051632" y="73" style="font-family: Helvetica; font-size: 5.832000000000001px;fill: rgb(41%,44%,49%); stroke:none;" transform="translate(0,146) scale(1,-1)"> = deepest inward displacement</text>
+			<rect x="191" y="36" width="147" height="28" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(98%,94%,90%); fill-rule: evenodd;"/>
+			<text x="240.7461296" y="53" style="font-family: Helvetica-Bold; font-size: 7.5600000000000005px;fill: rgb(76%,30%,32%); stroke:none;" transform="translate(0,106) scale(1,-1)"></text>
+			<text x="240.7461296" y="53" style="font-family: Helvetica-Bold; font-size: 7.5600000000000005px;fill: rgb(76%,30%,32%); stroke:none;" transform="translate(0,106) scale(1,-1)">p</text>
+			<text x="245.36528959999998" y="51.261199999999974" style="font-family: Helvetica-Bold; font-size: 5.140800000000001px;fill: rgb(76%,30%,32%); stroke:none;" transform="translate(0,102) scale(1,-1)">max</text>
+			<text x="256.15203039999994" y="53" style="font-family: Helvetica-Bold; font-size: 7.5600000000000005px;fill: rgb(76%,30%,32%); stroke:none;" transform="translate(0,106) scale(1,-1)"> &gt;= 0.5 Å</text>
+			<text x="223.619772" y="43" style="font-family: Helvetica-Bold; font-size: 6.696000000000001px;fill: rgb(12%,14%,16%); stroke:none;" transform="translate(0,86) scale(1,-1)">frame classified as OPEN</text>
+			<text x="363" y="340" style="font-family: Helvetica-Bold; font-size: 12.420000000000002px;fill: rgb(12%,14%,16%); stroke:none;" transform="translate(0,680) scale(1,-1)">C</text>
+			<text x="380" y="340" style="font-family: Helvetica-Bold; font-size: 9.504000000000001px;fill: rgb(12%,14%,16%); stroke:none;" transform="translate(0,680) scale(1,-1)">Replica aggregation</text>
+			<text x="380" y="327" style="font-family: Helvetica; font-size: 6.696000000000001px;fill: rgb(41%,44%,49%); stroke:none;" transform="translate(0,654) scale(1,-1)">Frames -&gt; 3 replicas -&gt; system record</text>
+			<text x="370" y="305" style="font-family: Helvetica; font-size: 6.048px;fill: rgb(41%,44%,49%); stroke:none;" transform="translate(0,610) scale(1,-1)">sampled frames</text>
+			<text x="469.734656" y="305" style="font-family: Helvetica; font-size: 6.048px;fill: rgb(41%,44%,49%); stroke:none;" transform="translate(0,610) scale(1,-1)">4 metrics</text>
+			<text x="372" y="282" style="font-family: Helvetica-Bold; font-size: 6.696000000000001px;fill: rgb(29%,44%,69%); stroke:none;" transform="translate(0,564) scale(1,-1)">rep 1</text>
+			<rect x="407.0" y="280" width="5.0" height="10" rx="1" ry="1" style="stroke: rgb(41%,44%,49%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(93%,94%,95%); fill-rule: evenodd;"/>
+			<rect x="414.0" y="280" width="5.0" height="10" rx="1" ry="1" style="stroke: rgb(76%,30%,32%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(76%,30%,32%); fill-rule: evenodd;"/>
+			<rect x="421.0" y="280" width="5.0" height="10" rx="1" ry="1" style="stroke: rgb(41%,44%,49%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(93%,94%,95%); fill-rule: evenodd;"/>
+			<rect x="428.0" y="280" width="5.0" height="10" rx="1" ry="1" style="stroke: rgb(41%,44%,49%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(93%,94%,95%); fill-rule: evenodd;"/>
+			<rect x="435.0" y="280" width="5.0" height="10" rx="1" ry="1" style="stroke: rgb(76%,30%,32%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(76%,30%,32%); fill-rule: evenodd;"/>
+			<rect x="442.0" y="280" width="5.0" height="10" rx="1" ry="1" style="stroke: rgb(76%,30%,32%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(76%,30%,32%); fill-rule: evenodd;"/>
+			<path d="M 453,285 L 464,285 Z" style="stroke: rgb(41%,44%,49%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<polygon points="464 285, 461.8 286.21, 461.8 283.79" style="stroke: rgb(41%,44%,49%); stroke-linecap: butt; stroke-width: 0.2; fill: rgb(41%,44%,49%); fill-rule: evenodd;"/>
+			<rect x="466" y="277" width="34" height="16" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(29%,44%,69%); fill-rule: evenodd;"/>
+			<text x="470.515632" y="283" style="font-family: Helvetica-Bold; font-size: 5.6160000000000005px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,566) scale(1,-1)">summary</text>
+			<text x="372" y="251" style="font-family: Helvetica-Bold; font-size: 6.696000000000001px;fill: rgb(33%,65%,40%); stroke:none;" transform="translate(0,502) scale(1,-1)">rep 2</text>
+			<rect x="407.0" y="249" width="5.0" height="10" rx="1" ry="1" style="stroke: rgb(41%,44%,49%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(93%,94%,95%); fill-rule: evenodd;"/>
+			<rect x="414.0" y="249" width="5.0" height="10" rx="1" ry="1" style="stroke: rgb(41%,44%,49%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(93%,94%,95%); fill-rule: evenodd;"/>
+			<rect x="421.0" y="249" width="5.0" height="10" rx="1" ry="1" style="stroke: rgb(76%,30%,32%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(76%,30%,32%); fill-rule: evenodd;"/>
+			<rect x="428.0" y="249" width="5.0" height="10" rx="1" ry="1" style="stroke: rgb(41%,44%,49%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(93%,94%,95%); fill-rule: evenodd;"/>
+			<rect x="435.0" y="249" width="5.0" height="10" rx="1" ry="1" style="stroke: rgb(76%,30%,32%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(76%,30%,32%); fill-rule: evenodd;"/>
+			<rect x="442.0" y="249" width="5.0" height="10" rx="1" ry="1" style="stroke: rgb(41%,44%,49%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(93%,94%,95%); fill-rule: evenodd;"/>
+			<path d="M 453,254 L 464,254 Z" style="stroke: rgb(41%,44%,49%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<polygon points="464 254, 461.8 255.21, 461.8 252.79" style="stroke: rgb(41%,44%,49%); stroke-linecap: butt; stroke-width: 0.2; fill: rgb(41%,44%,49%); fill-rule: evenodd;"/>
+			<rect x="466" y="246" width="34" height="16" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(33%,65%,40%); fill-rule: evenodd;"/>
+			<text x="470.515632" y="252" style="font-family: Helvetica-Bold; font-size: 5.6160000000000005px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,504) scale(1,-1)">summary</text>
+			<text x="372" y="220" style="font-family: Helvetica-Bold; font-size: 6.696000000000001px;fill: rgb(50%,44%,69%); stroke:none;" transform="translate(0,440) scale(1,-1)">rep 3</text>
+			<rect x="407.0" y="218" width="5.0" height="10" rx="1" ry="1" style="stroke: rgb(76%,30%,32%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(76%,30%,32%); fill-rule: evenodd;"/>
+			<rect x="414.0" y="218" width="5.0" height="10" rx="1" ry="1" style="stroke: rgb(41%,44%,49%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(93%,94%,95%); fill-rule: evenodd;"/>
+			<rect x="421.0" y="218" width="5.0" height="10" rx="1" ry="1" style="stroke: rgb(76%,30%,32%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(76%,30%,32%); fill-rule: evenodd;"/>
+			<rect x="428.0" y="218" width="5.0" height="10" rx="1" ry="1" style="stroke: rgb(76%,30%,32%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(76%,30%,32%); fill-rule: evenodd;"/>
+			<rect x="435.0" y="218" width="5.0" height="10" rx="1" ry="1" style="stroke: rgb(41%,44%,49%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(93%,94%,95%); fill-rule: evenodd;"/>
+			<rect x="442.0" y="218" width="5.0" height="10" rx="1" ry="1" style="stroke: rgb(41%,44%,49%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(93%,94%,95%); fill-rule: evenodd;"/>
+			<path d="M 453,223 L 464,223 Z" style="stroke: rgb(41%,44%,49%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<polygon points="464 223, 461.8 224.21, 461.8 221.79" style="stroke: rgb(41%,44%,49%); stroke-linecap: butt; stroke-width: 0.2; fill: rgb(41%,44%,49%); fill-rule: evenodd;"/>
+			<rect x="466" y="215" width="34" height="16" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(50%,44%,69%); fill-rule: evenodd;"/>
+			<text x="470.515632" y="221" style="font-family: Helvetica-Bold; font-size: 5.6160000000000005px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,442) scale(1,-1)">summary</text>
+			<text x="415" y="207" style="font-family: Helvetica; font-size: 5.508px;fill: rgb(41%,44%,49%); stroke:none;" transform="translate(0,414) scale(1,-1)">closed</text>
+			<rect x="405" y="205" width="5" height="7" rx="1" ry="1" style="stroke: rgb(41%,44%,49%); stroke-linecap: butt; stroke-width: 0.4; fill: rgb(93%,94%,95%); fill-rule: evenodd;"/>
+			<text x="456" y="207" style="font-family: Helvetica; font-size: 5.508px;fill: rgb(41%,44%,49%); stroke:none;" transform="translate(0,414) scale(1,-1)">open</text>
+			<rect x="446" y="205" width="5" height="7" rx="1" ry="1" style="stroke: rgb(76%,30%,32%); stroke-linecap: butt; stroke-width: 0.4; fill: rgb(76%,30%,32%); fill-rule: evenodd;"/>
+			<path d="M 498,285 L 503,285 Z" style="stroke: rgb(86%,89%,90%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 498,254 L 503,254 Z" style="stroke: rgb(86%,89%,90%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 498,223 L 503,223 Z" style="stroke: rgb(86%,89%,90%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 503,285 L 503,188 Z" style="stroke: rgb(86%,89%,90%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 503,188 L 433,188 Z" style="stroke: rgb(86%,89%,90%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 433,188 L 433,175 Z" style="stroke: rgb(41%,44%,49%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<polygon points="433 175, 434.375 177.5, 431.625 177.5" style="stroke: rgb(41%,44%,49%); stroke-linecap: butt; stroke-width: 0.2; fill: rgb(41%,44%,49%); fill-rule: evenodd;"/>
+			<rect x="373" y="137" width="124" height="36" rx="4" ry="4" style="stroke: rgb(29%,44%,69%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(91%,94%,97%); fill-rule: evenodd;"/>
+			<text x="375.847536" y="161" style="font-family: Helvetica-Bold; font-size: 6.696000000000001px;fill: rgb(29%,44%,69%); stroke:none;" transform="translate(0,322) scale(1,-1)">SYSTEM-LEVEL GATEWAY RECORD</text>
+			<text x="384.76056" y="149" style="font-family: Helvetica-Bold; font-size: 6.48px;fill: rgb(12%,14%,16%); stroke:none;" transform="translate(0,298) scale(1,-1)">mean of the 3 replica summaries</text>
+			<text x="398.048448" y="140" style="font-family: Helvetica; font-size: 5.832000000000001px;fill: rgb(41%,44%,49%); stroke:none;" transform="translate(0,280) scale(1,-1)">for each interface and metric</text>
+			<path d="M 435,136 L 435,125 Z" style="stroke: rgb(41%,44%,49%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<polygon points="435 125, 436.375 127.5, 433.625 127.5" style="stroke: rgb(41%,44%,49%); stroke-linecap: butt; stroke-width: 0.2; fill: rgb(41%,44%,49%); fill-rule: evenodd;"/>
+			<rect x="382" y="96" width="106" height="27" rx="4" ry="4" style="stroke: rgb(50%,44%,69%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(94%,92%,96%); fill-rule: evenodd;"/>
+			<text x="399.0927" y="112" style="font-family: Helvetica-Bold; font-size: 6.696000000000001px;fill: rgb(50%,44%,69%); stroke:none;" transform="translate(0,224) scale(1,-1)">95% bootstrap interval</text>
+			<text x="398.532504" y="102" style="font-family: Helvetica; font-size: 5.832000000000001px;fill: rgb(41%,44%,49%); stroke:none;" transform="translate(0,204) scale(1,-1)">1,000 resamples; fixed seed</text>
+			<rect x="366" y="56" width="64" height="30" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(98%,94%,90%); fill-rule: evenodd;"/>
+			<text x="371" y="75" style="font-family: Helvetica-Bold; font-size: 6.156000000000001px;fill: rgb(12%,14%,16%); stroke:none;" transform="translate(0,150) scale(1,-1)">penetration</text>
+			<text x="371" y="64" style="font-family: Helvetica; font-size: 5.4px;fill: rgb(41%,44%,49%); stroke:none;" transform="translate(0,128) scale(1,-1)">mean </text>
+			<text x="386.0066" y="64" style="font-family: Helvetica; font-size: 5.4px;fill: rgb(41%,44%,49%); stroke:none;" transform="translate(0,128) scale(1,-1)">p</text>
+			<text x="389.009" y="62.75799999999998" style="font-family: Helvetica; font-size: 3.6720000000000006px;fill: rgb(41%,44%,49%); stroke:none;" transform="translate(0,125) scale(1,-1)">max</text>
+			<text x="396.44540800000004" y="64" style="font-family: Helvetica; font-size: 5.4px;fill: rgb(41%,44%,49%); stroke:none;" transform="translate(0,128) scale(1,-1)"> (Å)</text>
+			<rect x="435" y="56" width="64" height="30" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(98%,94%,90%); fill-rule: evenodd;"/>
+			<text x="440" y="75" style="font-family: Helvetica-Bold; font-size: 6.156000000000001px;fill: rgb(12%,14%,16%); stroke:none;" transform="translate(0,150) scale(1,-1)">penetration_p90</text>
+			<text x="440" y="64" style="font-family: Helvetica; font-size: 5.4px;fill: rgb(41%,44%,49%); stroke:none;" transform="translate(0,128) scale(1,-1)">90th percentile (Å)</text>
+			<rect x="366" y="21" width="64" height="30" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(90%,96%,94%); fill-rule: evenodd;"/>
+			<text x="371" y="40" style="font-family: Helvetica-Bold; font-size: 6.156000000000001px;fill: rgb(12%,14%,16%); stroke:none;" transform="translate(0,80) scale(1,-1)">open_fraction</text>
+			<text x="371" y="29" style="font-family: Helvetica; font-size: 5.4px;fill: rgb(41%,44%,49%); stroke:none;" transform="translate(0,58) scale(1,-1)">open frames / all frames</text>
+			<rect x="435" y="21" width="64" height="30" rx="3" ry="3" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: rgb(91%,95%,92%); fill-rule: evenodd;"/>
+			<text x="440" y="40" style="font-family: Helvetica-Bold; font-size: 6.156000000000001px;fill: rgb(12%,14%,16%); stroke:none;" transform="translate(0,80) scale(1,-1)">occupancy</text>
+			<text x="440" y="29" style="font-family: Helvetica; font-size: 5.4px;fill: rgb(41%,44%,49%); stroke:none;" transform="translate(0,58) scale(1,-1)">wedged atoms / frame</text>
+		</g>
+	</g>
+</svg>

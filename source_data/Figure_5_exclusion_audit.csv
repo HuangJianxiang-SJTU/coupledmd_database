@@ -1,0 +1,4 @@
+system_id,replica,g_protein_family,g_protein_family_label,identity_status,validation_status,reason_code,figure5_exclusion_reason
+Gs_8HTI,1,Gs,Gs,distinct,unavailable,no_canonical_receptor_accession,canonical receptor mapping unavailable for this calculation
+Gs_8HTI,2,Gs,Gs,distinct,unavailable,no_canonical_receptor_accession,canonical receptor mapping unavailable for this calculation
+Gs_8HTI,3,Gs,Gs,distinct,unavailable,no_canonical_receptor_accession,canonical receptor mapping unavailable for this calculation

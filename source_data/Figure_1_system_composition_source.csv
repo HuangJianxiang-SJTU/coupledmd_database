@@ -1,0 +1,208 @@
+system_id,pdb_id,receptor_name,receptor_uniprot,gpcr_class,g_protein_family,g_protein_family_label,structural_provenance
+Gi_6CMO,6CMO,Rhodopsin,P08100,A,Gi,Gi/o,engineered_uncertain
+Gi_6D9H,6D9H,Muscarinic acetylcholine receptor M4,P08173,A,Gi,Gi/o,engineered_uncertain
+Gi_6G79,6G79,5-hydroxytryptamine receptor 1B,P28222,A,Gi,Gi/o,experimental
+Gi_6K42,6K42,Alpha-2A adrenergic receptor,P08913,A,Gi,Gi/o,experimental
+Gi_6LFO,6LFO,C-X-C chemokine receptor type 2,P25025,A,Gi,Gi/o,experimental
+Gi_6LML,6LML,Glucagon receptor,P47871,B,Gi,Gi/o,experimental
+Gi_6OSA,6OSA,Neurotensin receptor type 1,P30989,A,Gi,Gi/o,experimental
+Gi_6PT0,6PT0,Cannabinoid receptor 2,P34972,A,Gi,Gi/o,experimental
+Gi_6WWZ,6WWZ,C-C chemokine receptor type 6,P51684,A,Gi,Gi/o,experimental
+Gi_7CMV,7CMV,D(3) dopamine receptor,P35462,A,Gi,Gi/o,experimental
+Gi_7D77,7D77,Adhesion G protein-coupled receptor G3,Q86Y34,B,Gi,Gi/o,engineered_uncertain
+Gi_7E2X,7E2X,5-hydroxytryptamine receptor 1A,P08908,A,Gi,Gi/o,experimental
+Gi_7E32,7E32,5-hydroxytryptamine receptor 1D,P28221,A,Gi,Gi/o,experimental
+Gi_7E33,7E33,5-hydroxytryptamine receptor 1E,P28566,A,Gi,Gi/o,experimental
+Gi_7EJX,7EJX,G protein-coupled receptor 88,Q9GZN0,A,Gi,Gi/o,experimental
+Gi_7EW1,7EW1,Sphingosine 1-phosphate receptor 5,Q9H228,A,Gi,Gi/o,experimental
+Gi_7EW4,7EW4,Sphingosine 1-phosphate receptor 3,Q99500,A,Gi,Gi/o,experimental
+Gi_7EXD,7EXD,5-hydroxytryptamine receptor 1F,P30939,A,Gi,Gi/o,experimental
+Gi_7EZH,7EZH,Cholecystokinin receptor type A,P32238,A,Gi,Gi/o,experimental
+Gi_7F1Q,7F1Q,C-C chemokine receptor type 5,P51681,A,Gi,Gi/o,experimental
+Gi_7F8V,7F8V,Gastrin/cholecystokinin type B receptor,P32239,A,Gi,Gi/o,experimental
+Gi_7NA7,7NA7,Growth hormone secretagogue receptor type 1,Q92847,A,Gi,Gi/o,experimental
+Gi_7QVM,7QVM,Oxytocin receptor,P30559,A,Gi,Gi/o,experimental
+Gi_7SQO,7SQO,Orexin receptor type 2,O43614,A,Gi,Gi/o,experimental
+Gi_7T10,7T10,Somatostatin receptor type 2,P30874,A,Gi,Gi/o,experimental
+Gi_7T96,7T96,Muscarinic acetylcholine receptor M2,P08172,A,Gi,Gi/o,experimental
+Gi_7TS0,7TS0,Corticotropin-releasing factor receptor 2,Q13324,B,Gi,Gi/o,experimental
+Gi_7TUZ,7TUZ,G-protein coupled receptor 183,P32249,A,Gi,Gi/o,experimental
+Gi_7VDL,7VDL,Mas-related G-protein coupled receptor member X2,Q96LB1,A,Gi,Gi/o,experimental
+Gi_7VGZ,7VGZ,Melatonin receptor type 1A,P48039,A,Gi,Gi/o,experimental
+Gi_7VH0,7VH0,Melatonin receptor type 1B,P49286,A,Gi,Gi/o,experimental
+Gi_7VIF,7VIF,Sphingosine 1-phosphate receptor 1,P21453,A,Gi,Gi/o,experimental
+Gi_7VKT,7VKT,Leukotriene B4 receptor 1,Q15722,A,Gi,Gi/o,experimental
+Gi_7VL9,7VL9,C-C chemokine receptor type 1,P32246,A,Gi,Gi/o,experimental
+Gi_7W0N,7W0N,Apelin receptor,P35414,A,Gi,Gi/o,experimental
+Gi_7W6P,7W6P,Alpha-2A adrenergic receptor,P08913,A,Gi,Gi/o,experimental
+Gi_7WQ3,7WQ3,Galanin receptor type 1,P47211,A,Gi,Gi/o,experimental
+Gi_7WU9,7WU9,Prostaglandin E2 receptor EP3 subtype,P43115,A,Gi,Gi/o,experimental
+Gi_7WV9,7WV9,Cannabinoid receptor 1,P21554,A,Gi,Gi/o,experimental
+Gi_7WVU,7WVU,N-formyl peptide receptor 1,P21462,A,Gi,Gi/o,experimental
+Gi_7WVX,7WVX,N-formyl peptide receptor 2,P25090,A,Gi,Gi/o,experimental
+Gi_7X5H,7X5H,5-hydroxytryptamine receptor 5A,P47898,A,Gi,Gi/o,experimental
+Gi_7X9A,7X9A,Neuropeptide Y receptor type 1,P25929,A,Gi,Gi/o,experimental
+Gi_7X9C,7X9C,Neuropeptide Y receptor type 4,P50391,A,Gi,Gi/o,experimental
+Gi_7X9Y,7X9Y,C-C chemokine receptor type 3,P51677,A,Gi,Gi/o,experimental
+Gi_7XA3,7XA3,C-C chemokine receptor type 2,P41597,A,Gi,Gi/o,experimental
+Gi_7XBX,7XBX,CX3C chemokine receptor 1,P49238,A,Gi,Gi/o,experimental
+Gi_7XK2,7XK2,Hydroxycarboxylic acid receptor 2,Q8TDS4,A,Gi,Gi/o,experimental
+Gi_7XK8,7XK8,Neuromedin-U receptor 2,Q9GZQ4,A,Gi,Gi/o,experimental
+Gi_7XMS,7XMS,Somatostatin receptor type 4,P31391,A,Gi,Gi/o,experimental
+Gi_7XTA,7XTA,5-hydroxytryptamine receptor 4,Q13639,A,Gi,Gi/o,experimental
+Gi_7XXI,7XXI,P2Y purinoceptor 12,Q9H244,A,Gi,Gi/o,experimental
+Gi_7Y12,7Y12,Mas-related G-protein coupled receptor member D,Q8TDS7,A,Gi,Gi/o,experimental
+Gi_7Y89,7Y89,Uracil nucleotide/cysteinyl leukotriene receptor,Q13304,A,Gi,Gi/o,experimental
+Gi_7YK6,7YK6,Relaxin-3 receptor 2,Q8TDU9,A,Gi,Gi/o,experimental
+Gi_7YK7,7YK7,Relaxin-3 receptor 2,Q8TDU9,A,Gi,Gi/o,experimental
+Gi_7YKD,7YKD,Chemerin-like receptor 1,Q99788,A,Gi,Gi/o,experimental
+Gi_7YON,7YON,Neuropeptide Y receptor type 2,P49146,A,Gi,Gi/o,experimental
+Gi_7YU8,7YU8,Lysophosphatidic acid receptor 1,Q92633,A,Gi,Gi/o,experimental
+Gi_8DZQ,8DZQ,Kappa-type opioid receptor,P41145,A,Gi,Gi/o,experimental
+Gi_8EFO,8EFO,Mu-type opioid receptor,P35372,A,Gi,Gi/o,experimental
+Gi_8F7S,8F7S,Delta-type opioid receptor,P41143,A,Gi,Gi/o,experimental
+Gi_8HK2,8HK2,C3a anaphylatoxin chemotactic receptor,Q16581,A,Gi,Gi/o,experimental
+Gi_8HK5,8HK5,C5a anaphylatoxin chemotactic receptor 1,P21730,A,Gi,Gi/o,experimental
+Gi_8HQM,8HQM,Probable G-protein coupled receptor 132,Q9UNW8,A,Gi,Gi/o,experimental
+Gi_8HS3,8HS3,G-protein coupled receptor 20,Q99678,A,Gi,Gi/o,experimental
+Gi_8IC0,8IC0,C-X-C chemokine receptor type 1,P25024,A,Gi,Gi/o,experimental
+Gi_8ID9,8ID9,Free fatty acid receptor 4,Q5NUL3,A,Gi,Gi/o,experimental
+Gi_8IHJ,8IHJ,Hydroxycarboxylic acid receptor 3,P49019,A,Gi,Gi/o,experimental
+Gi_8IRU,8IRU,D(4) dopamine receptor,P21917,A,Gi,Gi/o,engineered_uncertain
+Gi_8IU2,8IU2,Long-wave-sensitive opsin 1,P04000,A,Gi,Gi/o,experimental
+Gi_8IY5,8IY5,Endothelin receptor type B,P24530,A,Gi,Gi/o,experimental
+Gi_8J18,8J18,G-protein coupled receptor 84,Q9NQS5,A,Gi,Gi/o,experimental
+Gi_8J21,8J21,Free fatty acid receptor 3,O14843,A,Gi,Gi/o,experimental
+Gi_8J6D,8J6D,C3a anaphylatoxin chemotactic receptor,Q16581,A,Gi,Gi/o,experimental
+Gi_8JZZ,8JZZ,C5a anaphylatoxin chemotactic receptor 1,P21730,A,Gi,Gi/o,experimental
+Gi_8K3Z,8K3Z,C-X-C chemokine receptor type 4,P61073,A,Gi,Gi/o,experimental
+Gi_8K6O,8K6O,Neuropeptide Y receptor type 1,P25929,A,Gi,Gi/o,experimental
+Gi_8KFX,8KFX,C-C chemokine receptor type 8,P51685,A,Gi,Gi/o,experimental
+Gi_8PJK,8PJK,5-hydroxytryptamine receptor 1A,P08908,A,Gi,Gi/o,experimental
+Gi_8UGY,8UGY,5-hydroxytryptamine receptor 1E,P28566,A,Gi,Gi/o,experimental
+Gi_8WWH,8WWH,Melanin-concentrating hormone receptor 1,Q99705,A,Gi,Gi/o,experimental
+Gi_8X8L,8X8L,Somatostatin receptor type 5,P35346,A,Gi,Gi/o,experimental
+Gi_8XGM,8XGM,Chemerin-like receptor 2,P46091,A,Gi,Gi/o,experimental
+Gi_8XIP,8XIP,Somatostatin receptor type 1,P30872,A,Gi,Gi/o,experimental
+Gi_8XIQ,8XIQ,Somatostatin receptor type 3,P32745,A,Gi,Gi/o,experimental
+Gi_8XXU,8XXU,Prostaglandin D2 receptor 2,Q9Y5Y4,A,Gi,Gi/o,experimental
+Gi_8XYD,8XYD,Platelet-activating factor receptor,P25105,A,Gi,Gi/o,experimental
+Gi_8XZI,8XZI,Apelin receptor,P35414,A,Gi,Gi/o,experimental
+Gi_8YIC,8YIC,Sphingosine 1-phosphate receptor 1,P21453,A,Gi,Gi/o,experimental
+Gi_8YNA,8YNA,Histamine H4 receptor,Q9H3N8,A,Gi,Gi/o,experimental
+Gi_8ZQE,8ZQE,G-protein coupled receptor 15,P49685,A,Gi,Gi/o,engineered_uncertain
+Gi_9AST,9AST,Chemokine XC receptor 1,P46094,A,Gi,Gi/o,experimental
+Gi_9IIX,9IIX,Taste receptor type 2 member 14,Q9NYV8,A,Gi,Gi/o,experimental
+Gi_9J5V,9J5V,Lysophosphatidic acid receptor 1,Q92633,A,Gi,Gi/o,experimental
+Gs_3SN6,3SN6,Beta-2 adrenergic receptor,P07550,A,Gs,Gs,experimental
+Gs_6GDG,6GDG,Adenosine receptor A2a,P29274,A,Gs,Gs,experimental
+Gs_6LI3,6LI3,G-protein coupled receptor 52,Q9Y2T5,A,Gs,Gs,experimental
+Gs_6NBI,6NBI,Parathyroid hormone/parathyroid hormone-related peptide receptor,Q03431,B,Gs,Gs,experimental
+Gs_6PB0,6PB0,Corticotropin-releasing factor receptor 1,P34998,B,Gs,Gs,experimental
+Gs_6PB1,6PB1,Corticotropin-releasing factor receptor 2,Q13324,B,Gs,Gs,experimental
+Gs_6UVA,6UVA,Calcitonin gene-related peptide type 1 receptor,Q16602,B,Gs,Gs,experimental
+Gs_6WZG,6WZG,Secretin receptor,P47872,B,Gs,Gs,experimental
+Gs_7CFN,7CFN,G-protein coupled bile acid receptor 1,Q8TDU6,A,Gs,Gs,experimental
+Gs_7CX2,7CX2,Prostaglandin E2 receptor EP2 subtype,P43116,A,Gs,Gs,experimental
+Gs_7D68,7D68,Glucagon-like peptide 2 receptor,O95838,B,Gs,Gs,experimental
+Gs_7D7M,7D7M,Prostaglandin E2 receptor EP4 subtype,P35408,A,Gs,Gs,experimental
+Gs_7DUQ,7DUQ,Glucagon-like peptide 1 receptor,P43220,B,Gs,Gs,experimental
+Gs_7EQ1,7EQ1,Adhesion G-protein coupled receptor G5,Q8IZF4,B,Gs,Gs,experimental
+Gs_7F16,7F16,Parathyroid hormone 2 receptor,P49190,B,Gs,Gs,experimental
+Gs_7F4H,7F4H,Melanocyte-stimulating hormone receptor,Q01726,A,Gs,Gs,experimental
+Gs_7F54,7F54,Melanocortin receptor 4,P32245,A,Gs,Gs,experimental
+Gs_7FIG,7FIG,Lutropin-choriogonadotropic hormone receptor,P22888,A,Gs,Gs,experimental
+Gs_7FIN,7FIN,Gastric inhibitory polypeptide receptor,P48546,B,Gs,Gs,experimental
+Gs_7JVQ,7JVQ,D(1A) dopamine receptor,P21728,A,Gs,Gs,experimental
+Gs_7KH0,7KH0,Vasopressin V2 receptor,P30518,A,Gs,Gs,experimental
+Gs_7L1V,7L1V,Orexin receptor type 2,O43614,A,Gs,Gs,experimental
+Gs_7MBX,7MBX,Cholecystokinin receptor type A,P32238,A,Gs,Gs,experimental
+Gs_7RMH,7RMH,Substance-P receptor,P25103,A,Gs,Gs,experimental
+Gs_7T9N,7T9N,Thyrotropin receptor,P16473,A,Gs,Gs,experimental
+Gs_7TMW,7TMW,Relaxin receptor 1,Q9HBX9,A,Gs,Gs,experimental
+Gs_7V9M,7V9M,GHRH receptor splice variant 1,Q9HB45,B,Gs,Gs,experimental
+Gs_7WBJ,7WBJ,Vasoactive intestinal polypeptide receptor 2,P41587,B,Gs,Gs,experimental
+Gs_7WU2,7WU2,Adhesion G-protein coupled receptor D1,Q6QNK2,B,Gs,Gs,experimental
+Gs_7WU3,7WU3,Adhesion G-protein coupled receptor F1,Q5T601,B,Gs,Gs,experimental
+Gs_7WUJ,7WUJ,Adhesion G-protein coupled receptor G4,Q8IZF6,B,Gs,Gs,experimental
+Gs_7XT8,7XT8,5-hydroxytryptamine receptor 4,Q13639,A,Gs,Gs,experimental
+Gs_7XTB,7XTB,5-hydroxytryptamine receptor 6,P50406,A,Gs,Gs,experimental
+Gs_7XTC,7XTC,5-hydroxytryptamine receptor 7,P34969,A,Gs,Gs,experimental
+Gs_7XV3,7XV3,Probable G-protein coupled receptor 174,Q9BXC1,A,Gs,Gs,experimental
+Gs_7XZ5,7XZ5,Glucose-dependent insulinotropic receptor,Q8TDV5,A,Gs,Gs,experimental
+Gs_7Y3G,7Y3G,G-protein coupled receptor 12,P47775,A,Gs,Gs,experimental
+Gs_8E3X,8E3X,Pituitary adenylate cyclase-activating polypeptide type I receptor,P41586,B,Gs,Gs,experimental
+Gs_8E3Y,8E3Y,Vasoactive intestinal polypeptide receptor 1,P32241,B,Gs,Gs,experimental
+Gs_8F0J,8F0J,Calcitonin receptor,P30988,B,Gs,Gs,experimental
+Gs_8F76,8F76,Olfactory receptor 51E2,Q9H255,A,Gs,Gs,experimental
+Gs_8FU6,8FU6,Glucagon receptor,P47871,B,Gs,Gs,experimental
+Gs_8H4I,8H4I,Free fatty acid receptor 4,Q5NUL3,A,Gs,Gs,experimental
+Gs_8HDP,8HDP,Adenosine receptor A2b,P29275,A,Gs,Gs,experimental
+Gs_8HJ1,8HJ1,Probable G-protein coupled receptor 21,Q99679,A,Gs,Gs,experimental
+Gs_8HJ2,8HJ2,Probable G-protein coupled receptor 21,Q99679,A,Gs,Gs,experimental
+Gs_8HTI,8HTI,Consensus Olfactory Receptor OR52c,,A,Gs,Gs,experimental
+Gs_8I2G,8I2G,Follicle-stimulating hormone receptor,P23945,A,Gs,Gs,engineered_uncertain
+Gs_8INR,8INR,Melanocortin receptor 5,P33032,A,Gs,Gs,experimental
+Gs_8IOC,8IOC,Melanocortin receptor 3,P41968,A,Gs,Gs,experimental
+Gs_8IRV,8IRV,D(1B) dopamine receptor,P21918,A,Gs,Gs,experimental
+Gs_8JPP,8JPP,Succinate receptor 1,Q9BXA5,A,Gs,Gs,experimental
+Gs_8KGK,8KGK,G-protein coupled receptor 61,Q9BZJ8,A,Gs,Gs,experimental
+Gs_8KH5,8KH5,Probable G-protein coupled receptor 174,Q9BXC1,A,Gs,Gs,experimental
+Gs_8SMV,8SMV,G-protein coupled receptor 161,Q8N6U8,A,Gs,Gs,experimental
+Gs_8U8F,8U8F,G-protein coupled receptor 3,P46089,A,Gs,Gs,experimental
+Gs_8W87,8W87,Trace amine-associated receptor 1,Q96RJ0,A,Gs,Gs,experimental
+Gs_8W8Q,8W8Q,Probable G-protein coupled receptor 101,Q96P66,A,Gs,Gs,experimental
+Gs_8WJX,8WJX,P2Y purinoceptor 1,P47900,A,Gs,Gs,experimental
+Gs_8X79,8X79,Prostacyclin receptor,P43119,A,Gs,Gs,experimental
+Gs_8XVI,8XVI,Endothelin-1 receptor,P25101,A,Gs,Gs,experimental
+Gs_8YN2,8YN2,Histamine H1 receptor,P35367,A,Gs,Gs,experimental
+Gs_8YUT,8YUT,Histamine H2 receptor,P25021,A,Gs,Gs,experimental
+Gs_8YUV,8YUV,Histamine H3 receptor,Q9Y5N1,A,Gs,Gs,experimental
+Gs_9BLC,9BLC,Calcitonin receptor,P30988,A,Gs,Gs,experimental
+Gq_6OIJ,6OIJ,Muscarinic acetylcholine receptor M1,P11229,A,Gq,Gq/11,experimental
+Gq_7DFL,7DFL,Histamine H1 receptor,P35367,A,Gq,Gq/11,experimental
+Gq_7EIB,7EIB,B1 bradykinin receptor,P46663,A,Gq,Gq/11,experimental
+Gq_7EZM,7EZM,Cholecystokinin receptor type A,P32238,A,Gq,Gq/11,engineered_uncertain
+Gq_7F2O,7F2O,B2 bradykinin receptor,P30411,A,Gq,Gq/11,experimental
+Gq_7F6G,7F6G,Angiotensin receptor AT1R,P30556,A,Gq,Gq/11,engineered_uncertain
+Gq_7F8W,7F8W,Gastrin/cholecystokinin type B receptor,P32239,A,Gq,Gq/11,experimental
+Gq_7P00,7P00,Substance-P receptor,P25103,A,Gq,Gq/11,experimental
+Gq_7RAN,7RAN,5-hydroxytryptamine receptor 2A,P28223,A,Gq,Gq/11,experimental
+Gq_7S8L,7S8L,Mas-related G-protein coupled receptor member X2,Q96LB1,A,Gq,Gq/11,experimental
+Gq_7S8P,7S8P,Mas-related G-protein coupled receptor member X4,Q96LA9,A,Gq,Gq/11,experimental
+Gq_7SR8,7SR8,Orexin receptor type 2,O43614,A,Gq,Gq/11,experimental
+Gq_7SRR,7SRR,5-hydroxytryptamine receptor 2B,P41595,A,Gq,Gq/11,experimental
+Gq_7TRY,7TRY,Corticotropin-releasing factor receptor 2,Q13324,B,Gq,Gq/11,experimental
+Gq_7W3Z,7W3Z,Gastrin-releasing peptide receptor,P30550,A,Gq,Gq/11,experimental
+Gq_7W53,7W53,Neuromedin-U receptor 1,Q9HB89,A,Gq,Gq/11,experimental
+Gq_7W55,7W55,Neuromedin-U receptor 2,Q9GZQ4,A,Gq,Gq/11,experimental
+Gq_7XW9,7XW9,Thyrotropin-releasing hormone receptor,P34981,A,Gq,Gq/11,experimental
+Gq_7XWO,7XWO,Substance-K receptor,P21452,A,Gq,Gq/11,experimental
+Gq_7XXH,7XXH,P2Y purinoceptor 1,P47900,A,Gq,Gq/11,experimental
+Gq_7Y26,7Y26,Somatostatin receptor type 2,P30874,A,Gq,Gq/11,experimental
+Gq_7YDM,7YDM,Adhesion G protein-coupled receptor E5,P48960,B,Gq,Gq/11,experimental
+Gq_8DWC,8DWC,Mas-related G-protein coupled receptor member X1,Q96LB2,A,Gq,Gq/11,experimental
+Gq_8E9W,8E9W,Muscarinic acetylcholine receptor M3,P20309,A,Gq,Gq/11,experimental
+Gq_8EJC,8EJC,Free fatty acid receptor 1,O14842,A,Gq,Gq/11,experimental
+Gq_8F7X,8F7X,Nociceptin receptor,P41146,A,Gq,Gq/11,experimental
+Gq_8H0P,8H0P,Neuromedin-B receptor,P28336,A,Gq,Gq/11,experimental
+Gq_8HCQ,8HCQ,Endothelin receptor type B,P24530,A,Gq,Gq/11,engineered_uncertain
+Gq_8HCX,8HCX,Endothelin receptor type B,P24530,A,Gq,Gq/11,engineered_uncertain
+Gq_8IBV,8IBV,Motilin receptor,O43193,A,Gq,Gq/11,experimental
+Gq_8IUK,8IUK,Prostaglandin F2-alpha receptor,P43088,A,Gq,Gq/11,experimental
+Gq_8IYS,8IYS,Free fatty acid receptor 4,Q5NUL3,A,Gq,Gq/11,experimental
+Gq_8J9N,8J9N,Frizzled-1,Q9UP38,A,Gq,Gq/11,experimental
+Gq_8JBG,8JBG,Neuromedin-K receptor,P29371,A,Gq,Gq/11,experimental
+Gq_8WST,8WST,Melanin-concentrating hormone receptor 2,Q969V1,A,Gq,Gq/11,experimental
+Gq_8WZ2,8WZ2,Pyroglutamylated RF-amide peptide receptor,Q96P65,A,Gq,Gq/11,experimental
+Gq_8XGS,8XGS,KiSS-1 receptor,Q969F8,A,Gq,Gq/11,experimental
+Gq_8XOJ,8XOJ,G-protein coupled estrogen receptor 1,Q99527,A,Gq,Gq/11,experimental
+Gq_8XOR,8XOR,Proteinase-activated receptor 1,P25116,A,Gq,Gq/11,experimental
+Gq_8Y53,8Y53,Bombesin receptor subtype-3,P32247,A,Gq,Gq/11,experimental
+Gq_8ZPT,8ZPT,Prolactin-releasing peptide receptor,P49683,A,Gq,Gq/11,experimental
+G12_7SF7,7SF7,Adhesion G protein-coupled receptor L3,Q9HAR2,B,G12-13,G12/13,experimental
+G12_7SF8,7SF8,Adhesion G-protein coupled receptor G1,Q9Y653,B,G12-13,G12/13,experimental
+G12_7T6B,7T6B,Sphingosine 1-phosphate receptor 2,O95136,A,G12-13,G12/13,experimental
+G12_8IKL,8IKL,Adhesion G protein-coupled receptor E5,P48960,A,G12-13,G12/13,experimental
+G12_8KGG,8KGG,Putative P2Y purinoceptor 10,O00398,A,G12-13,G12/13,experimental
+G12_9IY8,9IY8,G-protein coupled receptor 55,Q9Y2T6,A,G12-13,G12/13,experimental
