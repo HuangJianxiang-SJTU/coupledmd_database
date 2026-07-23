@@ -1,4 +1,0 @@
-protocol_group,declared_force_field,engine_family,systems,replicas,nominal_sampling_us
-P1,"CHARMM36 (chamber, AMBER pmemd)",AMBER PMEMD,179,537,268.5
-P2,CHARMM36 (via AMBER CHARMM-GUI),AMBER PMEMD,26,78,39.0
-P3,"CHARMM36 (membrane-embedded, GROMACS)",GROMACS,2,6,3.0

@@ -1,6 +1,0 @@
-scope,sampling_definition,sampling_us,claim_scope
-full final-207 campaign,nominal protocol,310.5,207 systems × 3 computational repeats × 500 ns
-full final-207 campaign,original file-observed coordinates,310.41679999999997,includes the original 416.8-ns Gq_8ZPT replica 2
-Gq_8ZPT replica 2,nominal protocol,0.5,specified production duration
-Gq_8ZPT replica 2,original file-observed coordinates,0.4168,pre-repair coordinate record
-Gq_8ZPT replica 2,locally repaired reduced source,0.49995,"10,000-frame continuation-derived coordinate source; does not establish distribution of a full-system archive"
