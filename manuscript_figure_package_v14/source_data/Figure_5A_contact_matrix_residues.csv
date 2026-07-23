@@ -1,0 +1,16 @@
+order,resid,column_label,resname,persistence
+0,1049,resid_1049,PHE,1.0
+1,958,resid_958,LEU,1.0
+2,973,resid_973,PHE,1.0
+3,864,resid_864,ASN,1.0
+4,883,resid_883,ARG,1.0
+5,884,resid_884,GLU,1.0
+6,887,resid_887,ALA,1.0
+7,888,resid_888,PHE,1.0
+8,891,resid_891,LEU,1.0
+9,892,resid_892,SER,1.0
+10,895,resid_895,VAL,0.9996
+11,969,resid_969,VAL,0.9988
+12,972,resid_972,ILE,0.9984
+13,1046,resid_1046,HSD,0.996
+14,868,resid_868,SER,0.9912

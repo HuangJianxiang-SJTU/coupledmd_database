@@ -1,0 +1,5 @@
+metric,value,note
+systems,207,unique final release identifiers
+receptor_names,174,distinct receptor-name entities
+mapped_uniprot_accessions,173,one explicit null accession for Gs_8HTI
+production_replicas,621,three computational repeats per system

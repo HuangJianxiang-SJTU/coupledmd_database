@@ -1,0 +1,4 @@
+replica,reserved_doi,local_manifest_rows,local_full_frame_qc_status,local_qc_systems,remote_state,remote_uploaded_files,publicly_resolvable,doi_url,release_claim
+1,10.5281/zenodo.21395292,207,passed,207,unsubmitted,7,False,https://doi.org/10.5281/zenodo.21395292,Local QC passed; 7 files uploaded; not publicly resolvable
+2,10.5281/zenodo.21447748,207,passed,207,unsubmitted,8,False,https://doi.org/10.5281/zenodo.21447748,Local QC passed; 8 files uploaded; not publicly resolvable
+3,10.5281/zenodo.21448037,207,passed,207,unsubmitted,8,False,https://doi.org/10.5281/zenodo.21448037,Local QC passed; 8 files uploaded; not publicly resolvable

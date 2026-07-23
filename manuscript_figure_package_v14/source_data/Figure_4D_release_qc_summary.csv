@@ -1,0 +1,4 @@
+release_replica,systems,uniform_2500_frames,pdb_xtc_atom_counts_match,finite_coordinates,finite_monotonic_time,valid_periodic_box,backbone_geometry_passed,catastrophic_chain_break_absent,complex_separation_absent,coordinate_scatter_absent,full_frame_qc_passed
+1,207,207,207,207,207,207,207,207,207,207,207
+2,207,207,207,207,207,207,207,207,207,207,207
+3,207,207,207,207,207,207,207,207,207,207,207

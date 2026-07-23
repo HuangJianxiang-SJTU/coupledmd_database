@@ -1,0 +1,5 @@
+stage_order,record,distributed_in_reduced_release,contains_lipids,role
+1,full-system source trajectories,False,True,required molecular source for lipid-gateway calculation
+2,gateway calculation code and local intermediates,False,False,calculation layer executed against full-system sources
+3,per-system gateway summaries,False,False,processed intermediate distributed as Supplementary Data S6 and JSON
+4,reduced protein-complex PDB/XTC,True,False,supports protein-complex reuse but not gateway recalculation
