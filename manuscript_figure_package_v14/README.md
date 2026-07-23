@@ -9,6 +9,9 @@ figures, and the six submission-facing supplementary data files.
   server, plus the current S1 system inventory used by `figure_s1.py`.
 - `scripts/`: one runnable entry point per manuscript figure. Shared plotting
   functions are kept in `_plot_v12_core.py` to prevent code duplication.
+  `scripts/workflows/` contains the trajectory-reduction, nine-point QC,
+  structural-validation, persistent-pocket, and worked-example analysis code,
+  together with its environment specification.
 - `figures/`: generated PDF and 600-dpi PNG files.
 - `supplementary_files/`: current Supplementary Data S1–S6 and their README,
   refreshed from the `main` branch of `HuangJianxiang-SJTU/coupledmd_database`.
