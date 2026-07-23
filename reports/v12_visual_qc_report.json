@@ -1,0 +1,262 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-07-20T06:52:42.810933+00:00",
+  "status": "PASS",
+  "checks": [
+    "consistent raster page dimensions",
+    "nonblank rendered pages",
+    "no raster ink at the outer four-pixel border",
+    "contact sheets generated for manual visual inspection"
+  ],
+  "manual_visual_review": {
+    "status": "PASS",
+    "reviewer": "Codex production review",
+    "notes": "Contact sheets and full-resolution key pages inspected: no blank pages, clipped figures, missing table content, overlapping captions or unreadable code blocks detected."
+  },
+  "documents": {
+    "manuscript": {
+      "pages": 15,
+      "contact_sheet": "rendered_v12_manuscript/manuscript_contact_sheet.png",
+      "programmatic_page_checks": "PASS",
+      "page_metrics": [
+        {
+          "page": 1,
+          "file": "page-01.png",
+          "width_px": 816,
+          "height_px": 1056,
+          "ink_fraction": 0.145497,
+          "border_ink_fraction": 0.0,
+          "blank_page": false,
+          "possible_edge_clipping": false
+        },
+        {
+          "page": 2,
+          "file": "page-02.png",
+          "width_px": 816,
+          "height_px": 1056,
+          "ink_fraction": 0.083351,
+          "border_ink_fraction": 0.0,
+          "blank_page": false,
+          "possible_edge_clipping": false
+        },
+        {
+          "page": 3,
+          "file": "page-03.png",
+          "width_px": 816,
+          "height_px": 1056,
+          "ink_fraction": 0.203343,
+          "border_ink_fraction": 0.0,
+          "blank_page": false,
+          "possible_edge_clipping": false
+        },
+        {
+          "page": 4,
+          "file": "page-04.png",
+          "width_px": 816,
+          "height_px": 1056,
+          "ink_fraction": 0.144674,
+          "border_ink_fraction": 0.0,
+          "blank_page": false,
+          "possible_edge_clipping": false
+        },
+        {
+          "page": 5,
+          "file": "page-05.png",
+          "width_px": 816,
+          "height_px": 1056,
+          "ink_fraction": 0.051148,
+          "border_ink_fraction": 0.0,
+          "blank_page": false,
+          "possible_edge_clipping": false
+        },
+        {
+          "page": 6,
+          "file": "page-06.png",
+          "width_px": 816,
+          "height_px": 1056,
+          "ink_fraction": 0.145547,
+          "border_ink_fraction": 0.0,
+          "blank_page": false,
+          "possible_edge_clipping": false
+        },
+        {
+          "page": 7,
+          "file": "page-07.png",
+          "width_px": 816,
+          "height_px": 1056,
+          "ink_fraction": 0.116051,
+          "border_ink_fraction": 0.0,
+          "blank_page": false,
+          "possible_edge_clipping": false
+        },
+        {
+          "page": 8,
+          "file": "page-08.png",
+          "width_px": 816,
+          "height_px": 1056,
+          "ink_fraction": 0.175844,
+          "border_ink_fraction": 0.0,
+          "blank_page": false,
+          "possible_edge_clipping": false
+        },
+        {
+          "page": 9,
+          "file": "page-09.png",
+          "width_px": 816,
+          "height_px": 1056,
+          "ink_fraction": 0.07636,
+          "border_ink_fraction": 0.0,
+          "blank_page": false,
+          "possible_edge_clipping": false
+        },
+        {
+          "page": 10,
+          "file": "page-10.png",
+          "width_px": 816,
+          "height_px": 1056,
+          "ink_fraction": 0.09648,
+          "border_ink_fraction": 0.0,
+          "blank_page": false,
+          "possible_edge_clipping": false
+        },
+        {
+          "page": 11,
+          "file": "page-11.png",
+          "width_px": 816,
+          "height_px": 1056,
+          "ink_fraction": 0.106136,
+          "border_ink_fraction": 0.0,
+          "blank_page": false,
+          "possible_edge_clipping": false
+        },
+        {
+          "page": 12,
+          "file": "page-12.png",
+          "width_px": 816,
+          "height_px": 1056,
+          "ink_fraction": 0.156162,
+          "border_ink_fraction": 0.0,
+          "blank_page": false,
+          "possible_edge_clipping": false
+        },
+        {
+          "page": 13,
+          "file": "page-13.png",
+          "width_px": 816,
+          "height_px": 1056,
+          "ink_fraction": 0.322124,
+          "border_ink_fraction": 0.0,
+          "blank_page": false,
+          "possible_edge_clipping": false
+        },
+        {
+          "page": 14,
+          "file": "page-14.png",
+          "width_px": 816,
+          "height_px": 1056,
+          "ink_fraction": 0.111386,
+          "border_ink_fraction": 0.0,
+          "blank_page": false,
+          "possible_edge_clipping": false
+        },
+        {
+          "page": 15,
+          "file": "page-15.png",
+          "width_px": 816,
+          "height_px": 1056,
+          "ink_fraction": 0.097668,
+          "border_ink_fraction": 0.0,
+          "blank_page": false,
+          "possible_edge_clipping": false
+        }
+      ]
+    },
+    "supplementary_information": {
+      "pages": 8,
+      "contact_sheet": "rendered_v12_si/supplementary_information_contact_sheet.png",
+      "programmatic_page_checks": "PASS",
+      "page_metrics": [
+        {
+          "page": 1,
+          "file": "page-1.png",
+          "width_px": 816,
+          "height_px": 1056,
+          "ink_fraction": 0.126268,
+          "border_ink_fraction": 0.0,
+          "blank_page": false,
+          "possible_edge_clipping": false
+        },
+        {
+          "page": 2,
+          "file": "page-2.png",
+          "width_px": 816,
+          "height_px": 1056,
+          "ink_fraction": 0.161058,
+          "border_ink_fraction": 0.0,
+          "blank_page": false,
+          "possible_edge_clipping": false
+        },
+        {
+          "page": 3,
+          "file": "page-3.png",
+          "width_px": 816,
+          "height_px": 1056,
+          "ink_fraction": 0.125305,
+          "border_ink_fraction": 0.0,
+          "blank_page": false,
+          "possible_edge_clipping": false
+        },
+        {
+          "page": 4,
+          "file": "page-4.png",
+          "width_px": 816,
+          "height_px": 1056,
+          "ink_fraction": 0.111278,
+          "border_ink_fraction": 0.0,
+          "blank_page": false,
+          "possible_edge_clipping": false
+        },
+        {
+          "page": 5,
+          "file": "page-5.png",
+          "width_px": 816,
+          "height_px": 1056,
+          "ink_fraction": 0.100885,
+          "border_ink_fraction": 0.0,
+          "blank_page": false,
+          "possible_edge_clipping": false
+        },
+        {
+          "page": 6,
+          "file": "page-6.png",
+          "width_px": 816,
+          "height_px": 1056,
+          "ink_fraction": 0.483613,
+          "border_ink_fraction": 0.0,
+          "blank_page": false,
+          "possible_edge_clipping": false
+        },
+        {
+          "page": 7,
+          "file": "page-7.png",
+          "width_px": 816,
+          "height_px": 1056,
+          "ink_fraction": 0.155949,
+          "border_ink_fraction": 0.0,
+          "blank_page": false,
+          "possible_edge_clipping": false
+        },
+        {
+          "page": 8,
+          "file": "page-8.png",
+          "width_px": 816,
+          "height_px": 1056,
+          "ink_fraction": 0.10322,
+          "border_ink_fraction": 0.0,
+          "blank_page": false,
+          "possible_edge_clipping": false
+        }
+      ]
+    }
+  }
+}

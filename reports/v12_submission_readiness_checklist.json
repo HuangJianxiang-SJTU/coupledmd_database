@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-07-20T06:56:34.931809+00:00",
+  "overall_status": "BLOCKED",
+  "status_counts": {
+    "PASS": 26,
+    "HOLD": 4,
+    "BLOCKED": 2
+  },
+  "requirements": [
+    {
+      "requirement_id": "J01",
+      "requirement": "Descriptive title \u2264110 characters without colon or self-acronym",
+      "status": "PASS",
+      "evidence": "78 characters"
+    },
+    {
+      "requirement_id": "J02",
+      "requirement": "Abstract \u2264170 words and without URL",
+      "status": "PASS",
+      "evidence": "164 words"
+    },
+    {
+      "requirement_id": "J03",
+      "requirement": "Required Scientific Data section headings",
+      "status": "PASS",
+      "evidence": "Background, Methods, Data Records, Technical Validation, Usage Notes, Data/Code Availability present"
+    },
+    {
+      "requirement_id": "J04",
+      "requirement": "No Results or Discussion section",
+      "status": "PASS",
+      "evidence": "Data Descriptor structure"
+    },
+    {
+      "requirement_id": "N01",
+      "requirement": "Frozen cohort and all core denominators machine consistent",
+      "status": "PASS",
+      "evidence": "numerical audit"
+    },
+    {
+      "requirement_id": "N02",
+      "requirement": "Exact final-207 reduced visualization audit",
+      "status": "PASS",
+      "evidence": "207/207 OK"
+    },
+    {
+      "requirement_id": "N03",
+      "requirement": "Final-207 API consensus cache",
+      "status": "PASS",
+      "evidence": "[207]"
+    },
+    {
+      "requirement_id": "D01",
+      "requirement": "Reduced molecular product scope is explicit",
+      "status": "PASS",
+      "evidence": "not a full-system archive"
+    },
+    {
+      "requirement_id": "D02",
+      "requirement": "Replica 1 manifest and full-frame QC",
+      "status": "PASS",
+      "evidence": "PRIVATE_DRAFT_LOCAL_QC_PASS"
+    },
+    {
+      "requirement_id": "D03",
+      "requirement": "Replica 2 manifest and full-frame QC",
+      "status": "HOLD",
+      "evidence": "PRIVATE_DRAFT_INCOMPLETE"
+    },
+    {
+      "requirement_id": "D04",
+      "requirement": "Replica 3 manifest and full-frame QC",
+      "status": "PASS",
+      "evidence": "PRIVATE_DRAFT_LOCAL_QC_PASS"
+    },
+    {
+      "requirement_id": "D05",
+      "requirement": "All three records publicly resolvable or anonymously reviewer-accessible",
+      "status": "HOLD",
+      "evidence": "HOLD_PRIVATE_OR_INCOMPLETE"
+    },
+    {
+      "requirement_id": "D06",
+      "requirement": "Remote files match final local manifests and audits",
+      "status": "HOLD",
+      "evidence": "completeness claim withheld"
+    },
+    {
+      "requirement_id": "D07",
+      "requirement": "Stable full-system access for full-system-only molecular recalculation",
+      "status": "BLOCKED",
+      "evidence": "full-system trajectories/topologies are not distributed"
+    },
+    {
+      "requirement_id": "D08",
+      "requirement": "Processed gateway intermediates and source data supplied",
+      "status": "PASS",
+      "evidence": "5,796-row S6"
+    },
+    {
+      "requirement_id": "F01",
+      "requirement": "Five main figure PDF/PNG pairs",
+      "status": "PASS",
+      "evidence": "Figure 6 atlas removed"
+    },
+    {
+      "requirement_id": "F02",
+      "requirement": "Panel-level figure source tables and manifest",
+      "status": "PASS",
+      "evidence": "15 panel/source CSVs"
+    },
+    {
+      "requirement_id": "F03",
+      "requirement": "Biological gateway distribution removed from main figures",
+      "status": "PASS",
+      "evidence": "Figure 4 is technical"
+    },
+    {
+      "requirement_id": "F04",
+      "requirement": "Resource-paper pocket atlas removed",
+      "status": "PASS",
+      "evidence": "no Figure 6 atlas"
+    },
+    {
+      "requirement_id": "R01",
+      "requirement": "Reference DOI/title metadata verified",
+      "status": "PASS",
+      "evidence": "21/21 Crossref"
+    },
+    {
+      "requirement_id": "C01",
+      "requirement": "Public code and paper repository URLs supplied",
+      "status": "PASS",
+      "evidence": "two GitHub repositories"
+    },
+    {
+      "requirement_id": "C02",
+      "requirement": "Immutable v12 paper/code commit and release tag",
+      "status": "HOLD",
+      "evidence": "must be created after final regeneration"
+    },
+    {
+      "requirement_id": "L01",
+      "requirement": "Data and code licences",
+      "status": "PASS",
+      "evidence": "CC BY 4.0 and MIT"
+    },
+    {
+      "requirement_id": "O01",
+      "requirement": "Database/resource/AI claim firewall",
+      "status": "PASS",
+      "evidence": "separate report and SI overlap table"
+    },
+    {
+      "requirement_id": "O02",
+      "requirement": "Related-manuscript disclosure",
+      "status": "PASS",
+      "evidence": "main manuscript and SI"
+    },
+    {
+      "requirement_id": "P01",
+      "requirement": "v12 manuscript DOCX exists",
+      "status": "PASS",
+      "evidence": "production output"
+    },
+    {
+      "requirement_id": "P02",
+      "requirement": "v12 SI DOCX exists",
+      "status": "PASS",
+      "evidence": "production output"
+    },
+    {
+      "requirement_id": "P03",
+      "requirement": "Rendered manuscript PDF exists",
+      "status": "PASS",
+      "evidence": "visual-QC input"
+    },
+    {
+      "requirement_id": "P04",
+      "requirement": "Rendered SI PDF exists",
+      "status": "PASS",
+      "evidence": "visual-QC input"
+    },
+    {
+      "requirement_id": "P05",
+      "requirement": "Document visual-QC report passes",
+      "status": "PASS",
+      "evidence": "render inspection"
+    },
+    {
+      "requirement_id": "V01",
+      "requirement": "Automated cross-artifact validation passes",
+      "status": "PASS",
+      "evidence": "validation suite"
+    },
+    {
+      "requirement_id": "A01",
+      "requirement": "Package can truthfully be labelled submission-ready",
+      "status": "BLOCKED",
+      "evidence": "release access and stable full-system route remain unresolved"
+    }
+  ]
+}

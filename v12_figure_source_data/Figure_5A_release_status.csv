@@ -1,0 +1,4 @@
+replica,reserved_doi,local_manifest_rows,local_full_frame_qc_status,local_qc_systems,remote_state,remote_access_right,remote_uploaded_files,public_http_status,publicly_resolvable,release_claim_status,remote_verification_time
+1,10.5281/zenodo.21395292,207,passed,207,unsubmitted,restricted,7,404,False,PRIVATE_DRAFT_LOCAL_QC_PASS,2026-07-20T06:48:15.640294+00:00
+2,10.5281/zenodo.21447748,0,not_available,0,unsubmitted,restricted,0,404,False,PRIVATE_DRAFT_INCOMPLETE,2026-07-20T06:48:16.668244+00:00
+3,10.5281/zenodo.21448037,207,passed,207,unsubmitted,restricted,6,404,False,PRIVATE_DRAFT_LOCAL_QC_PASS,2026-07-20T06:48:17.613842+00:00

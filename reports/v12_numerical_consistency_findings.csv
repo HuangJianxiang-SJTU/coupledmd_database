@@ -1,0 +1,7 @@
+id,issue,resolution,status
+N01,206 detected plus two zero-pocket systems,205 detected plus two explicit zero-pocket systems equals 207,PASS
+N02,205 PBC-OK plus three WARN and inherited 208 frame counts,exact final-207 visualization audit regenerated,PASS
+N03,API consensus gateway n_systems=208,final-207 consensus cache verified,PASS
+N04,active final208/final624 names,all v12 submission artifacts use final207/621 or version-neutral names,PASS
+N05,310.5 versus 310.4168 microseconds,310.5 microseconds nominal; 310.4168 microseconds in original pre-repair coordinate files; local reduced-release repair documented; full-system source is not distributed,PASS
+N06,public/complete archive claims,claims withheld until all three records are publicly resolvable and locally QC-complete,HOLD

@@ -1,0 +1,4 @@
+release_replica,local_full_frame_qc_status,remote_state,publicly_resolvable,systems
+1,passed,unsubmitted,False,207
+2,pending,unsubmitted,False,207
+3,passed,unsubmitted,False,207

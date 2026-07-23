@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-07-20T06:53:04.162322+00:00",
+  "status": "PASS",
+  "source": "read_only_overlap/paper1_gateways/gateway_atlas_summary_final207.csv",
+  "source_sha256": "47df4b9a067e0648bc73b78d9ece8d24f5ffe2b951bcdff25d485e638bfbeb08",
+  "target": "data/api/v1/consensus/gateways.json",
+  "before_sha256": "d7fe73764e7afabe20d0049e71427473a45dce13ea6c3475e67254db486ade84",
+  "before_denominators": {
+    "ALL": [
+      207
+    ],
+    "ClassA": [
+      181
+    ],
+    "ClassB": [
+      26
+    ],
+    "G12-13": [
+      6
+    ],
+    "Gi": [
+      95
+    ],
+    "Gq": [
+      41
+    ],
+    "Gs": [
+      65
+    ]
+  },
+  "after_sha256": "7161b60f993b951fa3a7922051a1a14607b20aedc2f313a78567bd2964c36a1b",
+  "after_denominators": {
+    "ALL": [
+      207
+    ],
+    "ClassA": [
+      181
+    ],
+    "ClassB": [
+      26
+    ],
+    "G12-13": [
+      6
+    ],
+    "Gi": [
+      95
+    ],
+    "Gq": [
+      41
+    ],
+    "Gs": [
+      65
+    ]
+  },
+  "records": 196,
+  "biological_distribution_in_database_main_figures": false
+}

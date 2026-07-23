@@ -1,0 +1,147 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-07-20T06:56:31.908564+00:00",
+  "status": "HOLD_RELEASE",
+  "files": {
+    "README.txt": {
+      "rows": null,
+      "size_bytes": 1595,
+      "sha256": "1acf4d288fe6fba2d6b1394663b4acdd0cb8a90fb2f6bf20afcc56b950513743"
+    },
+    "Supplementary_Data_S1_included_system_inventory.csv": {
+      "rows": 207,
+      "size_bytes": 69150,
+      "sha256": "f51ad5a3c4099b166487c55b0f9220af92ca00413204376976e89c924f5c84e8"
+    },
+    "Supplementary_Data_S2_release_boundary_exceptions.csv": {
+      "rows": 15,
+      "size_bytes": 5311,
+      "sha256": "17abf5702da4c824ee5629fb18b17cf309149af2edca05d338b19b03c2c31b48"
+    },
+    "Supplementary_Data_S3_metadata_dictionary.csv": {
+      "rows": 116,
+      "size_bytes": 24744,
+      "sha256": "d4a6fabe56c816373c6e4ca684ad5dc87f602f3ea089bc984914696cd5b305a1"
+    },
+    "Supplementary_Data_S4_reduced_release_manifest.csv": {
+      "rows": 1242,
+      "size_bytes": 289233,
+      "sha256": "87bcb354b7d175de92ee64fcd71de264c807b37ec0154dc75925c727456c0e36"
+    },
+    "Supplementary_Data_S5_pocket_summaries_gpcrdb.csv": {
+      "rows": 2151,
+      "size_bytes": 387264,
+      "sha256": "7046f99c2865c1c4028e20241ab6646db60f8cb8b2a9b9f586fa96f824089a05"
+    },
+    "Supplementary_Data_S6_gateway_per_system.csv": {
+      "rows": 5796,
+      "size_bytes": 903306,
+      "sha256": "b2bab4ffbdea2d58e5a9a4f9455428b71f82f86367a13bb13239aa96c55e759a"
+    },
+    "Supplementary_Data_S7_source_simulation_replica_provenance.csv": {
+      "rows": 621,
+      "size_bytes": 152379,
+      "sha256": "564f7776eba329301acffe4d3c11856ebff48a07281a9a82dc7b79115bcd9644"
+    },
+    "Supplementary_Data_S8_reduced_release_qc.csv": {
+      "rows": 621,
+      "size_bytes": 112486,
+      "sha256": "1ecab554aab808b555c02d5796b8d4778bac27cacaca68e514a88660745038df"
+    },
+    "Supplementary_Data_S9_api_access_audit.csv": {
+      "rows": 11,
+      "size_bytes": 3369,
+      "sha256": "acbf252624d5f029271b72501097fa47694775c707a8b88aa66640de14421a13"
+    },
+    "Supplementary_Data_S10_code_environment_inventory.csv": {
+      "rows": 31,
+      "size_bytes": 4570,
+      "sha256": "63e65acdc5d3432a1e122e32462d3be4fc2085a2ee889b899e889a5ce0241540"
+    }
+  },
+  "release_truth": {
+    "replicas": [
+      {
+        "replica": 1,
+        "reserved_doi": "10.5281/zenodo.21395292",
+        "local_manifest_rows": 207,
+        "local_full_frame_qc_status": "passed",
+        "local_qc_systems": 207,
+        "remote_state": "unsubmitted",
+        "remote_access_right": "restricted",
+        "remote_uploaded_files": 7,
+        "public_http_status": 404,
+        "publicly_resolvable": false,
+        "release_claim_status": "PRIVATE_DRAFT_LOCAL_QC_PASS",
+        "remote_verification_time": "2026-07-20T06:48:15.640294+00:00"
+      },
+      {
+        "replica": 2,
+        "reserved_doi": "10.5281/zenodo.21447748",
+        "local_manifest_rows": 0,
+        "local_full_frame_qc_status": "not_available",
+        "local_qc_systems": 0,
+        "remote_state": "unsubmitted",
+        "remote_access_right": "restricted",
+        "remote_uploaded_files": 0,
+        "public_http_status": 404,
+        "publicly_resolvable": false,
+        "release_claim_status": "PRIVATE_DRAFT_INCOMPLETE",
+        "remote_verification_time": "2026-07-20T06:48:16.668244+00:00"
+      },
+      {
+        "replica": 3,
+        "reserved_doi": "10.5281/zenodo.21448037",
+        "local_manifest_rows": 207,
+        "local_full_frame_qc_status": "passed",
+        "local_qc_systems": 207,
+        "remote_state": "unsubmitted",
+        "remote_access_right": "restricted",
+        "remote_uploaded_files": 6,
+        "public_http_status": 404,
+        "publicly_resolvable": false,
+        "release_claim_status": "PRIVATE_DRAFT_LOCAL_QC_PASS",
+        "remote_verification_time": "2026-07-20T06:48:17.613842+00:00"
+      }
+    ],
+    "local_qc_pass_systems_by_replica": {
+      "1": 207,
+      "2": 0,
+      "3": 207
+    },
+    "remote_summary": {
+      "all_three_public": false,
+      "all_three_local_qc_pass": false,
+      "public_release_claim_allowed": false,
+      "archive_completeness_claim_allowed": false,
+      "submission_access_status": "HOLD_PRIVATE_OR_INCOMPLETE"
+    },
+    "data_product": "reduced protein-complex PDB/XTC",
+    "excluded_components": [
+      "membrane",
+      "solvent",
+      "ions"
+    ],
+    "full_system_archive": false
+  },
+  "sampling_truth": {
+    "nominal_replicas": 621,
+    "nominal_sampling_us": 310.5,
+    "original_file_observed_sampling_us": 310.41679999999997,
+    "difference_ns": 83.20000000001164,
+    "shortened_original_record": {
+      "system_id": "Gq_8ZPT",
+      "replica": 2,
+      "original_file_observed_duration_ns": 416.8,
+      "local_repaired_reduced_source_frames": 10000,
+      "local_repaired_reduced_source_span_ns": 499.95,
+      "local_repair_verdict": "GOOD",
+      "full_system_source_publicly_distributed": false
+    }
+  },
+  "scope": {
+    "distributed_molecular_product": "reduced protein-complex PDB/XTC",
+    "full_system_source_distributed": false,
+    "gateway_recalculation_from_reduced_release": false
+  }
+}
