@@ -1,0 +1,21 @@
+{
+  "gpcr_class_counts": {
+    "A": 179,
+    "B": 28
+  },
+  "h40_groups": 69,
+  "identity_correction_ledger": "paper1_metadata_corrections_v3.csv",
+  "mapped_accessions": 174,
+  "receptor_entities": 175,
+  "receptor_multiplicity_including_unmapped_entity": {
+    "1": 147,
+    "2": 24,
+    "3": 4
+  },
+  "release_table": "2026-7-29_from_opus5/Supplementary_Data_v9/Supplementary_Data_S1_system_inventory_v9.csv",
+  "release_table_sha256": "239071c25804fdb9afd916e13bec93be8fae8dd89a940807827a35cd7134f3e9",
+  "source_table": "paper1_figures_rigor_v2/source_data/provenance/Supplementary_Data_S1_system_inventory_v15_v9_corrected.csv",
+  "source_table_sha256": "239071c25804fdb9afd916e13bec93be8fae8dd89a940807827a35cd7134f3e9",
+  "status": "PASS",
+  "systems": 207
+}

@@ -1,0 +1,13 @@
+predictor,outcome,n_matched,n_unmatched,median_matched,median_unmatched,median_difference_matched_minus_unmatched,mann_whitney_u,naive_p_value,q_bh_12_exploratory_tests
+ligand_matched,gateway_mean_absolute_difference,9,8,0.0509523809523809,0.07428571428571426,-0.02333333333333336,34.0,0.8883587001234061,1.0
+ligand_matched,gateway_signal_to_sampling_noise,9,8,1.5554152220552744,1.1868232937989358,0.3685919282563386,45.0,0.4234471410941999,1.0
+ligand_matched,pocket_set_jaccard_distance,9,8,0.75,0.775,-0.025000000000000022,31.0,0.6610827115065749,1.0
+binder_matched,gateway_mean_absolute_difference,3,14,0.0754761904761904,0.071547619047619,0.003928571428571406,20.0,0.9529411764705883,1.0
+binder_matched,gateway_signal_to_sampling_noise,3,14,1.6051797529150005,1.2533853459970123,0.35179440691798813,23.0,0.8588235294117648,1.0
+binder_matched,pocket_set_jaccard_distance,3,14,0.75,0.625,0.125,24.0,0.7498002504933445,1.0
+receptor_construct_description_matched,gateway_mean_absolute_difference,9,8,0.0730952380952381,0.07297619047619039,0.000119047619047713,37.0,0.9625668449197862,1.0
+receptor_construct_description_matched,gateway_signal_to_sampling_noise,9,8,1.072990175621926,1.5112240799960448,-0.4382339043741188,25.0,0.3212669683257919,1.0
+receptor_construct_description_matched,pocket_set_jaccard_distance,9,8,0.75,0.65,0.09999999999999998,34.0,0.8838111823741173,1.0
+all_systems_label_supported,gateway_mean_absolute_difference,3,14,0.0388095238095238,0.07452380952380949,-0.03571428571428569,9.0,0.15588235294117647,0.9352941176470588
+all_systems_label_supported,gateway_signal_to_sampling_noise,3,14,0.4966242795556751,1.3693322778815098,-0.8727079983258347,9.0,0.15588235294117647,0.9352941176470588
+all_systems_label_supported,pocket_set_jaccard_distance,3,14,0.75,0.75,0.0,21.0,1.0,1.0

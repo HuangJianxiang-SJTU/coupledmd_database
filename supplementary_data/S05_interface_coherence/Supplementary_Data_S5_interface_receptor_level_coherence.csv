@@ -1,0 +1,6 @@
+feature_a,feature_b,interpretation,n_systems,n_receptors,inferential_unit,within_receptor_reduction,spearman_rho,naive_p_value,q_bh_5_coherence_checks
+f01_alpha5_tilt,f02_hook_rmsd,orientation coherence,21,15,receptor accession,mean across eligible system contexts before correlation,0.2785714285714285,0.3147094732307908,0.39338684153848846
+f04_alpha5_sasa,f05_contacts,burial/contact coherence,21,15,receptor accession,mean across eligible system contexts before correlation,0.3071428571428571,0.2654726857102779,0.39338684153848846
+f05_contacts,f06_insertion_depth,engagement coherence,21,15,receptor accession,mean across eligible system contexts before correlation,-0.15714285714285714,0.5759526006037947,0.5759526006037947
+f06_insertion_depth,f08_icl2_alpha5_dist,intracellular-distance coherence,21,15,receptor accession,mean across eligible system contexts before correlation,-0.3,0.27731678036838386,0.39338684153848846
+f07_tm56_opening,f09_gbeta_contacts,receptor/interface context,19,14,receptor accession,mean across eligible system contexts before correlation,-0.7802197802197802,0.0009944938002309496,0.004972469001154748

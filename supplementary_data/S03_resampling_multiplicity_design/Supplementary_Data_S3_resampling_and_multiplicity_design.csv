@@ -1,0 +1,13 @@
+analysis,resampling_or_null_design,iterations_or_draws,inferential_unit_or_block,p_value_convention,multiplicity_correction
+Fingerprint variance partition,Receptor-block bootstrap,500,Receptor entity,Percentile 95% interval; no p value,Not applicable
+Administrative-family increment in fingerprint partition,Within-receptor exchange of system labels,1000,Receptor entity,(1 + exceedances)/(B + 1),Single prespecified increment
+Stable-cluster split-half recovery,Receptor-disjoint repeated half-atlas reconstruction,100,Receptor entity,Recovery probability over 200 half-atlases,Prespecified recovery/core-J thresholds
+Known-site concordance,"Topology-, coverage-, and size-matched site null",10000,Generic-position definition,(1 + exceedances)/(B + 1),"Bonferroni across aliases within each prespecified site family, then Benjamini-Hochberg across seven nonredundant families"
+Cluster x administrative-family global screen,Max-statistic permutation within each screen,10000,System; receptor-aware screen restrictions,(1 + exceedances)/(B + 1),FWER across 162 cells in each of three screens
+R6 risk-ratio interval,Receptor-block bootstrap,10000,Receptor entity,Percentile 95% interval; Katz interval also reported,Max-statistic FWER from global screen
+One-system-per-receptor R6 sensitivity,One system sampled per receptor per draw,5000,Receptor entity,Fisher exact p computed in every draw,Sensitivity analysis; maximum p reported
+Portal ICC and stationarity intervals,Receptor-block bootstrap,2000,Receptor entity,Percentile 95% interval,Benjamini-Hochberg across seven portals where tested
+Portal context-versus-replica null,Within-system replica-based null draws,20000,Receptor contrast,(1 + exceedances)/(B + 1),Benjamini-Hochberg across tested contrasts
+Prepared-geometry portal association,Receptor-block bootstrap and permutation,10000 bootstrap; 10000 permutation,Receptor entity,(1 + exceedances)/(B + 1) for permutation p,Benjamini-Hochberg across seven portals
+Interface/contrast summaries,Receptor-block bootstrap,5000,Receptor entity,Percentile 95% interval or analytic rank-test p,Benjamini-Hochberg within stated analysis family
+Class-A conservation matched null,Topology- and H40-coverage-matched draws,10000,Generic position,(1 + exceedances)/(B + 1),Benjamini-Hochberg across cluster-level tests

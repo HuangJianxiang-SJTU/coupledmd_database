@@ -1,0 +1,11 @@
+transform,component,sum_of_squares,fraction_total_variation,nominal_degrees_of_freedom,receptor_bootstrap_ci95_lo,receptor_bootstrap_ci95_hi
+Hellinger-normalized fingerprint,GPCR class,11.084036533235256,0.02494632752721161,1,0.017696376991599608,0.03707392166620397
+Hellinger-normalized fingerprint,receptor identity within class,216.81779478753086,0.4879817660542078,173,0.4568026628890214,0.5114267624180578
+Hellinger-normalized fingerprint,administrative G-protein family after receptor,2.9673799995211287,0.0066785446929724535,3,0.005014706905366455,0.017026430263582845
+Hellinger-normalized fingerprint,system/context after receptor and family,24.3226790896925,0.054741927012904396,29,0.03540722895332002,0.0669760236932694
+Hellinger-normalized fingerprint,residual replica variation within system,189.12347108540348,0.4256514347127037,414,0.40855260745126215,0.44532967814603075
+binary generic-position presence,GPCR class,633.9470510709884,0.03060240253324828,1,,
+binary generic-position presence,receptor identity within class,10779.983705772805,0.5203800539944083,173,,
+binary generic-position presence,administrative G-protein family after receptor,101.08286252354057,0.004879553336406314,3,,
+binary generic-position presence,system/context after receptor and family,1102.5838041431346,0.05322481324587791,29,,
+binary generic-position presence,residual replica variation within system,8098.000000000004,0.39091317689005917,414,,

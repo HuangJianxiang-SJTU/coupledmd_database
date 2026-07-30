@@ -1,0 +1,212 @@
+{
+  "design": "paired unstripped local control (identical frames and fpocket build) as occlusion baseline; primary final207 atlas as claim-impact context",
+  "material_change": false,
+  "material_change_triggers": {
+    "M1_fingerprint_shift_exceeds_noise": false,
+    "M2_orthosteric_flips_gt_10pct": false,
+    "M3_core_support_loss": false,
+    "M4_r6_lost_or_direction_reversed": false
+  },
+  "metrics": {
+    "control_reproducible_pockets_66": 129,
+    "core_cluster_eval": [
+      {
+        "cluster_id": "R0",
+        "control_support_systems_66": 6,
+        "lost": 0,
+        "material_loss": false,
+        "retained_after_stripping": 6
+      },
+      {
+        "cluster_id": "R1",
+        "control_support_systems_66": 14,
+        "lost": 0,
+        "material_loss": false,
+        "retained_after_stripping": 14
+      },
+      {
+        "cluster_id": "R2",
+        "control_support_systems_66": 7,
+        "lost": 0,
+        "material_loss": false,
+        "retained_after_stripping": 7
+      },
+      {
+        "cluster_id": "R3",
+        "control_support_systems_66": 1,
+        "lost": 0,
+        "material_loss": false,
+        "retained_after_stripping": 1
+      },
+      {
+        "cluster_id": "R4",
+        "control_support_systems_66": 0,
+        "lost": 0,
+        "material_loss": false,
+        "retained_after_stripping": 0
+      },
+      {
+        "cluster_id": "R5",
+        "control_support_systems_66": 5,
+        "lost": 0,
+        "material_loss": false,
+        "retained_after_stripping": 5
+      },
+      {
+        "cluster_id": "R6",
+        "control_support_systems_66": 5,
+        "lost": 0,
+        "material_loss": false,
+        "retained_after_stripping": 5
+      },
+      {
+        "cluster_id": "R7",
+        "control_support_systems_66": 2,
+        "lost": 0,
+        "material_loss": false,
+        "retained_after_stripping": 2
+      },
+      {
+        "cluster_id": "R8",
+        "control_support_systems_66": 3,
+        "lost": 0,
+        "material_loss": false,
+        "retained_after_stripping": 3
+      },
+      {
+        "cluster_id": "R9",
+        "control_support_systems_66": 0,
+        "lost": 0,
+        "material_loss": false,
+        "retained_after_stripping": 0
+      },
+      {
+        "cluster_id": "R11",
+        "control_support_systems_66": 0,
+        "lost": 0,
+        "material_loss": false,
+        "retained_after_stripping": 0
+      }
+    ],
+    "current_primary_stable_cluster_eval_posthoc": [
+      {
+        "cluster_id": "R0",
+        "control_support_systems_66": 6,
+        "lost": 0,
+        "retained_after_stripping": 6
+      },
+      {
+        "cluster_id": "R1",
+        "control_support_systems_66": 14,
+        "lost": 0,
+        "retained_after_stripping": 14
+      },
+      {
+        "cluster_id": "R2",
+        "control_support_systems_66": 7,
+        "lost": 0,
+        "retained_after_stripping": 7
+      },
+      {
+        "cluster_id": "R3",
+        "control_support_systems_66": 1,
+        "lost": 0,
+        "retained_after_stripping": 1
+      },
+      {
+        "cluster_id": "R5",
+        "control_support_systems_66": 5,
+        "lost": 0,
+        "retained_after_stripping": 5
+      },
+      {
+        "cluster_id": "R6",
+        "control_support_systems_66": 5,
+        "lost": 0,
+        "retained_after_stripping": 5
+      },
+      {
+        "cluster_id": "R7",
+        "control_support_systems_66": 2,
+        "lost": 0,
+        "retained_after_stripping": 2
+      },
+      {
+        "cluster_id": "R8",
+        "control_support_systems_66": 3,
+        "lost": 0,
+        "retained_after_stripping": 3
+      },
+      {
+        "cluster_id": "R9",
+        "control_support_systems_66": 0,
+        "lost": 0,
+        "retained_after_stripping": 0
+      },
+      {
+        "cluster_id": "R11",
+        "control_support_systems_66": 0,
+        "lost": 0,
+        "retained_after_stripping": 0
+      },
+      {
+        "cluster_id": "R13",
+        "control_support_systems_66": 0,
+        "lost": 0,
+        "retained_after_stripping": 0
+      }
+    ],
+    "median_fingerprint_distance_control_primary": 0.0,
+    "median_fingerprint_distance_stripped_control": 0.2122747747747748,
+    "median_fingerprint_distance_stripped_primary": 0.2540322580645161,
+    "median_persistent_voxel_rel_change": 0.01726666162988018,
+    "orthosteric_flip_systems": [],
+    "orthosteric_flips_stripped_control": 0,
+    "orthosteric_flips_stripped_primary": 18,
+    "primary_reproducible_pockets_66": 125,
+    "r6_gq_fisher_p_stripped": 0.002946650124069479,
+    "r6_gq_retained_stripped": 5,
+    "r6_gq_risk_ratio_control": NaN,
+    "r6_gq_risk_ratio_stripped": NaN,
+    "r6_gq_support_control": 5,
+    "stripped_reproducible_pockets_66": 130
+  },
+  "preregistered_material_change_rule": {
+    "M1": "median stripped-vs-control fingerprint distance exceeds max(0.562 replica-noise median, median control-vs-primary recompute distance)",
+    "M2": "orthosteric recovery flips (stripped vs control) in >= 7 of 66 systems",
+    "M3": "any stable-core cluster loses >= 50% of its control-determined support, or > 2 of 11 clusters lose any support",
+    "M4": "R6 retained in < half of its control Gq support, or stripped Gq risk ratio < 1"
+  },
+  "scope": "direct peptide-atom occlusion of fpocket only; does not remove ligand-conditioned receptor conformations",
+  "stable_core_projection_scope": {
+    "current_primary_stable_cluster_ids": [
+      "R0",
+      "R1",
+      "R2",
+      "R3",
+      "R5",
+      "R6",
+      "R7",
+      "R8",
+      "R9",
+      "R11",
+      "R13"
+    ],
+    "interpretation": "M3 is evaluated only on the frozen preregistered set; the current combined-repair primary stable core is reported as a non-gating claim-impact projection.",
+    "preregistered_M3_cluster_ids": [
+      "R0",
+      "R1",
+      "R2",
+      "R3",
+      "R4",
+      "R5",
+      "R6",
+      "R7",
+      "R8",
+      "R9",
+      "R11"
+    ]
+  },
+  "status": "peptide-stripped sensitivity complete",
+  "systems": 66
+}
