@@ -1,0 +1,487 @@
+analysis,cluster,family,n_systems,observed_cluster_systems,observed_family_cluster_systems,hypergeometric_p_value,minus_log10_p,max_stat_fwer_p_value
+replica atlas: all classes,R6,Gq,201,12,10,2.2744721741657195e-06,5.643119371949086,9.999000099990002e-05
+replica atlas: all classes,R33,Gs,201,3,3,0.03276081902047552,1.4846452494138522,0.932906709329067
+replica atlas: all classes,R47,Gq,201,2,2,0.04079601990049751,1.3893822050367721,0.9921007899210079
+replica atlas: all classes,R49,Gq,201,2,2,0.04079601990049751,1.3893822050367721,0.9921007899210079
+replica atlas: all classes,R50,Gq,201,2,2,0.04079601990049751,1.3893822050367721,0.9921007899210079
+replica atlas: all classes,R52,Gq,201,2,2,0.04079601990049751,1.3893822050367721,0.9921007899210079
+replica atlas: all classes,R18,Gi,201,4,4,0.04823673622143584,1.316622084967671,0.9964003599640036
+replica atlas: all classes,R0,Gi,201,61,34,0.07568804269751643,1.1209727255285058,0.9987001299870013
+replica atlas: all classes,R22,Gs,201,4,3,0.10026796124448564,0.9988378155090972,0.9998000199980002
+replica atlas: all classes,R19,Gs,201,4,3,0.10026796124448564,0.9988378155090972,0.9998000199980002
+replica atlas: all classes,R53,Gs,201,2,2,0.10348258706467661,0.9851327224577273,1.0
+replica atlas: all classes,R29,Gi,201,3,3,0.10381384534613365,0.9837447220516952,1.0
+replica atlas: all classes,R32,Gq,201,3,2,0.10639765994149854,0.973067923598021,1.0
+replica atlas: all classes,R25,Gq,201,3,2,0.10639765994149854,0.973067923598021,1.0
+replica atlas: all classes,R31,Gq,201,3,2,0.10639765994149854,0.973067923598021,1.0
+replica atlas: all classes,R7,Gs,201,12,6,0.15139449741872402,0.8198899094073634,1.0
+replica atlas: all classes,R8,Gq,201,7,3,0.1514660817934516,0.8196846090041581,1.0
+replica atlas: all classes,R12,Gq,201,7,3,0.1514660817934516,0.8196846090041581,1.0
+replica atlas: all classes,R13,Gs,201,7,4,0.15440482788389837,0.8113391243982352,1.0
+replica atlas: all classes,R3,Gi,201,26,15,0.17593196250869697,0.7546552527531833,1.0
+replica atlas: all classes,R10,Gs,201,5,3,0.19279044043475332,0.7149145045066583,1.0
+replica atlas: all classes,R1,Gq,201,47,12,0.2121143526505651,0.6734299440904632,1.0
+replica atlas: all classes,R4,Gi,201,13,8,0.21814609203433258,0.6612525627510872,1.0
+replica atlas: all classes,R5,Gi,201,13,8,0.21814609203433258,0.6612525627510872,1.0
+replica atlas: all classes,R37,Gi,201,2,2,0.22213930348258706,0.6533745941959237,1.0
+replica atlas: all classes,R41,Gi,201,2,2,0.22213930348258706,0.6533745941959237,1.0
+replica atlas: all classes,R43,Gi,201,2,2,0.22213930348258706,0.6533745941959237,1.0
+replica atlas: all classes,R2,Gi,201,35,19,0.23275541251250925,0.6331002111114533,1.0
+replica atlas: all classes,R17,Gs,201,3,2,0.24492612315307885,0.6109648917385377,1.0
+replica atlas: all classes,R16,Gq,201,5,2,0.2699199144337937,0.5687650724288427,1.0
+replica atlas: all classes,R23,Gi,201,4,3,0.27054517272022705,0.567760210686015,1.0
+replica atlas: all classes,R20,Gi,201,4,3,0.27054517272022705,0.567760210686015,1.0
+replica atlas: all classes,R21,Gi,201,4,3,0.27054517272022705,0.567760210686015,1.0
+replica atlas: all classes,R11,Gi,201,6,4,0.2910994335277658,0.5359586396865923,1.0
+replica atlas: all classes,R15,Gi,201,6,4,0.2910994335277658,0.5359586396865923,1.0
+replica atlas: all classes,R9,Gi,201,8,5,0.30161131544469993,0.5205523692246459,1.0
+replica atlas: all classes,R3,Gs,201,26,10,0.30683895295722724,0.5130895078895202,1.0
+replica atlas: all classes,R34,Gs,201,1,1,0.3233830845771144,0.49028270077763336,1.0
+replica atlas: all classes,R39,Gq,201,2,1,0.36716417910447763,0.4351396955974473,1.0
+replica atlas: all classes,R36,Gq,201,2,1,0.36716417910447763,0.4351396955974473,1.0
+replica atlas: all classes,R45,Gq,201,2,1,0.36716417910447763,0.4351396955974473,1.0
+replica atlas: all classes,R46,Gq,201,2,1,0.36716417910447763,0.4351396955974473,1.0
+replica atlas: all classes,R44,Gq,201,2,1,0.36716417910447763,0.4351396955974473,1.0
+replica atlas: all classes,R48,Gq,201,2,1,0.36716417910447763,0.4351396955974473,1.0
+replica atlas: all classes,R40,Gq,201,2,1,0.36716417910447763,0.4351396955974473,1.0
+replica atlas: all classes,R24,Gq,201,2,1,0.36716417910447763,0.4351396955974473,1.0
+replica atlas: all classes,R51,Gq,201,2,1,0.36716417910447763,0.4351396955974473,1.0
+replica atlas: all classes,R2,Gq,201,35,8,0.4225277811746794,0.3741447309410062,1.0
+replica atlas: all classes,R14,Gi,201,7,4,0.43941253111941764,0.35712756207546653,1.0
+replica atlas: all classes,R27,Gi,201,3,2,0.45879021975549394,0.338385848729561,1.0
+replica atlas: all classes,R30,Gi,201,3,2,0.45879021975549394,0.338385848729561,1.0
+replica atlas: all classes,R1,Gi,201,47,23,0.46136133507308313,0.33595880484747553,1.0
+replica atlas: all classes,R27,Gq,201,3,1,0.49754743868596724,0.30316550511454404,1.0
+replica atlas: all classes,R26,Gq,201,3,1,0.49754743868596724,0.30316550511454404,1.0
+replica atlas: all classes,R28,Gq,201,3,1,0.49754743868596724,0.30316550511454404,1.0
+replica atlas: all classes,R4,Gq,201,13,3,0.5171453609188754,0.2863873668251976,1.0
+replica atlas: all classes,R16,Gs,201,5,2,0.5207801814796178,0.2833455513941894,1.0
+replica atlas: all classes,R42,Gs,201,2,1,0.5432835820895523,0.2649734190517704,1.0
+replica atlas: all classes,R24,Gs,201,2,1,0.5432835820895523,0.2649734190517704,1.0
+replica atlas: all classes,R35,Gs,201,2,1,0.5432835820895523,0.2649734190517704,1.0
+replica atlas: all classes,R38,Gs,201,2,1,0.5432835820895523,0.2649734190517704,1.0
+replica atlas: all classes,R51,Gs,201,2,1,0.5432835820895523,0.2649734190517704,1.0
+replica atlas: all classes,R48,Gs,201,2,1,0.5432835820895523,0.2649734190517704,1.0
+replica atlas: all classes,R46,Gs,201,2,1,0.5432835820895523,0.2649734190517704,1.0
+replica atlas: all classes,R22,Gq,201,4,1,0.6015906458267517,0.22069892523790371,1.0
+replica atlas: all classes,R23,Gq,201,4,1,0.6015906458267517,0.22069892523790371,1.0
+replica atlas: all classes,R20,Gq,201,4,1,0.6015906458267517,0.22069892523790371,1.0
+replica atlas: all classes,R11,Gs,201,6,2,0.6320624150484111,0.19924003378611416,1.0
+replica atlas: all classes,R5,Gs,201,13,4,0.6561118613981456,0.18302211085846298,1.0
+replica atlas: all classes,R10,Gq,201,5,1,0.6845083286749912,0.16462126327055387,1.0
+replica atlas: all classes,R30,Gs,201,3,1,0.6924623115577889,0.15960385883809966,1.0
+replica atlas: all classes,R26,Gs,201,3,1,0.6924623115577889,0.15960385883809966,1.0
+replica atlas: all classes,R31,Gs,201,3,1,0.6924623115577889,0.15960385883809966,1.0
+replica atlas: all classes,R32,Gs,201,3,1,0.6924623115577889,0.15960385883809966,1.0
+replica atlas: all classes,R28,Gs,201,3,1,0.6924623115577889,0.15960385883809966,1.0
+replica atlas: all classes,R14,Gs,201,7,2,0.7224578293935231,0.14118749804712113,1.0
+replica atlas: all classes,R8,Gs,201,7,2,0.7224578293935231,0.14118749804712113,1.0
+replica atlas: all classes,R45,Gi,201,2,1,0.723134328358209,0.14078102131404227,1.0
+replica atlas: all classes,R44,Gi,201,2,1,0.723134328358209,0.14078102131404227,1.0
+replica atlas: all classes,R39,Gi,201,2,1,0.723134328358209,0.14078102131404227,1.0
+replica atlas: all classes,R36,Gi,201,2,1,0.723134328358209,0.14078102131404227,1.0
+replica atlas: all classes,R40,Gi,201,2,1,0.723134328358209,0.14078102131404227,1.0
+replica atlas: all classes,R42,Gi,201,2,1,0.723134328358209,0.14078102131404227,1.0
+replica atlas: all classes,R38,Gi,201,2,1,0.723134328358209,0.14078102131404227,1.0
+replica atlas: all classes,R35,Gi,201,2,1,0.723134328358209,0.14078102131404227,1.0
+replica atlas: all classes,R12,Gi,201,7,3,0.7299933554769749,0.13668109288340388,1.0
+replica atlas: all classes,R7,Gq,201,12,2,0.7449862169936694,0.12785176206911059,1.0
+replica atlas: all classes,R15,Gq,201,6,1,0.7505040354317533,0.12464696822946392,1.0
+replica atlas: all classes,R21,Gs,201,4,1,0.7934216537231612,0.10049595112156809,1.0
+replica atlas: all classes,R9,Gs,201,8,2,0.793671398942035,0.10035926982093267,1.0
+replica atlas: all classes,R13,Gq,201,7,1,0.8029621613153334,0.09530491987591869,1.0
+replica atlas: all classes,R14,Gq,201,7,1,0.8029621613153334,0.09530491987591869,1.0
+replica atlas: all classes,R9,Gq,201,8,1,0.8446041787693093,0.07334677418749916,1.0
+replica atlas: all classes,R0,Gs,201,61,17,0.8552463960191145,0.06790874724206301,1.0
+replica atlas: all classes,R26,Gi,201,3,1,0.8553063826595665,0.06787828706887031,1.0
+replica atlas: all classes,R17,Gi,201,3,1,0.8553063826595665,0.06787828706887031,1.0
+replica atlas: all classes,R25,Gi,201,3,1,0.8553063826595665,0.06787828706887031,1.0
+replica atlas: all classes,R28,Gi,201,3,1,0.8553063826595665,0.06787828706887031,1.0
+replica atlas: all classes,R0,Gq,201,61,10,0.8697007065268247,0.06063017711336281,1.0
+replica atlas: all classes,R7,Gi,201,12,4,0.9037219441960527,0.04396517204316069,1.0
+replica atlas: all classes,R15,Gs,201,6,1,0.9074859431311744,0.04216009341895192,1.0
+replica atlas: all classes,R1,Gs,201,47,12,0.9078882040927356,0.04196762651727485,1.0
+replica atlas: all classes,R8,Gi,201,7,2,0.921214285054206,0.035639336152754664,1.0
+replica atlas: all classes,R13,Gi,201,7,2,0.921214285054206,0.035639336152754664,1.0
+replica atlas: all classes,R19,Gi,201,4,1,0.9247300879491684,0.03398501149881161,1.0
+replica atlas: all classes,R12,Gs,201,7,1,0.9383239620874496,0.027647192904268113,1.0
+replica atlas: all classes,R2,Gs,201,35,8,0.9387520184686738,0.02744911618339222,1.0
+replica atlas: all classes,R5,Gq,201,13,1,0.9535814249985093,0.02064221722969638,1.0
+replica atlas: all classes,R4,Gs,201,13,2,0.9599672741191371,0.017743572076817846,1.0
+replica atlas: all classes,R16,Gi,201,5,1,0.9610277612731735,0.017264066656523604,1.0
+replica atlas: all classes,R10,Gi,201,5,1,0.9610277612731735,0.017264066656523604,1.0
+replica atlas: all classes,R6,Gi,201,12,2,0.9955953641972807,0.0019171342693779677,1.0
+replica atlas: all classes,R3,Gq,201,26,1,0.9983219044987688,0.0007293997888533852,1.0
+replica atlas: all classes,R49,Gi,201,2,0,1.0,-0.0,1.0
+replica atlas: all classes,R49,Gs,201,2,0,1.0,-0.0,1.0
+replica atlas: all classes,R50,Gi,201,2,0,1.0,-0.0,1.0
+replica atlas: all classes,R50,Gs,201,2,0,1.0,-0.0,1.0
+replica atlas: all classes,R51,Gi,201,2,0,1.0,-0.0,1.0
+replica atlas: all classes,R52,Gi,201,2,0,1.0,-0.0,1.0
+replica atlas: all classes,R52,Gs,201,2,0,1.0,-0.0,1.0
+replica atlas: all classes,R53,Gi,201,2,0,1.0,-0.0,1.0
+replica atlas: all classes,R53,Gq,201,2,0,1.0,-0.0,1.0
+replica atlas: all classes,R24,Gi,201,2,0,1.0,-0.0,1.0
+replica atlas: all classes,R35,Gq,201,2,0,1.0,-0.0,1.0
+replica atlas: all classes,R36,Gs,201,2,0,1.0,-0.0,1.0
+replica atlas: all classes,R37,Gq,201,2,0,1.0,-0.0,1.0
+replica atlas: all classes,R19,Gq,201,4,0,1.0,-0.0,1.0
+replica atlas: all classes,R20,Gs,201,4,0,1.0,-0.0,1.0
+replica atlas: all classes,R21,Gq,201,4,0,1.0,-0.0,1.0
+replica atlas: all classes,R37,Gs,201,2,0,1.0,-0.0,1.0
+replica atlas: all classes,R38,Gq,201,2,0,1.0,-0.0,1.0
+replica atlas: all classes,R39,Gs,201,2,0,1.0,-0.0,1.0
+replica atlas: all classes,R17,Gq,201,3,0,1.0,-0.0,1.0
+replica atlas: all classes,R18,Gq,201,4,0,1.0,-0.0,1.0
+replica atlas: all classes,R18,Gs,201,4,0,1.0,-0.0,1.0
+replica atlas: all classes,R40,Gs,201,2,0,1.0,-0.0,1.0
+replica atlas: all classes,R41,Gq,201,2,0,1.0,-0.0,1.0
+replica atlas: all classes,R41,Gs,201,2,0,1.0,-0.0,1.0
+replica atlas: all classes,R42,Gq,201,2,0,1.0,-0.0,1.0
+replica atlas: all classes,R11,Gq,201,6,0,1.0,-0.0,1.0
+replica atlas: all classes,R25,Gs,201,3,0,1.0,-0.0,1.0
+replica atlas: all classes,R33,Gi,201,3,0,1.0,-0.0,1.0
+replica atlas: all classes,R33,Gq,201,3,0,1.0,-0.0,1.0
+replica atlas: all classes,R34,Gi,201,1,0,1.0,-0.0,1.0
+replica atlas: all classes,R34,Gq,201,1,0,1.0,-0.0,1.0
+replica atlas: all classes,R22,Gi,201,4,0,1.0,-0.0,1.0
+replica atlas: all classes,R23,Gs,201,4,0,1.0,-0.0,1.0
+replica atlas: all classes,R43,Gq,201,2,0,1.0,-0.0,1.0
+replica atlas: all classes,R43,Gs,201,2,0,1.0,-0.0,1.0
+replica atlas: all classes,R44,Gs,201,2,0,1.0,-0.0,1.0
+replica atlas: all classes,R45,Gs,201,2,0,1.0,-0.0,1.0
+replica atlas: all classes,R46,Gi,201,2,0,1.0,-0.0,1.0
+replica atlas: all classes,R47,Gi,201,2,0,1.0,-0.0,1.0
+replica atlas: all classes,R47,Gs,201,2,0,1.0,-0.0,1.0
+replica atlas: all classes,R48,Gi,201,2,0,1.0,-0.0,1.0
+replica atlas: all classes,R6,Gs,201,12,0,1.0,-0.0,1.0
+replica atlas: all classes,R29,Gs,201,3,0,1.0,-0.0,1.0
+replica atlas: all classes,R30,Gq,201,3,0,1.0,-0.0,1.0
+replica atlas: all classes,R31,Gi,201,3,0,1.0,-0.0,1.0
+replica atlas: all classes,R32,Gi,201,3,0,1.0,-0.0,1.0
+replica atlas: all classes,R27,Gs,201,3,0,1.0,-0.0,1.0
+replica atlas: all classes,R29,Gq,201,3,0,1.0,-0.0,1.0
+replica atlas: Class A only,R6,Gq,176,12,10,4.898025406322541e-06,5.30997896649651,0.00019998000199980003
+replica atlas: Class A only,R52,Gq,176,2,2,0.04811688311688311,1.317702512857135,0.9232076792320768
+replica atlas: Class A only,R49,Gq,176,2,2,0.04811688311688311,1.317702512857135,0.9232076792320768
+replica atlas: Class A only,R50,Gq,176,2,2,0.04811688311688311,1.317702512857135,0.9232076792320768
+replica atlas: Class A only,R47,Gq,176,2,2,0.04811688311688311,1.317702512857135,0.9232076792320768
+replica atlas: Class A only,R19,Gs,176,4,3,0.05197613827272987,1.2841959908824503,0.9434056594340566
+replica atlas: Class A only,R7,Gs,176,12,6,0.05353614332933351,1.2713529180037255,0.9492050794920508
+replica atlas: Class A only,R13,Gs,176,7,4,0.07183094506541536,1.143688419603247,0.9891010898910109
+replica atlas: Class A only,R18,Gi,176,4,4,0.07232953412941455,1.1406843321609528,0.9932006799320068
+replica atlas: Class A only,R3,Gs,176,26,10,0.0854118891304028,1.0684816723514332,0.9972002799720028
+replica atlas: Class A only,R12,Gq,176,6,3,0.12355906559196767,0.9081253846841734,0.9993000699930007
+replica atlas: Class A only,R31,Gq,176,3,2,0.12388714733542316,0.9069737471415907,0.9997000299970003
+replica atlas: Class A only,R32,Gq,176,3,2,0.12388714733542316,0.9069737471415907,0.9997000299970003
+replica atlas: Class A only,R25,Gq,176,3,2,0.12388714733542316,0.9069737471415907,0.9997000299970003
+replica atlas: Class A only,R29,Gi,176,3,3,0.1405956112852665,0.8520282356770702,1.0
+replica atlas: Class A only,R22,Gs,176,3,2,0.1610837438423645,0.7929482852529269,1.0
+replica atlas: Class A only,R17,Gs,176,3,2,0.1610837438423645,0.7929482852529269,1.0
+replica atlas: Class A only,R8,Gq,176,7,3,0.18336161279977883,0.7366915797576215,1.0
+replica atlas: Class A only,R46,Gq,176,1,1,0.22159090909090906,0.6544480607876507,1.0
+replica atlas: Class A only,R10,Gq,176,1,1,0.22159090909090906,0.6544480607876507,1.0
+replica atlas: Class A only,R41,Gi,176,2,2,0.2718181818181818,0.5657214968337955,1.0
+replica atlas: Class A only,R43,Gi,176,2,2,0.2718181818181818,0.5657214968337955,1.0
+replica atlas: Class A only,R37,Gi,176,2,2,0.2718181818181818,0.5657214968337955,1.0
+replica atlas: Class A only,R0,Gi,176,61,34,0.3047134873336095,0.5161083224595466,1.0
+replica atlas: Class A only,R16,Gq,176,5,2,0.3067380390212991,0.5132323632002274,1.0
+replica atlas: Class A only,R1,Gq,176,47,12,0.3231324073378001,0.4906194838821068,1.0
+replica atlas: Class A only,R4,Gi,176,13,8,0.34416537265503166,0.4632328272721025,1.0
+replica atlas: Class A only,R5,Gi,176,13,8,0.34416537265503166,0.4632328272721025,1.0
+replica atlas: Class A only,R20,Gi,176,4,3,0.34539384275282226,0.4616854087555541,1.0
+replica atlas: Class A only,R23,Gi,176,4,3,0.34539384275282226,0.4616854087555541,1.0
+replica atlas: Class A only,R21,Gi,176,4,3,0.34539384275282226,0.4616854087555541,1.0
+replica atlas: Class A only,R3,Gi,176,26,15,0.3505517554551853,0.4552478537336885,1.0
+replica atlas: Class A only,R0,Gs,176,61,17,0.3684991619117054,0.43356349553229906,1.0
+replica atlas: Class A only,R16,Gs,176,5,2,0.37929895498163385,0.42101835383381664,1.0
+replica atlas: Class A only,R15,Gi,176,6,4,0.3850787804384865,0.4144504122845079,1.0
+replica atlas: Class A only,R11,Gi,176,6,4,0.3850787804384865,0.4144504122845079,1.0
+replica atlas: Class A only,R36,Gq,176,2,1,0.395064935064935,0.40333151545550233,1.0
+replica atlas: Class A only,R39,Gq,176,2,1,0.395064935064935,0.40333151545550233,1.0
+replica atlas: Class A only,R48,Gq,176,2,1,0.395064935064935,0.40333151545550233,1.0
+replica atlas: Class A only,R40,Gq,176,2,1,0.395064935064935,0.40333151545550233,1.0
+replica atlas: Class A only,R24,Gq,176,2,1,0.395064935064935,0.40333151545550233,1.0
+replica atlas: Class A only,R45,Gq,176,2,1,0.395064935064935,0.40333151545550233,1.0
+replica atlas: Class A only,R44,Gq,176,2,1,0.395064935064935,0.40333151545550233,1.0
+replica atlas: Class A only,R9,Gi,176,8,5,0.4117487928405859,0.385367665414895,1.0
+replica atlas: Class A only,R5,Gs,176,13,4,0.43543585467980556,0.3610758131257049,1.0
+replica atlas: Class A only,R24,Gs,176,2,1,0.447077922077922,0.34961677624352067,1.0
+replica atlas: Class A only,R38,Gs,176,2,1,0.447077922077922,0.34961677624352067,1.0
+replica atlas: Class A only,R35,Gs,176,2,1,0.447077922077922,0.34961677624352067,1.0
+replica atlas: Class A only,R42,Gs,176,2,1,0.447077922077922,0.34961677624352067,1.0
+replica atlas: Class A only,R48,Gs,176,2,1,0.447077922077922,0.34961677624352067,1.0
+replica atlas: Class A only,R2,Gi,176,35,19,0.4699207744925406,0.3279753550450588,1.0
+replica atlas: Class A only,R11,Gs,176,6,2,0.48138794264912815,0.3175047917230748,1.0
+replica atlas: Class A only,R26,Gq,176,3,1,0.5306538289296909,0.27518869777360616,1.0
+replica atlas: Class A only,R27,Gq,176,3,1,0.5306538289296909,0.27518869777360616,1.0
+replica atlas: Class A only,R28,Gq,176,3,1,0.5306538289296909,0.27518869777360616,1.0
+replica atlas: Class A only,R22,Gq,176,3,1,0.5306538289296909,0.27518869777360616,1.0
+replica atlas: Class A only,R30,Gi,176,3,2,0.5342633228840126,0.2722446390602601,1.0
+replica atlas: Class A only,R27,Gi,176,3,2,0.5342633228840126,0.2722446390602601,1.0
+replica atlas: Class A only,R2,Gq,176,35,8,0.5359548320706287,0.2708718092047016,1.0
+replica atlas: Class A only,R14,Gi,176,7,4,0.5504817931340764,0.2592570404927089,1.0
+replica atlas: Class A only,R14,Gs,176,7,2,0.5729077174757528,0.24191532745442143,1.0
+replica atlas: Class A only,R8,Gs,176,7,2,0.5729077174757528,0.24191532745442143,1.0
+replica atlas: Class A only,R1,Gs,176,47,12,0.5742108095927061,0.24092863611280455,1.0
+replica atlas: Class A only,R4,Gq,176,13,3,0.5821543509970146,0.23496185229357164,1.0
+replica atlas: Class A only,R32,Gs,176,3,1,0.5900750111957009,0.22909277670078537,1.0
+replica atlas: Class A only,R31,Gs,176,3,1,0.5900750111957009,0.22909277670078537,1.0
+replica atlas: Class A only,R28,Gs,176,3,1,0.5900750111957009,0.22909277670078537,1.0
+replica atlas: Class A only,R30,Gs,176,3,1,0.5900750111957009,0.22909277670078537,1.0
+replica atlas: Class A only,R26,Gs,176,3,1,0.5900750111957009,0.22909277670078537,1.0
+replica atlas: Class A only,R23,Gq,176,4,1,0.636460191194096,0.19622875506673634,1.0
+replica atlas: Class A only,R20,Gq,176,4,1,0.636460191194096,0.19622875506673634,1.0
+replica atlas: Class A only,R9,Gs,176,8,2,0.6525136754610413,0.18541038189768097,1.0
+replica atlas: Class A only,R21,Gs,176,4,1,0.6967028984569348,0.1569523826888635,1.0
+replica atlas: Class A only,R12,Gi,176,6,3,0.7010171192952307,0.1542713761493606,1.0
+replica atlas: Class A only,R2,Gs,176,35,8,0.7300254592818028,0.1366619938072191,1.0
+replica atlas: Class A only,R1,Gi,176,47,23,0.759814052606581,0.11929267851878525,1.0
+replica atlas: Class A only,R44,Gi,176,2,1,0.7736363636363637,0.11146312507363713,1.0
+replica atlas: Class A only,R42,Gi,176,2,1,0.7736363636363637,0.11146312507363713,1.0
+replica atlas: Class A only,R45,Gi,176,2,1,0.7736363636363637,0.11146312507363713,1.0
+replica atlas: Class A only,R40,Gi,176,2,1,0.7736363636363637,0.11146312507363713,1.0
+replica atlas: Class A only,R39,Gi,176,2,1,0.7736363636363637,0.11146312507363713,1.0
+replica atlas: Class A only,R38,Gi,176,2,1,0.7736363636363637,0.11146312507363713,1.0
+replica atlas: Class A only,R36,Gi,176,2,1,0.7736363636363637,0.11146312507363713,1.0
+replica atlas: Class A only,R35,Gi,176,2,1,0.7736363636363637,0.11146312507363713,1.0
+replica atlas: Class A only,R15,Gq,176,6,1,0.7830033699375611,0.10623636879500972,1.0
+replica atlas: Class A only,R7,Gq,176,12,2,0.7915009540471919,0.10154855731813672,1.0
+replica atlas: Class A only,R13,Gq,176,7,1,0.8327849497754147,0.07946713206686504,1.0
+replica atlas: Class A only,R14,Gq,176,7,1,0.8327849497754147,0.07946713206686504,1.0
+replica atlas: Class A only,R15,Gs,176,6,1,0.8349870726610863,0.07832024824743504,1.0
+replica atlas: Class A only,R9,Gq,176,8,1,0.8713730382887805,0.059795881976069616,1.0
+replica atlas: Class A only,R4,Gs,176,13,2,0.8916430866124818,0.04980895339735904,1.0
+replica atlas: Class A only,R26,Gi,176,3,1,0.8933228840125391,0.048991540663524825,1.0
+replica atlas: Class A only,R25,Gi,176,3,1,0.8933228840125391,0.048991540663524825,1.0
+replica atlas: Class A only,R17,Gi,176,3,1,0.8933228840125391,0.048991540663524825,1.0
+replica atlas: Class A only,R28,Gi,176,3,1,0.8933228840125391,0.048991540663524825,1.0
+replica atlas: Class A only,R0,Gq,176,61,10,0.9395603020783614,0.02707534114148023,1.0
+replica atlas: Class A only,R19,Gi,176,4,1,0.9500529110116513,0.022252207005362713,1.0
+replica atlas: Class A only,R7,Gi,176,12,4,0.9525722309799005,0.021102083025959516,1.0
+replica atlas: Class A only,R13,Gi,176,7,2,0.9544182516665077,0.02026126409645528,1.0
+replica atlas: Class A only,R8,Gi,176,7,2,0.9544182516665077,0.02026126409645528,1.0
+replica atlas: Class A only,R5,Gq,176,13,1,0.9662903427182729,0.014892360857130221,1.0
+replica atlas: Class A only,R16,Gi,176,5,1,0.9767687958193727,0.010208222957442625,1.0
+replica atlas: Class A only,R6,Gi,176,12,2,0.9985505018754925,0.0006299657144423559,1.0
+replica atlas: Class A only,R3,Gq,176,26,1,0.999179103822098,0.00035665708953575454,1.0
+replica atlas: Class A only,R51,Gq,176,0,0,1.0,-0.0,1.0
+replica atlas: Class A only,R51,Gs,176,0,0,1.0,-0.0,1.0
+replica atlas: Class A only,R52,Gi,176,2,0,1.0,-0.0,1.0
+replica atlas: Class A only,R52,Gs,176,2,0,1.0,-0.0,1.0
+replica atlas: Class A only,R53,Gi,176,0,0,1.0,-0.0,1.0
+replica atlas: Class A only,R53,Gq,176,0,0,1.0,-0.0,1.0
+replica atlas: Class A only,R53,Gs,176,0,0,1.0,-0.0,1.0
+replica atlas: Class A only,R33,Gi,176,0,0,1.0,-0.0,1.0
+replica atlas: Class A only,R33,Gq,176,0,0,1.0,-0.0,1.0
+replica atlas: Class A only,R33,Gs,176,0,0,1.0,-0.0,1.0
+replica atlas: Class A only,R34,Gi,176,0,0,1.0,-0.0,1.0
+replica atlas: Class A only,R34,Gq,176,0,0,1.0,-0.0,1.0
+replica atlas: Class A only,R34,Gs,176,0,0,1.0,-0.0,1.0
+replica atlas: Class A only,R35,Gq,176,2,0,1.0,-0.0,1.0
+replica atlas: Class A only,R36,Gs,176,2,0,1.0,-0.0,1.0
+replica atlas: Class A only,R37,Gq,176,2,0,1.0,-0.0,1.0
+replica atlas: Class A only,R37,Gs,176,2,0,1.0,-0.0,1.0
+replica atlas: Class A only,R30,Gq,176,3,0,1.0,-0.0,1.0
+replica atlas: Class A only,R31,Gi,176,3,0,1.0,-0.0,1.0
+replica atlas: Class A only,R32,Gi,176,3,0,1.0,-0.0,1.0
+replica atlas: Class A only,R27,Gs,176,3,0,1.0,-0.0,1.0
+replica atlas: Class A only,R29,Gq,176,3,0,1.0,-0.0,1.0
+replica atlas: Class A only,R29,Gs,176,3,0,1.0,-0.0,1.0
+replica atlas: Class A only,R38,Gq,176,2,0,1.0,-0.0,1.0
+replica atlas: Class A only,R39,Gs,176,2,0,1.0,-0.0,1.0
+replica atlas: Class A only,R25,Gs,176,3,0,1.0,-0.0,1.0
+replica atlas: Class A only,R22,Gi,176,3,0,1.0,-0.0,1.0
+replica atlas: Class A only,R23,Gs,176,4,0,1.0,-0.0,1.0
+replica atlas: Class A only,R24,Gi,176,2,0,1.0,-0.0,1.0
+replica atlas: Class A only,R40,Gs,176,2,0,1.0,-0.0,1.0
+replica atlas: Class A only,R41,Gq,176,2,0,1.0,-0.0,1.0
+replica atlas: Class A only,R41,Gs,176,2,0,1.0,-0.0,1.0
+replica atlas: Class A only,R42,Gq,176,2,0,1.0,-0.0,1.0
+replica atlas: Class A only,R19,Gq,176,4,0,1.0,-0.0,1.0
+replica atlas: Class A only,R20,Gs,176,4,0,1.0,-0.0,1.0
+replica atlas: Class A only,R21,Gq,176,4,0,1.0,-0.0,1.0
+replica atlas: Class A only,R43,Gq,176,2,0,1.0,-0.0,1.0
+replica atlas: Class A only,R43,Gs,176,2,0,1.0,-0.0,1.0
+replica atlas: Class A only,R44,Gs,176,2,0,1.0,-0.0,1.0
+replica atlas: Class A only,R45,Gs,176,2,0,1.0,-0.0,1.0
+replica atlas: Class A only,R17,Gq,176,3,0,1.0,-0.0,1.0
+replica atlas: Class A only,R18,Gq,176,4,0,1.0,-0.0,1.0
+replica atlas: Class A only,R18,Gs,176,4,0,1.0,-0.0,1.0
+replica atlas: Class A only,R46,Gi,176,1,0,1.0,-0.0,1.0
+replica atlas: Class A only,R46,Gs,176,1,0,1.0,-0.0,1.0
+replica atlas: Class A only,R47,Gi,176,2,0,1.0,-0.0,1.0
+replica atlas: Class A only,R47,Gs,176,2,0,1.0,-0.0,1.0
+replica atlas: Class A only,R48,Gi,176,2,0,1.0,-0.0,1.0
+replica atlas: Class A only,R11,Gq,176,6,0,1.0,-0.0,1.0
+replica atlas: Class A only,R12,Gs,176,6,0,1.0,-0.0,1.0
+replica atlas: Class A only,R10,Gi,176,1,0,1.0,-0.0,1.0
+replica atlas: Class A only,R10,Gs,176,1,0,1.0,-0.0,1.0
+replica atlas: Class A only,R49,Gi,176,2,0,1.0,-0.0,1.0
+replica atlas: Class A only,R49,Gs,176,2,0,1.0,-0.0,1.0
+replica atlas: Class A only,R50,Gi,176,2,0,1.0,-0.0,1.0
+replica atlas: Class A only,R50,Gs,176,2,0,1.0,-0.0,1.0
+replica atlas: Class A only,R51,Gi,176,0,0,1.0,-0.0,1.0
+replica atlas: Class A only,R6,Gs,176,12,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R6,Gq,194,12,10,2.4678957517601973e-06,5.607673189611048,0.00019998000199980003
+replica atlas: alpha5-hook-supported systems,R33,Gs,194,3,3,0.028560840767053043,1.5442290120528244,0.9131086891310869
+replica atlas: alpha5-hook-supported systems,R47,Gq,194,2,2,0.041664441002083226,1.3802344405835383,0.9891010898910109
+replica atlas: alpha5-hook-supported systems,R50,Gq,194,2,2,0.041664441002083226,1.3802344405835383,0.9891010898910109
+replica atlas: alpha5-hook-supported systems,R52,Gq,194,2,2,0.041664441002083226,1.3802344405835383,0.9891010898910109
+replica atlas: alpha5-hook-supported systems,R49,Gq,194,2,2,0.041664441002083226,1.3802344405835383,0.9891010898910109
+replica atlas: alpha5-hook-supported systems,R0,Gi,194,58,34,0.04506476961674503,1.3461628448223362,0.9924007599240076
+replica atlas: alpha5-hook-supported systems,R7,Gs,194,11,6,0.08299245111606159,1.0809614086809827,0.9985001499850015
+replica atlas: alpha5-hook-supported systems,R19,Gs,194,4,3,0.08867318625582436,1.0522076859362892,0.999000099990001
+replica atlas: alpha5-hook-supported systems,R22,Gs,194,4,3,0.08867318625582436,1.0522076859362892,0.999000099990001
+replica atlas: alpha5-hook-supported systems,R53,Gs,194,2,2,0.09454623150472731,1.024355776912212,1.0
+replica atlas: alpha5-hook-supported systems,R32,Gq,194,3,2,0.10850114844292505,0.9645656649510691,1.0
+replica atlas: alpha5-hook-supported systems,R25,Gq,194,3,2,0.10850114844292505,0.9645656649510691,1.0
+replica atlas: alpha5-hook-supported systems,R31,Gq,194,3,2,0.10850114844292505,0.9645656649510691,1.0
+replica atlas: alpha5-hook-supported systems,R18,Gi,194,3,3,0.11187636878371882,0.9512616381423604,1.0
+replica atlas: alpha5-hook-supported systems,R29,Gi,194,3,3,0.11187636878371882,0.9512616381423604,1.0
+replica atlas: alpha5-hook-supported systems,R13,Gs,194,7,4,0.13427140829482453,0.8720164559965954,1.0
+replica atlas: alpha5-hook-supported systems,R3,Gi,194,25,15,0.15310602158922418,0.8150077283641459,1.0
+replica atlas: alpha5-hook-supported systems,R4,Gi,194,12,8,0.15755393164021927,0.8025707548616267,1.0
+replica atlas: alpha5-hook-supported systems,R2,Gi,194,33,19,0.1685958046022579,0.7731532367145904,1.0
+replica atlas: alpha5-hook-supported systems,R10,Gs,194,5,3,0.17283046994010423,0.7623796891701876,1.0
+replica atlas: alpha5-hook-supported systems,R16,Gq,194,4,2,0.1888101764935701,0.7239746017969712,1.0
+replica atlas: alpha5-hook-supported systems,R41,Gi,194,2,2,0.23348111746167408,0.631748236784366,1.0
+replica atlas: alpha5-hook-supported systems,R43,Gi,194,2,2,0.23348111746167408,0.631748236784366,1.0
+replica atlas: alpha5-hook-supported systems,R30,Gi,194,2,2,0.23348111746167408,0.631748236784366,1.0
+replica atlas: alpha5-hook-supported systems,R37,Gi,194,2,2,0.23348111746167408,0.631748236784366,1.0
+replica atlas: alpha5-hook-supported systems,R5,Gi,194,13,8,0.2454097265795333,0.6101082284219447,1.0
+replica atlas: alpha5-hook-supported systems,R1,Gq,194,44,11,0.2679626864168098,0.5719256769096418,1.0
+replica atlas: alpha5-hook-supported systems,R8,Gq,194,5,2,0.27447313974759147,0.5615001496844637,1.0
+replica atlas: alpha5-hook-supported systems,R21,Gi,194,4,3,0.2875984139937484,0.5412135132671194,1.0
+replica atlas: alpha5-hook-supported systems,R23,Gi,194,4,3,0.2875984139937484,0.5412135132671194,1.0
+replica atlas: alpha5-hook-supported systems,R20,Gi,194,4,3,0.2875984139937484,0.5412135132671194,1.0
+replica atlas: alpha5-hook-supported systems,R34,Gs,194,1,1,0.30927835051546393,0.5096504795465824,1.0
+replica atlas: alpha5-hook-supported systems,R11,Gi,194,6,4,0.3124666800410158,0.5051962869465894,1.0
+replica atlas: alpha5-hook-supported systems,R14,Gi,194,6,4,0.3124666800410158,0.5051962869465894,1.0
+replica atlas: alpha5-hook-supported systems,R15,Gi,194,6,4,0.3124666800410158,0.5051962869465894,1.0
+replica atlas: alpha5-hook-supported systems,R9,Gi,194,8,5,0.32659894890984376,0.4859852172827229,1.0
+replica atlas: alpha5-hook-supported systems,R1,Gi,194,44,23,0.3426087985629769,0.4652014880772122,1.0
+replica atlas: alpha5-hook-supported systems,R3,Gs,194,25,9,0.3539766234622741,0.45102541773850835,1.0
+replica atlas: alpha5-hook-supported systems,R12,Gq,194,6,2,0.3600227922036577,0.4436700041911962,1.0
+replica atlas: alpha5-hook-supported systems,R39,Gq,194,2,1,0.37070669301853537,0.4309695728191637,1.0
+replica atlas: alpha5-hook-supported systems,R44,Gq,194,2,1,0.37070669301853537,0.4309695728191637,1.0
+replica atlas: alpha5-hook-supported systems,R36,Gq,194,2,1,0.37070669301853537,0.4309695728191637,1.0
+replica atlas: alpha5-hook-supported systems,R24,Gq,194,2,1,0.37070669301853537,0.4309695728191637,1.0
+replica atlas: alpha5-hook-supported systems,R45,Gq,194,2,1,0.37070669301853537,0.4309695728191637,1.0
+replica atlas: alpha5-hook-supported systems,R40,Gq,194,2,1,0.37070669301853537,0.4309695728191637,1.0
+replica atlas: alpha5-hook-supported systems,R46,Gq,194,2,1,0.37070669301853537,0.4309695728191637,1.0
+replica atlas: alpha5-hook-supported systems,R48,Gq,194,2,1,0.37070669301853537,0.4309695728191637,1.0
+replica atlas: alpha5-hook-supported systems,R51,Gq,194,2,1,0.37070669301853537,0.4309695728191637,1.0
+replica atlas: alpha5-hook-supported systems,R4,Gq,194,12,3,0.4659687802311614,0.331643179935607,1.0
+replica atlas: alpha5-hook-supported systems,R27,Gi,194,3,2,0.47669061481758457,0.3217633984674584,1.0
+replica atlas: alpha5-hook-supported systems,R26,Gq,194,3,1,0.5018094653063405,0.2994611511291326,1.0
+replica atlas: alpha5-hook-supported systems,R28,Gq,194,3,1,0.5018094653063405,0.2994611511291326,1.0
+replica atlas: alpha5-hook-supported systems,R27,Gq,194,3,1,0.5018094653063405,0.2994611511291326,1.0
+replica atlas: alpha5-hook-supported systems,R24,Gs,194,2,1,0.5240104695262006,0.28066003589407007,1.0
+replica atlas: alpha5-hook-supported systems,R42,Gs,194,2,1,0.5240104695262006,0.28066003589407007,1.0
+replica atlas: alpha5-hook-supported systems,R48,Gs,194,2,1,0.5240104695262006,0.28066003589407007,1.0
+replica atlas: alpha5-hook-supported systems,R51,Gs,194,2,1,0.5240104695262006,0.28066003589407007,1.0
+replica atlas: alpha5-hook-supported systems,R46,Gs,194,2,1,0.5240104695262006,0.28066003589407007,1.0
+replica atlas: alpha5-hook-supported systems,R38,Gs,194,2,1,0.5240104695262006,0.28066003589407007,1.0
+replica atlas: alpha5-hook-supported systems,R17,Gs,194,2,1,0.5240104695262006,0.28066003589407007,1.0
+replica atlas: alpha5-hook-supported systems,R35,Gs,194,2,1,0.5240104695262006,0.28066003589407007,1.0
+replica atlas: alpha5-hook-supported systems,R2,Gq,194,33,7,0.5447724331360078,0.263784876939288,1.0
+replica atlas: alpha5-hook-supported systems,R11,Gs,194,6,2,0.6026759646931446,0.21991612827538065,1.0
+replica atlas: alpha5-hook-supported systems,R20,Gq,194,4,1,0.6061425615772639,0.2174252200170877,1.0
+replica atlas: alpha5-hook-supported systems,R23,Gq,194,4,1,0.6061425615772639,0.2174252200170877,1.0
+replica atlas: alpha5-hook-supported systems,R22,Gq,194,4,1,0.6061425615772639,0.2174252200170877,1.0
+replica atlas: alpha5-hook-supported systems,R5,Gs,194,13,4,0.6136935305370075,0.2120484549576975,1.0
+replica atlas: alpha5-hook-supported systems,R12,Gi,194,6,3,0.6289718842789636,0.20136876755220023,1.0
+replica atlas: alpha5-hook-supported systems,R28,Gs,194,3,1,0.6727571977992628,0.1721416470420535,1.0
+replica atlas: alpha5-hook-supported systems,R31,Gs,194,3,1,0.6727571977992628,0.1721416470420535,1.0
+replica atlas: alpha5-hook-supported systems,R26,Gs,194,3,1,0.6727571977992628,0.1721416470420535,1.0
+replica atlas: alpha5-hook-supported systems,R32,Gs,194,3,1,0.6727571977992628,0.1721416470420535,1.0
+replica atlas: alpha5-hook-supported systems,R10,Gq,194,5,1,0.6890599170346821,0.1617430124811273,1.0
+replica atlas: alpha5-hook-supported systems,R40,Gi,194,2,1,0.7355910474867795,0.13336356498419172,1.0
+replica atlas: alpha5-hook-supported systems,R36,Gi,194,2,1,0.7355910474867795,0.13336356498419172,1.0
+replica atlas: alpha5-hook-supported systems,R45,Gi,194,2,1,0.7355910474867795,0.13336356498419172,1.0
+replica atlas: alpha5-hook-supported systems,R38,Gi,194,2,1,0.7355910474867795,0.13336356498419172,1.0
+replica atlas: alpha5-hook-supported systems,R17,Gi,194,2,1,0.7355910474867795,0.13336356498419172,1.0
+replica atlas: alpha5-hook-supported systems,R44,Gi,194,2,1,0.7355910474867795,0.13336356498419172,1.0
+replica atlas: alpha5-hook-supported systems,R35,Gi,194,2,1,0.7355910474867795,0.13336356498419172,1.0
+replica atlas: alpha5-hook-supported systems,R42,Gi,194,2,1,0.7355910474867795,0.13336356498419172,1.0
+replica atlas: alpha5-hook-supported systems,R39,Gi,194,2,1,0.7355910474867795,0.13336356498419172,1.0
+replica atlas: alpha5-hook-supported systems,R15,Gq,194,6,1,0.7548673420008869,0.12212936320396398,1.0
+replica atlas: alpha5-hook-supported systems,R14,Gq,194,6,1,0.7548673420008869,0.12212936320396398,1.0
+replica atlas: alpha5-hook-supported systems,R9,Gs,194,8,2,0.7683539528583796,0.1144386701231209,1.0
+replica atlas: alpha5-hook-supported systems,R21,Gs,194,4,1,0.7755559838309081,0.11038684699121552,1.0
+replica atlas: alpha5-hook-supported systems,R16,Gs,194,4,1,0.7755559838309081,0.11038684699121552,1.0
+replica atlas: alpha5-hook-supported systems,R8,Gi,194,5,2,0.7958251712957081,0.09918232859507745,1.0
+replica atlas: alpha5-hook-supported systems,R13,Gq,194,7,1,0.8070232266815492,0.09311396580522845,1.0
+replica atlas: alpha5-hook-supported systems,R0,Gq,194,58,10,0.8293362528676437,0.08126934983985772,1.0
+replica atlas: alpha5-hook-supported systems,R8,Gs,194,5,1,0.846433041568516,0.07240739175171121,1.0
+replica atlas: alpha5-hook-supported systems,R9,Gq,194,8,1,0.8483016808673142,0.07144967246470875,1.0
+replica atlas: alpha5-hook-supported systems,R25,Gi,194,3,1,0.865041263821377,0.0629631755149569,1.0
+replica atlas: alpha5-hook-supported systems,R26,Gi,194,3,1,0.865041263821377,0.0629631755149569,1.0
+replica atlas: alpha5-hook-supported systems,R28,Gi,194,3,1,0.865041263821377,0.0629631755149569,1.0
+replica atlas: alpha5-hook-supported systems,R7,Gi,194,11,4,0.8726048559094925,0.05918237456163348,1.0
+replica atlas: alpha5-hook-supported systems,R14,Gs,194,6,1,0.8951844569435903,0.048087467054139583,1.0
+replica atlas: alpha5-hook-supported systems,R12,Gs,194,6,1,0.8951844569435903,0.048087467054139583,1.0
+replica atlas: alpha5-hook-supported systems,R15,Gs,194,6,1,0.8951844569435903,0.048087467054139583,1.0
+replica atlas: alpha5-hook-supported systems,R7,Gq,194,11,1,0.9269598555921543,0.032939073700512925,1.0
+replica atlas: alpha5-hook-supported systems,R13,Gi,194,7,2,0.9303728218900614,0.03134298473228709,1.0
+replica atlas: alpha5-hook-supported systems,R16,Gi,194,4,1,0.9314607465480291,0.030835442342391405,1.0
+replica atlas: alpha5-hook-supported systems,R19,Gi,194,4,1,0.9314607465480291,0.030835442342391405,1.0
+replica atlas: alpha5-hook-supported systems,R0,Gs,194,58,14,0.9356954566646513,0.028865479265591746,1.0
+replica atlas: alpha5-hook-supported systems,R1,Gs,194,44,10,0.9388972158573029,0.02738194876613317,1.0
+replica atlas: alpha5-hook-supported systems,R2,Gs,194,33,7,0.9409919426523122,0.02641409525140509,1.0
+replica atlas: alpha5-hook-supported systems,R5,Gq,194,13,1,0.9554688893188701,0.01978344928621293,1.0
+replica atlas: alpha5-hook-supported systems,R10,Gi,194,5,1,0.9653696403611095,0.015306363307845358,1.0
+replica atlas: alpha5-hook-supported systems,R4,Gs,194,12,1,0.989951674545496,0.004386005392834215,1.0
+replica atlas: alpha5-hook-supported systems,R6,Gi,194,12,2,0.9965743824793417,0.0014902808122175901,1.0
+replica atlas: alpha5-hook-supported systems,R3,Gq,194,25,1,0.9980050780971694,0.0008672489090532817,1.0
+replica atlas: alpha5-hook-supported systems,R49,Gi,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R49,Gs,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R50,Gi,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R50,Gs,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R52,Gi,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R52,Gs,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R53,Gi,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R53,Gq,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R23,Gs,194,4,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R24,Gi,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R35,Gq,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R36,Gs,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R37,Gq,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R19,Gq,194,4,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R20,Gs,194,4,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R21,Gq,194,4,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R17,Gq,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R18,Gq,194,3,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R18,Gs,194,3,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R37,Gs,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R38,Gq,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R39,Gs,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R40,Gs,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R41,Gq,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R41,Gs,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R42,Gq,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R11,Gq,194,6,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R25,Gs,194,3,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R33,Gi,194,3,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R33,Gq,194,3,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R34,Gi,194,1,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R34,Gq,194,1,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R22,Gi,194,4,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R43,Gq,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R43,Gs,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R44,Gs,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R45,Gs,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R46,Gi,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R47,Gi,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R47,Gs,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R48,Gi,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R6,Gs,194,12,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R29,Gs,194,3,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R30,Gq,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R30,Gs,194,2,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R31,Gi,194,3,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R32,Gi,194,3,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R27,Gs,194,3,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R29,Gq,194,3,0,1.0,-0.0,1.0
+replica atlas: alpha5-hook-supported systems,R51,Gi,194,2,0,1.0,-0.0,1.0

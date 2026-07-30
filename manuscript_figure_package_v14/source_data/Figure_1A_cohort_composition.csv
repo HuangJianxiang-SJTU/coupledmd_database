@@ -1,9 +1,0 @@
-gpcr_class,g_protein_family,systems,family_label,nominal_sampling_us,scope
-A,G12-13,4,G12/13,6.0,administrative release labels; descriptive only
-A,Gi,92,Gi/o,138.0,administrative release labels; descriptive only
-A,Gq,39,Gq/11,58.5,administrative release labels; descriptive only
-A,Gs,46,Gs,69.0,administrative release labels; descriptive only
-B,G12-13,2,G12/13,3.0,administrative release labels; descriptive only
-B,Gi,3,Gi/o,4.5,administrative release labels; descriptive only
-B,Gq,2,Gq/11,3.0,administrative release labels; descriptive only
-B,Gs,19,Gs,28.5,administrative release labels; descriptive only

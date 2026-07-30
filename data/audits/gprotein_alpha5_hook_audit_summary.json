@@ -1,0 +1,23 @@
+{
+  "C7_Gq_engineered_supported_hooks": 7,
+  "C7_Gq_exact_canonical_hooks": 9,
+  "C7_Gq_sequence_supported": 16,
+  "C7_Gq_simulation_deposition_near_differences": 7,
+  "C7_Gq_systems": 16,
+  "assigned_family_hook_conflicts": 7,
+  "classification_thresholds": {
+    "minimum_assigned_family_identity": 0.7272727272727273,
+    "minimum_assigned_vs_other_margin_matches": 2,
+    "minimum_observed_hook_residues": 9
+  },
+  "direct_accession_controls": 135,
+  "direct_accession_controls_supported": 132,
+  "hook_positions": "G.H5.16-G.H5.26",
+  "interface_family_sequence_supported": 200,
+  "interpretation": "Interface-family sequence support verifies the receptor-facing construct hook; it does not make engineered constructs native or establish causal coupling selectivity.",
+  "simulated_deposited_exact_observed_terminal_truncation": 5,
+  "simulated_deposited_hook_exact": 187,
+  "simulated_deposited_near_match_sequence_difference": 13,
+  "simulated_deposited_substantial_sequence_difference": 2,
+  "systems": 207
+}

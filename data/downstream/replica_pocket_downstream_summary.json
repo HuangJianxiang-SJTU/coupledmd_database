@@ -1,0 +1,171 @@
+{
+  "classA_druggable_consensus_clusters": 48,
+  "classA_druggable_system_pockets": 396,
+  "classA_orthosteric_consensus_clusters": 0,
+  "classA_orthosteric_system_pockets": 1,
+  "classA_stable_recurrent_clusters": [
+    "A0",
+    "A1",
+    "A2",
+    "A3",
+    "A5",
+    "A6",
+    "A7",
+    "A8",
+    "A9",
+    "A10",
+    "A11"
+  ],
+  "cross_class_policy": "Class-A definitions are tested primarily against a Class-A-only reconstructed atlas; all-cohort clustering is a sensitivity analysis until structural cross-class equivalence is validated.",
+  "distance_tier_inference": {
+    "contrast_rows": 17,
+    "different_receptor_system_pairs": 21285,
+    "median_receptor_signal_to_noise": 1.142769265184507,
+    "median_receptor_signal_to_noise_bootstrap_ci95_hi": 1.2157944084213623,
+    "median_receptor_signal_to_noise_bootstrap_ci95_lo": 1.0743934544986828,
+    "receptor_level_one_sided_sign_p": 0.001708984375,
+    "receptors_context_exceeds_replica_noise": 12,
+    "receptors_with_complete_context_contrast": 13
+  },
+  "druggable_consensus_clusters": 54,
+  "druggable_system_pockets": 426,
+  "fingerprint_family_permutation": {
+    "empirical_p_value": 0.34865134865134867,
+    "generic_position_features": 406,
+    "interpretation": "Sequential multivariate sums of squares; family is the increment beyond receptor identity, and residual is variation among the three replicas of each system.",
+    "null_95th_percentile_family_sum_of_squares": 3.2850205740297698,
+    "null_mean_family_sum_of_squares": 2.902278210750004,
+    "observed_family_sum_of_squares_after_receptor": 2.9673799995211287,
+    "partition_order": "GPCR class -> receptor identity -> administrative G-protein family -> system/context -> residual replica",
+    "primary_transform": "Hellinger-normalized fingerprint",
+    "receptor_blocks": 175,
+    "replica_observations": 621,
+    "systems": 207,
+    "within_receptor_system_label_permutations": 1000
+  },
+  "fingerprint_variance_fractions": {
+    "GPCR class": 0.02494632752721161,
+    "administrative G-protein family after receptor": 0.0066785446929724535,
+    "receptor identity within class": 0.4879817660542078,
+    "residual replica variation within system": 0.4256514347127037,
+    "system/context after receptor and family": 0.054741927012904396
+  },
+  "global_family_screen_cells": 486,
+  "global_family_screen_fwer_survivors": 3,
+  "input_files": [
+    {
+      "bytes": 388759,
+      "path": "paper1_figures_rigor_v2/pocket_replica_v2/analysis_final207/replica_reproducible_system_pockets_v2.json",
+      "sha256": "9ce9d5efde580485ee4dd74531c8e1725cea1f0a66eee2ac5375973c1dff98ec"
+    },
+    {
+      "bytes": 75756,
+      "path": "paper1_figures_rigor_v2/pocket_replica_v2/analysis_final207/replica_reproducible_consensus_clusters_v2.json",
+      "sha256": "a569322ab18e029fe45d926ad508d521a07cb734ce55ad54cd1721c04694e575"
+    },
+    {
+      "bytes": 9874,
+      "path": "paper1_figures_rigor_v2/pocket_replica_v2/analysis_final207/replica_reproducible_orthosteric_system_pockets_v2.json",
+      "sha256": "da31bfec282407246f92208faedf1d94ada6eb2114362f271e364ba824761ee4"
+    },
+    {
+      "bytes": 3975,
+      "path": "paper1_figures_rigor_v2/pocket_replica_v2/analysis_final207/replica_reproducible_orthosteric_consensus_clusters_v2.json",
+      "sha256": "78de72ed1db605f59ca3fd3b072af7d1fc6c02ed088a9632b4e0a61efc2d6b02"
+    },
+    {
+      "bytes": 1607,
+      "path": "paper1_figures_rigor_v2/pocket_replica_v2/analysis_final207/replica_pocket_reduction_summary_v2.json",
+      "sha256": "7e75fc21df68a6834843f069eee6e500f2fe590e80cd780ca0f20b51196281f4"
+    },
+    {
+      "bytes": 240414,
+      "path": "paper1_figures_rigor_v2/pocket_replica_v2/analysis_final207/replica_pocket_fingerprints_long_v2.csv",
+      "sha256": "dc9644f8ca7eb1b5b47ad126527ba1592c86a36efd197d57262ec587e3268d3c"
+    }
+  ],
+  "interpretation": "Final outputs are eligible for figure and manuscript updates.",
+  "known_site_primary_scope": "Class A only",
+  "legacy_C7_candidate": {
+    "anatomical_replication_eligible": true,
+    "core_jaccard_to_legacy_C7": 0.75,
+    "replica_cluster": "R6"
+  },
+  "orthosteric_consensus_clusters": 3,
+  "orthosteric_system_pockets": 11,
+  "parameters": {
+    "family_maxstat_permutations_per_screen": 10000,
+    "known_site_null_iterations_per_definition": 10000,
+    "receptor_bootstrap_iterations": 10000,
+    "replica_consensus_distance_threshold": 0.72,
+    "split_iterations": 100,
+    "variance_family_permutations": 1000,
+    "variance_receptor_bootstrap_iterations": 500
+  },
+  "significant_known_site_families": [
+    "IC345",
+    "IC56",
+    "NaP",
+    "OBP",
+    "TM345/TM35 mid-membrane family",
+    "UP124"
+  ],
+  "stable_recurrent_cluster_definition": "n_receptors >= 5 and receptor-split recovery probability >= 0.80 at best-core Jaccard >= 0.50",
+  "stable_recurrent_clusters": [
+    "R0",
+    "R1",
+    "R2",
+    "R3",
+    "R5",
+    "R6",
+    "R7",
+    "R8",
+    "R9",
+    "R11",
+    "R13"
+  ],
+  "status": "final207",
+  "systems_complete": 207,
+  "upstream_reducer_summary": {
+    "complete_legacy_context_contrasts": 17,
+    "different_receptor_system_pairs": 21285,
+    "interpretation": "Final outputs are eligible for rebuilding Figures 2 and 4.",
+    "mean_within_system_replica_jaccard_distance": 0.6340261209816372,
+    "median_within_system_replica_jaccard_distance": 0.6231884057971014,
+    "metadata_correction_overlay": {
+      "corrections": [
+        {
+          "correction_id": "EDNRA_8HCQ_20260728",
+          "evidence_report": "Gq_8HCQ_RECEPTOR_IDENTITY_SEQUENCE_AUDIT_20260728.md",
+          "new_receptor_uniprot": "P25101",
+          "old_receptor_uniprot": "P24530",
+          "system_id": "Gq_8HCQ"
+        },
+        {
+          "correction_id": "ADRA2B_6K42_20260730",
+          "evidence_report": "Gi_6K42_RECEPTOR_IDENTITY_SEQUENCE_AUDIT_20260730.md",
+          "new_receptor_uniprot": "P18089",
+          "old_receptor_uniprot": "P08913",
+          "system_id": "Gi_6K42"
+        }
+      ],
+      "path": "paper1_metadata_corrections_v3.csv",
+      "producer_call_jsons_modified": false,
+      "sha256": "3c5c7f3d100fcf412787db14d675a8e20ed7ae81cb539d8e86ceba19b067c726"
+    },
+    "parameters": {
+      "global_consensus_distance_threshold": 0.72,
+      "minimum_core_generics": 4,
+      "minimum_replicas": 2,
+      "within_system_matching_distance_threshold": 0.72
+    },
+    "replica_calls": 621,
+    "replica_reproducible_consensus_clusters": 54,
+    "replica_reproducible_orthosteric_consensus_clusters": 3,
+    "replica_reproducible_orthosteric_system_pockets": 11,
+    "replica_reproducible_system_pockets": 426,
+    "status": "final207",
+    "systems_complete": 207,
+    "unique_replica_fingerprint_generic_positions": 406
+  }
+}

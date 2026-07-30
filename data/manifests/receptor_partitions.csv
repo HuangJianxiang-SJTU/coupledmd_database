@@ -1,0 +1,268 @@
+requested_accession,gene_name,protein_name,homology_threshold,homology_cluster_id,homology_cluster_size,partition,supervised_label_access,local_trajectory_encoder_access,precog3d_label_universe,local_207_release,predeclared_pilot,pilot_gene,gpcrdb_class_code,gpcrdb_family_code,prospective_status
+Q9BY21,GPR87,G protein-coupled receptor 87,0.4,H40_035220abe4,2,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_037,not_prospective
+Q9H244,P2RY12,P2Y purinoceptor 12,0.4,H40_035220abe4,2,train,training_allowed,partition_scoped,False,True,False,,1.0,001_006_002_006,not_prospective
+Q9BZJ6,GPR63,Probable G protein-coupled receptor 63,0.4,H40_055998ecaa,2,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_027,not_prospective
+Q9Y5Y3,GPR45,Probable G protein-coupled receptor 45,0.4,H40_055998ecaa,2,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_022,not_prospective
+O00270,GPR31,"12-(S)-hydroxy-5,8,10,14-eicosatetraenoic acid receptor",0.4,H40_058457b9d7,4,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_014,not_prospective
+P49019,HCAR3,Hydroxycarboxylic acid receptor 3,0.4,H40_058457b9d7,4,train,training_allowed,partition_scoped,True,True,False,,1.0,001_008_001_003,not_prospective
+Q8TDS4,HCAR2,Hydroxycarboxylic acid receptor 2,0.4,H40_058457b9d7,4,train,training_allowed,partition_scoped,True,True,False,,1.0,001_008_001_002,not_prospective
+Q9BXC0,HCAR1,Hydroxycarboxylic acid receptor 1,0.4,H40_058457b9d7,4,train,training_allowed,partition_scoped,True,False,False,,1.0,001_008_001_001,not_prospective
+O95800,GPR75,Probable G protein-coupled receptor 75,0.4,H40_0f46d98926,1,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_030,not_prospective
+P49146,NPY2R,Neuropeptide Y receptor type 2,0.4,H40_110c76828c,1,validation,tuning_only,partition_scoped,True,True,False,,1.0,001_002_020_002,not_prospective
+Q9NYV8,TAS2R14,Taste receptor type 2 member 14,0.4,H40_142e665779,1,train,training_allowed,partition_scoped,False,True,False,,9.0,009_001_001_010,not_prospective
+Q99705,MCHR1,Melanin-concentrating hormone receptor 1,0.4,H40_157477bd1f,1,train,training_allowed,partition_scoped,False,True,False,,1.0,001_002_013_001,not_prospective
+P30988,CALCR,Calcitonin receptor,0.4,H40_16166d4d43,2,train,training_allowed,partition_scoped,True,True,False,,2.0,002_001_001_001,not_prospective
+Q16602,CALCRL,Calcitonin gene-related peptide type 1 receptor,0.4,H40_16166d4d43,2,train,training_allowed,partition_scoped,True,True,False,,2.0,002_001_001_005,not_prospective
+P32249,GPR183,G protein-coupled receptor 183,0.4,H40_1742ec31b8,1,train,training_allowed,partition_scoped,True,True,False,,1.0,001_010_001_060,not_prospective
+Q9BZJ8,GPR61,G protein-coupled receptor 61,0.4,H40_1a9157833a,1,train,training_allowed,partition_scoped,True,True,False,,1.0,001_010_001_025,not_prospective
+P21731,TBXA2R,Thromboxane A2 receptor,0.4,H40_1ce7443660,4,validation,tuning_only,partition_scoped,True,False,False,,1.0,001_004_008_009,not_prospective
+P34995,PTGER1,Prostaglandin E2 receptor EP1 subtype,0.4,H40_1ce7443660,4,validation,tuning_only,partition_scoped,True,False,False,,1.0,001_004_008_003,not_prospective
+P43088,PTGFR,Prostaglandin F2-alpha receptor,0.4,H40_1ce7443660,4,validation,tuning_only,partition_scoped,True,True,False,,1.0,001_004_008_007,not_prospective
+P43115,PTGER3,Prostaglandin E2 receptor EP3 subtype,0.4,H40_1ce7443660,4,validation,tuning_only,partition_scoped,True,True,False,,1.0,001_004_008_005,not_prospective
+Q9BZJ7,GPR62,G protein-coupled receptor 62,0.4,H40_1f8775ea81,1,validation,tuning_only,partition_scoped,True,False,False,,1.0,001_010_001_026,not_prospective
+Q99527,GPER1,G protein-coupled estrogen receptor 1,0.4,H40_2206892a41,1,train,training_allowed,partition_scoped,False,True,False,,1.0,001_007_002_001,not_prospective
+P28336,NMBR,Neuromedin-B receptor,0.4,H40_25fe07dbf4,3,train,training_allowed,partition_scoped,False,True,False,,1.0,001_002_003_001,not_prospective
+P30550,GRPR,Gastrin-releasing peptide receptor,0.4,H40_25fe07dbf4,3,train,training_allowed,partition_scoped,True,True,False,,1.0,001_002_003_002,not_prospective
+P32247,BRS3,Bombesin receptor subtype-3,0.4,H40_25fe07dbf4,3,train,training_allowed,partition_scoped,True,True,False,,1.0,001_002_003_003,not_prospective
+O60883,GPR37L1,G protein-coupled receptor 37-like 1,0.4,H40_2a88a6c97e,1,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_020,not_prospective
+O00155,GPR25,C-X-C chemokine receptor GPR25,0.4,H40_2c45e144ae,2,retrospective_test,sealed,fit_prohibited_evaluation_only,True,False,False,,1.0,001_010_001_011,not_prospective
+P49685,GPR15,G protein-coupled receptor 15,0.4,H40_2c45e144ae,2,retrospective_test,sealed,fit_prohibited_evaluation_only,False,True,False,,1.0,001_010_001_005,not_prospective
+O14842,FFAR1,Free fatty acid receptor 1,0.4,H40_30f07eb94f,1,train,training_allowed,partition_scoped,False,True,False,,1.0,001_004_001_001,not_prospective
+O75388,GPR32,Probable G protein-coupled receptor 32,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_015,not_prospective
+P21462,FPR1,N-formyl peptide receptor 1,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,True,True,False,,1.0,001_002_008_001,not_prospective
+P25024,CXCR1,C-X-C chemokine receptor type 1,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,False,True,False,,1.0,001_003_002_011,not_prospective
+P25025,CXCR2,C-X-C chemokine receptor type 2,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,True,True,False,,1.0,001_003_002_012,not_prospective
+P25090,FPR2,N-formyl peptide receptor 2,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,True,True,False,,1.0,001_002_008_002,not_prospective
+P30872,SSTR1,Somatostatin receptor type 1,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,True,True,False,,1.0,001_002_028_001,not_prospective
+P30874,SSTR2,Somatostatin receptor type 2,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,True,True,False,,1.0,001_002_028_002,not_prospective
+P31391,SSTR4,Somatostatin receptor type 4,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,True,True,False,,1.0,001_002_028_004,not_prospective
+P32246,CCR1,C-C chemokine receptor type 1,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,False,True,False,,1.0,001_003_002_001,not_prospective
+P32302,CXCR5,C-X-C chemokine receptor type 5,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,True,False,False,,1.0,001_003_002_015,not_prospective
+P32745,SSTR3,Somatostatin receptor type 3,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,True,True,False,,1.0,001_002_028_003,not_prospective
+P35346,SSTR5,Somatostatin receptor type 5,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,True,True,False,,1.0,001_002_028_005,not_prospective
+P35372,OPRM1,Mu-type opioid receptor,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,True,True,False,,1.0,001_002_022_003,not_prospective
+P41143,OPRD1,Delta-type opioid receptor,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,True,True,False,,1.0,001_002_022_001,not_prospective
+P41145,OPRK1,Kappa-type opioid receptor,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,True,True,False,,1.0,001_002_022_002,not_prospective
+P41146,OPRL1,Nociceptin receptor,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,True,True,False,,1.0,001_002_022_004,not_prospective
+P41231,P2RY2,P2Y purinoceptor 2,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,True,False,False,,1.0,001_006_002_002,not_prospective
+P41597,CCR2,C-C chemokine receptor type 2,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,False,True,False,,1.0,001_003_002_002,not_prospective
+P46091,CMKLR2,Chemerin-like receptor 2,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,False,True,False,,1.0,001_003_001_002,not_prospective
+P46094,XCR1,Chemokine XC receptor 1,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,False,True,False,,1.0,001_003_002_018,not_prospective
+P47900,P2RY1,P2Y purinoceptor 1,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,False,True,False,,1.0,001_006_002_001,not_prospective
+P49238,CX3CR1,CX3C chemokine receptor 1,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,False,True,False,,1.0,001_003_002_017,not_prospective
+P51677,CCR3,C-C chemokine receptor type 3,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,False,True,False,,1.0,001_003_002_003,not_prospective
+P51681,CCR5,C-C chemokine receptor type 5,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,True,True,False,,1.0,001_003_002_005,not_prospective
+P51684,CCR6,C-C chemokine receptor type 6,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,True,True,False,,1.0,001_003_002_006,not_prospective
+P51685,CCR8,C-C chemokine receptor type 8,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,False,True,False,,1.0,001_003_002_008,not_prospective
+P61073,CXCR4,C-X-C chemokine receptor type 4,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,True,True,False,,1.0,001_003_002_014,not_prospective
+Q16581,C3AR1,C3a anaphylatoxin chemotactic receptor,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,False,True,False,,1.0,001_002_006_001,not_prospective
+Q969V1,MCHR2,Melanin-concentrating hormone receptor 2,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,False,True,False,,1.0,001_002_013_002,not_prospective
+Q99788,CMKLR1,Chemerin-like receptor 1,0.4,H40_32fabcb9de,30,train,training_allowed,partition_scoped,False,True,False,,1.0,001_003_001_001,not_prospective
+O95136,S1PR2,Sphingosine 1-phosphate receptor 2,0.4,H40_356dd9c551,6,retrospective_test,sealed,fit_prohibited_evaluation_only,False,True,False,,1.0,001_004_004_002,not_prospective
+P21453,S1PR1,Sphingosine 1-phosphate receptor 1,0.4,H40_356dd9c551,6,retrospective_test,sealed,fit_prohibited_evaluation_only,True,True,False,,1.0,001_004_004_001,not_prospective
+P46089,GPR3,G protein-coupled receptor 3,0.4,H40_356dd9c551,6,retrospective_test,sealed,fit_prohibited_evaluation_only,False,True,False,,1.0,001_010_001_001,not_prospective
+P47775,GPR12,G protein-coupled receptor 12,0.4,H40_356dd9c551,6,retrospective_test,sealed,fit_prohibited_evaluation_only,False,True,False,,1.0,001_010_001_004,not_prospective
+Q99500,S1PR3,Sphingosine 1-phosphate receptor 3,0.4,H40_356dd9c551,6,retrospective_test,sealed,fit_prohibited_evaluation_only,False,True,False,,1.0,001_004_004_003,not_prospective
+Q9H228,S1PR5,Sphingosine 1-phosphate receptor 5,0.4,H40_356dd9c551,6,retrospective_test,sealed,fit_prohibited_evaluation_only,False,True,False,,1.0,001_004_004_005,not_prospective
+Q5T601,ADGRF1,Adhesion G protein-coupled receptor F1,0.4,H40_3a8625b452,4,train,training_allowed,partition_scoped,True,True,False,,3.0,003_001_006_001,not_prospective
+Q8IZF2,ADGRF5,Adhesion G protein-coupled receptor F5,0.4,H40_3a8625b452,4,train,training_allowed,partition_scoped,True,False,False,,3.0,003_001_006_005,not_prospective
+Q8IZF3,ADGRF4,Adhesion G protein-coupled receptor F4,0.4,H40_3a8625b452,4,train,training_allowed,partition_scoped,True,False,False,,3.0,003_001_006_004,not_prospective
+Q8IZF5,ADGRF3,Adhesion G protein-coupled receptor F3,0.4,H40_3a8625b452,4,train,training_allowed,partition_scoped,True,False,False,,3.0,003_001_006_003,not_prospective
+Q9NQS5,GPR84,G protein-coupled receptor 84,0.4,H40_3b48227fcd,1,train,training_allowed,partition_scoped,True,True,False,,1.0,001_010_001_035,not_prospective
+Q8TDT2,GPR152,Probable G protein-coupled receptor 152,0.4,H40_3da173868b,1,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_050,not_prospective
+Q969F8,KISS1R,KiSS-1 receptor,0.4,H40_3db3af46eb,1,train,training_allowed,partition_scoped,True,True,False,,1.0,001_002_012_001,not_prospective
+Q9Y2T6,GPR55,G protein-coupled receptor 55,0.4,H40_40c5a964fb,1,train,training_allowed,partition_scoped,False,True,False,,1.0,001_004_006_002,not_prospective
+P30556,AGTR1,Type-1 angiotensin II receptor,0.4,H40_4313e6fb17,1,train,training_allowed,partition_scoped,True,True,False,,1.0,001_002_001_001,not_prospective
+Q99678,GPR20,G protein-coupled receptor 20,0.4,H40_43ba15c30d,1,train,training_allowed,partition_scoped,True,True,False,,1.0,001_010_001_008,not_prospective
+P25105,PTAFR,Platelet-activating factor receptor,0.4,H40_45fb9e7c54,1,train,training_allowed,partition_scoped,False,True,False,,1.0,001_004_007_001,not_prospective
+P07550,ADRB2,Beta-2 adrenergic receptor,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,1.0,001_001_003_008,provisional_candidate_not_final_D4
+P08172,CHRM2,Muscarinic acetylcholine receptor M2,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,1.0,001_001_002_002,provisional_candidate_not_final_D4
+P08173,CHRM4,Muscarinic acetylcholine receptor M4,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,1.0,001_001_002_004,provisional_candidate_not_final_D4
+P08588,ADRB1,Beta-1 adrenergic receptor,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,False,False,,1.0,001_001_003_007,provisional_candidate_not_final_D4
+P08908,HTR1A,5-hydroxytryptamine receptor 1A,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,1.0,001_001_001_001,provisional_candidate_not_final_D4
+P08912,CHRM5,Muscarinic acetylcholine receptor M5,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,False,False,,1.0,001_001_002_005,provisional_candidate_not_final_D4
+P08913,ADRA2A,Alpha-2A adrenergic receptor,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,1.0,001_001_003_004,provisional_candidate_not_final_D4
+P0DMS8,ADORA3,Adenosine receptor A3,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,False,False,,1.0,001_006_001_004,provisional_candidate_not_final_D4
+P11229,CHRM1,Muscarinic acetylcholine receptor M1,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,1.0,001_001_002_001,provisional_candidate_not_final_D4
+P13945,ADRB3,Beta-3 adrenergic receptor,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,False,False,,1.0,001_001_003_009,provisional_candidate_not_final_D4
+P14416,DRD2,D(2) dopamine receptor,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,False,False,,1.0,001_001_004_002,provisional_candidate_not_final_D4
+P18089,ADRA2B,Alpha-2B adrenergic receptor,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,False,False,,1.0,001_001_003_005,provisional_candidate_not_final_D4
+P18825,ADRA2C,Alpha-2C adrenergic receptor,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,False,False,,1.0,001_001_003_006,provisional_candidate_not_final_D4
+P20309,CHRM3,Muscarinic acetylcholine receptor M3,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,1.0,001_001_002_003,provisional_candidate_not_final_D4
+P21728,DRD1,D(1A) dopamine receptor,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,1.0,001_001_004_001,provisional_candidate_not_final_D4
+P21917,DRD4,D(4) dopamine receptor,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,1.0,001_001_004_004,provisional_candidate_not_final_D4
+P21918,DRD5,D(1B) dopamine receptor,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,1.0,001_001_004_005,provisional_candidate_not_final_D4
+P25021,HRH2,Histamine H2 receptor,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,1.0,001_001_005_002,provisional_candidate_not_final_D4
+P25100,ADRA1D,Alpha-1D adrenergic receptor,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,False,False,,1.0,001_001_003_003,provisional_candidate_not_final_D4
+P28221,HTR1D,5-hydroxytryptamine receptor 1D,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,1.0,001_001_001_003,provisional_candidate_not_final_D4
+P28222,HTR1B,5-hydroxytryptamine receptor 1B,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,1.0,001_001_001_002,provisional_candidate_not_final_D4
+P28223,HTR2A,5-hydroxytryptamine receptor 2A,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,1.0,001_001_001_006,provisional_candidate_not_final_D4
+P28335,HTR2C,5-hydroxytryptamine receptor 2C,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,False,False,,1.0,001_001_001_008,provisional_candidate_not_final_D4
+P28566,HTR1E,5-hydroxytryptamine receptor 1E,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,1.0,001_001_001_004,provisional_candidate_not_final_D4
+P29274,ADORA2A,Adenosine receptor A2a,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,1.0,001_006_001_002,provisional_candidate_not_final_D4
+P29275,ADORA2B,Adenosine receptor A2b,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,1.0,001_006_001_003,provisional_candidate_not_final_D4
+P30542,ADORA1,Adenosine receptor A1,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,False,False,,1.0,001_006_001_001,provisional_candidate_not_final_D4
+P30939,HTR1F,5-hydroxytryptamine receptor 1F,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,1.0,001_001_001_005,provisional_candidate_not_final_D4
+P34969,HTR7,5-hydroxytryptamine receptor 7,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,1.0,001_001_001_013,provisional_candidate_not_final_D4
+P35348,ADRA1A,Alpha-1A adrenergic receptor,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,False,False,,1.0,001_001_003_001,provisional_candidate_not_final_D4
+P35367,HRH1,Histamine H1 receptor,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,True,True,HRH1,1.0,001_001_005_001,provisional_candidate_not_final_D4
+P35368,ADRA1B,Alpha-1B adrenergic receptor,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,False,False,,1.0,001_001_003_002,provisional_candidate_not_final_D4
+P35462,DRD3,D(3) dopamine receptor,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,1.0,001_001_004_003,provisional_candidate_not_final_D4
+P41595,HTR2B,5-hydroxytryptamine receptor 2B,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,1.0,001_001_001_007,provisional_candidate_not_final_D4
+P47898,HTR5A,5-hydroxytryptamine receptor 5A,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,1.0,001_001_001_010,provisional_candidate_not_final_D4
+P50406,HTR6,5-hydroxytryptamine receptor 6,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,1.0,001_001_001_012,provisional_candidate_not_final_D4
+Q13639,HTR4,5-hydroxytryptamine receptor 4,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,True,True,True,HTR4,1.0,001_001_001_009,provisional_candidate_not_final_D4
+Q96RJ0,TAAR1,Trace amine-associated receptor 1,0.4,H40_4ae3e91ff3,38,prospective_quarantine_candidate,sealed,prohibited,False,True,False,,1.0,001_001_006_001,provisional_candidate_not_final_D4
+P30968,GNRHR,Gonadotropin-releasing hormone receptor,0.4,H40_4e406c5663,1,validation,tuning_only,partition_scoped,True,False,False,,1.0,001_002_011_001,not_prospective
+Q8NGU9,GPR150,Probable G protein-coupled receptor 150,0.4,H40_4f487876c1,1,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_048,not_prospective
+Q9H255,OR51E2,Olfactory receptor 51E2,0.4,H40_4f79884251,1,train,training_allowed,partition_scoped,False,True,False,,7.0,007_001_001_010,not_prospective
+Q9UPC5,GPR34,Probable G protein-coupled receptor 34,0.4,H40_511befcd44,1,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_017,not_prospective
+P21730,C5AR1,C5a anaphylatoxin chemotactic receptor 1,0.4,H40_53f094f7ab,1,validation,tuning_only,partition_scoped,True,True,False,,1.0,001_002_006_002,not_prospective
+P21554,CNR1,Cannabinoid receptor 1,0.4,H40_53fb05f959,2,train,training_allowed,partition_scoped,True,True,False,,1.0,001_004_005_001,not_prospective
+P34972,CNR2,Cannabinoid receptor 2,0.4,H40_53fb05f959,2,train,training_allowed,partition_scoped,True,True,False,,1.0,001_004_005_002,not_prospective
+Q99679,GPR21,Probable G protein-coupled receptor 21,0.4,H40_5624429d44,2,validation,tuning_only,partition_scoped,True,True,False,,1.0,001_010_001_009,not_prospective
+Q9Y2T5,GPR52,G protein-coupled receptor 52,0.4,H40_5624429d44,2,validation,tuning_only,partition_scoped,True,True,False,,1.0,001_010_001_024,not_prospective
+Q8NDV2,GPR26,G protein-coupled receptor 26,0.4,H40_571e97fa0a,2,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_012,not_prospective
+Q96P69,GPR78,G protein-coupled receptor 78,0.4,H40_571e97fa0a,2,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_031,not_prospective
+Q9UP38,FZD1,Frizzled-1,0.4,H40_57c49861a2,1,train,training_allowed,partition_scoped,False,True,False,,6.0,006_001_001_001,not_prospective
+Q96P65,QRFPR,Pyroglutamylated RF-amide peptide receptor,0.4,H40_5defcd4be8,1,train,training_allowed,partition_scoped,False,True,False,,1.0,001_002_024_001,not_prospective
+P35408,PTGER4,Prostaglandin E2 receptor EP4 subtype,0.4,H40_5ef5842131,4,train,training_allowed,partition_scoped,True,True,False,,1.0,001_004_008_006,not_prospective
+P43116,PTGER2,Prostaglandin E2 receptor EP2 subtype,0.4,H40_5ef5842131,4,train,training_allowed,partition_scoped,True,True,False,,1.0,001_004_008_004,not_prospective
+P43119,PTGIR,Prostacyclin receptor,0.4,H40_5ef5842131,4,train,training_allowed,partition_scoped,True,True,False,,1.0,001_004_008_008,not_prospective
+Q13258,PTGDR,Prostaglandin D2 receptor,0.4,H40_5ef5842131,4,train,training_allowed,partition_scoped,True,False,False,,1.0,001_004_008_001,not_prospective
+O43603,GALR2,Galanin receptor type 2,0.4,H40_5f6d6732ab,3,train,training_allowed,partition_scoped,True,False,False,,1.0,001_002_009_002,not_prospective
+O60755,GALR3,Galanin receptor type 3,0.4,H40_5f6d6732ab,3,train,training_allowed,partition_scoped,True,False,False,,1.0,001_002_009_003,not_prospective
+P47211,GALR1,Galanin receptor type 1,0.4,H40_5f6d6732ab,3,train,training_allowed,partition_scoped,True,True,False,,1.0,001_002_009_001,not_prospective
+Q9BXA5,SUCNR1,Succinate receptor 1,0.4,H40_607bf50c23,1,train,training_allowed,partition_scoped,True,True,False,,1.0,001_008_003_001,not_prospective
+Q5NUL3,FFAR4,Free fatty acid receptor 4,0.4,H40_6324a8f6c9,1,train,training_allowed,partition_scoped,True,True,False,,1.0,001_004_001_004,not_prospective
+P25116,F2R,Proteinase-activated receptor 1,0.4,H40_67b0155327,1,train,training_allowed,partition_scoped,True,True,False,,1.0,001_002_026_001,not_prospective
+Q8N6U8,GPR161,G protein-coupled receptor 161,0.4,H40_70925417c4,1,train,training_allowed,partition_scoped,False,True,False,,1.0,001_010_001_053,not_prospective
+Q96AM1,MRGPRF,Mas-related G protein-coupled receptor member F,0.4,H40_74529ce2f6,1,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_068,not_prospective
+O14843,FFAR3,Free fatty acid receptor 3,0.4,H40_78ac81c4fe,2,retrospective_test,sealed,fit_prohibited_evaluation_only,True,True,False,,1.0,001_004_001_003,not_prospective
+O15552,FFAR2,Free fatty acid receptor 2,0.4,H40_78ac81c4fe,2,retrospective_test,sealed,fit_prohibited_evaluation_only,True,False,False,,1.0,001_004_001_002,not_prospective
+Q9HC97,GPR35,G protein-coupled receptor 35,0.4,H40_7afd5886f1,1,validation,tuning_only,partition_scoped,True,False,False,,1.0,001_010_001_018,not_prospective
+Q16538,GPR162,Probable G protein-coupled receptor 162,0.4,H40_7be3281a1a,2,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_054,not_prospective
+Q6NV75,GPR153,Probable G protein-coupled receptor 153,0.4,H40_7be3281a1a,2,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_051,not_prospective
+Q8TDS7,MRGPRD,Mas-related G protein-coupled receptor member D,0.4,H40_7c244e1d66,4,train,training_allowed,partition_scoped,True,True,False,,1.0,001_010_001_066,not_prospective
+Q96LA9,MRGPRX4,Mas-related G protein-coupled receptor member X4,0.4,H40_7c244e1d66,4,train,training_allowed,partition_scoped,False,True,False,,1.0,001_010_001_073,not_prospective
+Q96LB1,MRGPRX2,Mas-related G protein-coupled receptor member X2,0.4,H40_7c244e1d66,4,train,training_allowed,partition_scoped,False,True,False,,1.0,001_010_001_071,not_prospective
+Q96LB2,MRGPRX1,Mas-related G protein-coupled receptor member X1,0.4,H40_7c244e1d66,4,train,training_allowed,partition_scoped,False,True,False,,1.0,001_010_001_070,not_prospective
+Q96P67,GPR82,Probable G protein-coupled receptor 82,0.4,H40_81b1c07434,1,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_033,not_prospective
+P25929,NPY1R,Neuropeptide Y receptor type 1,0.4,H40_837e53b712,4,train,training_allowed,partition_scoped,True,True,False,,1.0,001_002_020_001,not_prospective
+P49683,PRLHR,Prolactin-releasing peptide receptor,0.4,H40_837e53b712,4,train,training_allowed,partition_scoped,False,True,False,,1.0,001_002_025_001,not_prospective
+P50391,NPY4R,Neuropeptide Y receptor type 4,0.4,H40_837e53b712,4,train,training_allowed,partition_scoped,True,True,False,,1.0,001_002_020_003,not_prospective
+Q15761,NPY5R,Neuropeptide Y receptor type 5,0.4,H40_837e53b712,4,train,training_allowed,partition_scoped,True,False,False,,1.0,001_002_020_004,not_prospective
+Q8TDU9,RXFP4,Relaxin-3 receptor 2,0.4,H40_85492648b0,1,train,training_allowed,partition_scoped,False,True,False,,1.0,001_002_027_004,not_prospective
+P21452,TACR2,Substance-K receptor,0.4,H40_85caee901d,3,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,1.0,001_002_029_002,provisional_candidate_not_final_D4
+P25103,TACR1,Substance-P receptor,0.4,H40_85caee901d,3,prospective_quarantine_candidate,sealed,prohibited,True,True,True,TACR1,1.0,001_002_029_001,provisional_candidate_not_final_D4
+P29371,TACR3,Neuromedin-K receptor,0.4,H40_85caee901d,3,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,1.0,001_002_029_003,provisional_candidate_not_final_D4
+Q5UAW9,GPR157,G protein-coupled receptor 157,0.4,H40_8674367f8a,1,train,training_allowed,partition_scoped,True,False,False,,10.0,010_001_001_005,not_prospective
+P30411,BDKRB2,B2 bradykinin receptor,0.4,H40_86bdaeb04b,2,validation,tuning_only,partition_scoped,True,True,False,,1.0,001_002_004_002,not_prospective
+P46663,BDKRB1,B1 bradykinin receptor,0.4,H40_86bdaeb04b,2,validation,tuning_only,partition_scoped,True,True,False,,1.0,001_002_004_001,not_prospective
+P34998,CRHR1,Corticotropin-releasing hormone receptor 1,0.4,H40_87b70385ca,2,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,nan,nan,provisional_candidate_not_final_D4
+Q13324,CRHR2,Corticotropin-releasing hormone receptor 2,0.4,H40_87b70385ca,2,prospective_quarantine_candidate,sealed,prohibited,True,True,True,CRHR2,2.0,002_001_002_002,provisional_candidate_not_final_D4
+P24530,EDNRB,Endothelin receptor type B,0.4,H40_890db3cf24,2,retrospective_test,sealed,fit_prohibited_evaluation_only,True,True,False,,1.0,001_002_007_002,not_prospective
+P25101,EDNRA,Endothelin-1 receptor,0.4,H40_890db3cf24,2,retrospective_test,sealed,fit_prohibited_evaluation_only,True,True,False,,1.0,001_002_007_001,not_prospective
+P43657,LPAR6,Lysophosphatidic acid receptor 6,0.4,H40_8a090bc718,1,validation,tuning_only,partition_scoped,True,False,False,,1.0,001_004_003_006,not_prospective
+Q86SM5,MRGPRG,Mas-related G protein-coupled receptor member G,0.4,H40_8b8ed36bcb,1,retrospective_test,sealed,fit_prohibited_evaluation_only,True,False,False,,1.0,001_010_001_069,not_prospective
+Q9Y653,ADGRG1,Adhesion G protein-coupled receptor G1,0.4,H40_8c23b96615,1,validation,tuning_only,partition_scoped,True,True,False,,3.0,003_001_008_001,not_prospective
+Q6DWJ6,GPR139,Probable G protein-coupled receptor 139,0.4,H40_8f9ca189dd,2,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_042,not_prospective
+Q7Z601,GPR142,G protein-coupled receptor 142,0.4,H40_8f9ca189dd,2,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_044,not_prospective
+P32245,MC4R,Melanocortin receptor 4,0.4,H40_918064ad3d,4,train,training_allowed,partition_scoped,True,True,False,,1.0,001_002_014_004,not_prospective
+P33032,MC5R,Melanocortin receptor 5,0.4,H40_918064ad3d,4,train,training_allowed,partition_scoped,True,True,False,,1.0,001_002_014_005,not_prospective
+P41968,MC3R,Melanocortin receptor 3,0.4,H40_918064ad3d,4,train,training_allowed,partition_scoped,True,True,False,,1.0,001_002_014_003,not_prospective
+Q01726,MC1R,Melanocyte-stimulating hormone receptor,0.4,H40_918064ad3d,4,train,training_allowed,partition_scoped,True,True,False,,1.0,001_002_014_001,not_prospective
+P08100,RHO,Rhodopsin,0.4,H40_9649a75e61,1,validation,tuning_only,partition_scoped,False,True,False,,1.0,001_009_001_001,not_prospective
+O00398,P2RY10,Putative P2Y purinoceptor 10,0.4,H40_968bf0fbbc,3,validation,tuning_only,partition_scoped,True,True,False,,1.0,001_010_001_075,not_prospective
+Q13304,GPR17,Uracil nucleotide/cysteinyl leukotriene receptor,0.4,H40_968bf0fbbc,3,validation,tuning_only,partition_scoped,False,True,False,,1.0,001_010_001_006,not_prospective
+Q9BXC1,GPR174,Probable G protein-coupled receptor 174,0.4,H40_968bf0fbbc,3,validation,tuning_only,partition_scoped,True,True,False,,1.0,001_010_001_057,not_prospective
+Q8TDV2,GPR148,Probable G protein-coupled receptor 148,0.4,H40_985bf9aa3b,1,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_046,not_prospective
+Q8TDV0,GPR151,G protein-coupled receptor 151,0.4,H40_98d23293b7,1,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_049,not_prospective
+P34981,TRHR,Thyrotropin-releasing hormone receptor,0.4,H40_9e5cb8a5f8,1,train,training_allowed,partition_scoped,False,True,False,,1.0,001_002_030_001,not_prospective
+P48039,MTNR1A,Melatonin receptor type 1A,0.4,H40_9ed91c9956,2,train,training_allowed,partition_scoped,True,True,False,,1.0,001_005_001_001,not_prospective
+P49286,MTNR1B,Melatonin receptor type 1B,0.4,H40_9ed91c9956,2,train,training_allowed,partition_scoped,True,True,False,,1.0,001_005_001_002,not_prospective
+Q92633,LPAR1,Lysophosphatidic acid receptor 1,0.4,H40_a19145c36c,2,retrospective_test,sealed,fit_prohibited_evaluation_only,True,True,False,,1.0,001_004_003_001,not_prospective
+Q9HBW0,LPAR2,Lysophosphatidic acid receptor 2,0.4,H40_a19145c36c,2,retrospective_test,sealed,fit_prohibited_evaluation_only,True,False,False,,1.0,001_004_003_002,not_prospective
+P48960,ADGRE5,Adhesion G protein-coupled receptor E5,0.4,H40_a2556ffc0f,4,train,training_allowed,partition_scoped,False,True,False,,3.0,003_001_002_005,not_prospective
+Q6QNK2,ADGRD1,Adhesion G protein-coupled receptor D1,0.4,H40_a2556ffc0f,4,train,training_allowed,partition_scoped,True,True,False,,3.0,003_001_005_001,not_prospective
+Q7Z7M1,ADGRD2,Adhesion G protein-coupled receptor D2,0.4,H40_a2556ffc0f,4,train,training_allowed,partition_scoped,True,False,False,,3.0,003_001_005_002,not_prospective
+Q9HAR2,ADGRL3,Adhesion G protein-coupled receptor L3,0.4,H40_a2556ffc0f,4,train,training_allowed,partition_scoped,False,True,False,,3.0,003_001_001_003,not_prospective
+P04000,OPN1LW,Long-wave-sensitive opsin 1,0.4,H40_a5618791b9,1,retrospective_test,sealed,fit_prohibited_evaluation_only,False,True,False,,1.0,001_009_001_007,not_prospective
+Q15722,LTB4R,Leukotriene B4 receptor 1,0.4,H40_a6bc11dbc3,3,train,training_allowed,partition_scoped,True,True,False,,1.0,001_004_002_001,not_prospective
+Q9NPC1,LTB4R2,Leukotriene B4 receptor 2,0.4,H40_a6bc11dbc3,3,train,training_allowed,partition_scoped,True,False,False,,1.0,001_004_002_002,not_prospective
+Q9Y5Y4,PTGDR2,Prostaglandin D2 receptor 2,0.4,H40_a6bc11dbc3,3,train,training_allowed,partition_scoped,True,True,False,,1.0,001_004_008_002,not_prospective
+O00222,GRM8,Metabotropic glutamate receptor 8,0.4,H40_a7e76d754f,8,train,training_allowed,partition_scoped,True,False,False,,4.0,004_002_002_008,not_prospective
+O15303,GRM6,Metabotropic glutamate receptor 6,0.4,H40_a7e76d754f,8,train,training_allowed,partition_scoped,True,False,False,,4.0,004_002_002_006,not_prospective
+P41594,GRM5,Metabotropic glutamate receptor 5,0.4,H40_a7e76d754f,8,train,training_allowed,partition_scoped,True,False,False,,4.0,004_002_002_005,not_prospective
+Q13255,GRM1,Metabotropic glutamate receptor 1,0.4,H40_a7e76d754f,8,train,training_allowed,partition_scoped,True,False,False,,4.0,004_002_002_001,not_prospective
+Q14416,GRM2,Metabotropic glutamate receptor 2,0.4,H40_a7e76d754f,8,train,training_allowed,partition_scoped,True,False,False,,4.0,004_002_002_002,not_prospective
+Q14831,GRM7,Metabotropic glutamate receptor 7,0.4,H40_a7e76d754f,8,train,training_allowed,partition_scoped,True,False,False,,4.0,004_002_002_007,not_prospective
+Q14832,GRM3,Metabotropic glutamate receptor 3,0.4,H40_a7e76d754f,8,train,training_allowed,partition_scoped,True,False,False,,4.0,004_002_002_003,not_prospective
+Q14833,GRM4,Metabotropic glutamate receptor 4,0.4,H40_a7e76d754f,8,train,training_allowed,partition_scoped,True,False,False,,4.0,004_002_002_004,not_prospective
+Q86SP6,GPR149,Probable G protein-coupled receptor 149,0.4,H40_ae4e61624a,1,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_047,not_prospective
+Q9NS75,CYSLTR2,Cysteinyl leukotriene receptor 2,0.4,H40_b1e8281142,2,retrospective_test,sealed,fit_prohibited_evaluation_only,True,False,False,,1.0,001_004_002_004,not_prospective
+Q9Y271,CYSLTR1,Cysteinyl leukotriene receptor 1,0.4,H40_b1e8281142,2,retrospective_test,sealed,fit_prohibited_evaluation_only,True,False,False,,1.0,001_004_002_003,not_prospective
+P32238,CCKAR,Cholecystokinin receptor type A,0.4,H40_b48dc3e4ed,2,train,training_allowed,partition_scoped,True,True,False,,1.0,001_002_005_001,not_prospective
+P32239,CCKBR,Gastrin/cholecystokinin type B receptor,0.4,H40_b48dc3e4ed,2,train,training_allowed,partition_scoped,True,True,False,,1.0,001_002_005_002,not_prospective
+Q8IWK6,ADGRA3,Adhesion G protein-coupled receptor A3,0.4,H40_b721c280fd,2,retrospective_test,sealed,fit_prohibited_evaluation_only,True,False,False,,3.0,003_001_003_003,not_prospective
+Q96PE1,ADGRA2,Adhesion G protein-coupled receptor A2,0.4,H40_b721c280fd,2,retrospective_test,sealed,fit_prohibited_evaluation_only,True,False,False,,3.0,003_001_003_002,not_prospective
+Q9HBX9,RXFP1,Relaxin receptor 1,0.4,H40_b79d43aeb7,1,train,training_allowed,partition_scoped,False,True,False,,1.0,001_002_027_001,not_prospective
+Q9H3N8,HRH4,Histamine H4 receptor,0.4,H40_b8446140e5,2,train,training_allowed,partition_scoped,False,True,False,,1.0,001_001_005_004,not_prospective
+Q9Y5N1,HRH3,Histamine H3 receptor,0.4,H40_b8446140e5,2,train,training_allowed,partition_scoped,True,True,False,,1.0,001_001_005_003,not_prospective
+P55085,F2RL1,Proteinase-activated receptor 2,0.4,H40_bcd6823d89,1,retrospective_test,sealed,fit_prohibited_evaluation_only,True,False,False,,1.0,001_002_026_002,not_prospective
+Q9GZQ4,NMUR2,Neuromedin-U receptor 2,0.4,H40_c5c9d708c1,2,train,training_allowed,partition_scoped,False,True,False,,1.0,001_002_016_002,not_prospective
+Q9HB89,NMUR1,Neuromedin-U receptor 1,0.4,H40_c5c9d708c1,2,train,training_allowed,partition_scoped,False,True,False,,1.0,001_002_016_001,not_prospective
+Q14330,GPR18,N-arachidonyl glycine receptor,0.4,H40_c62155591f,1,train,training_allowed,partition_scoped,True,False,False,,1.0,001_004_006_001,not_prospective
+Q96P66,GPR101,Probable G protein-coupled receptor 101,0.4,H40_ca98ec1e79,1,train,training_allowed,partition_scoped,False,True,False,,1.0,001_010_001_039,not_prospective
+Q9GZN0,GPR88,G protein-coupled receptor 88,0.4,H40_ccdff8b66a,1,validation,tuning_only,partition_scoped,True,True,False,,1.0,001_010_001_038,not_prospective
+O14626,GPR171,G protein-coupled receptor 171,0.4,H40_ce898ef1da,1,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_055,not_prospective
+Q8TDU6,GPBAR1,G protein-coupled bile acid receptor 1,0.4,H40_d219ba8f23,1,retrospective_test,sealed,fit_prohibited_evaluation_only,True,True,False,,1.0,001_007_001_001,not_prospective
+O43613,HCRTR1,Orexin/Hypocretin receptor type 1,0.4,H40_d694e06d46,4,prospective_quarantine_candidate,sealed,prohibited,True,False,False,,1.0,001_002_023_001,provisional_candidate_not_final_D4
+O43614,HCRTR2,Orexin receptor type 2,0.4,H40_d694e06d46,4,prospective_quarantine_candidate,sealed,prohibited,True,True,True,HCRTR2,1.0,001_002_023_002,provisional_candidate_not_final_D4
+Q9GZQ6,NPFFR1,Neuropeptide FF receptor 1,0.4,H40_d694e06d46,4,prospective_quarantine_candidate,sealed,prohibited,True,False,False,,1.0,001_002_017_001,provisional_candidate_not_final_D4
+Q9Y5X5,NPFFR2,Neuropeptide FF receptor 2,0.4,H40_d694e06d46,4,prospective_quarantine_candidate,sealed,prohibited,True,False,False,,1.0,001_002_017_002,provisional_candidate_not_final_D4
+Q96CH1,GPR146,G protein-coupled receptor 146,0.4,H40_d889a70606,1,validation,tuning_only,partition_scoped,True,False,False,,1.0,001_010_001_045,not_prospective
+Q99680,GPR22,G protein-coupled receptor 22,0.4,H40_db5d3f9b1a,1,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_010,not_prospective
+Q8IZ08,GPR135,G protein-coupled receptor 135,0.4,H40_dcfd4946ff,1,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_041,not_prospective
+Q9UJ42,GPR160,Probable G protein-coupled receptor 160,0.4,H40_df3fd848e2,1,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_052,not_prospective
+O15218,ACKR5,Atypical chemokine receptor 5,0.4,H40_df71048f86,1,retrospective_test,sealed,fit_prohibited_evaluation_only,True,False,False,,1.0,001_010_001_059,not_prospective
+P60893,GPR85,Probable G protein-coupled receptor 85,0.4,H40_e4cd0af002,3,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_036,not_prospective
+Q9NS66,GPR173,Probable G protein-coupled receptor 173,0.4,H40_e4cd0af002,3,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_056,not_prospective
+Q9NS67,GPR27,Probable G protein-coupled receptor 27,0.4,H40_e4cd0af002,3,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_013,not_prospective
+P46093,GPR4,G protein-coupled receptor 4,0.4,H40_e4d16b7869,3,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_002,not_prospective
+Q15743,GPR68,G protein-coupled receptor 68,0.4,H40_e4d16b7869,3,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_029,not_prospective
+Q8IYL9,GPR65,G protein-coupled receptor 65,0.4,H40_e4d16b7869,3,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_028,not_prospective
+Q9UNW8,GPR132,Probable G protein-coupled receptor 132,0.4,H40_e5311f800f,1,train,training_allowed,partition_scoped,True,True,False,,1.0,001_010_001_040,not_prospective
+P35414,APLNR,Apelin receptor,0.4,H40_e779c978ba,1,train,training_allowed,partition_scoped,True,True,False,,1.0,001_002_002_001,not_prospective
+P30518,AVPR2,Vasopressin V2 receptor,0.4,H40_e8428ebd3c,4,retrospective_test,sealed,fit_prohibited_evaluation_only,True,True,False,,1.0,001_002_032_003,not_prospective
+P30559,OXTR,Oxytocin receptor,0.4,H40_e8428ebd3c,4,retrospective_test,sealed,fit_prohibited_evaluation_only,True,True,False,,1.0,001_002_032_004,not_prospective
+P37288,AVPR1A,Vasopressin V1a receptor,0.4,H40_e8428ebd3c,4,retrospective_test,sealed,fit_prohibited_evaluation_only,True,False,False,,1.0,001_002_032_001,not_prospective
+P47901,AVPR1B,Vasopressin V1b receptor,0.4,H40_e8428ebd3c,4,retrospective_test,sealed,fit_prohibited_evaluation_only,True,False,False,,1.0,001_002_032_002,not_prospective
+O43193,MLNR,Motilin receptor,0.4,H40_f0a2fca73e,4,train,training_allowed,partition_scoped,False,True,False,,1.0,001_002_015_001,not_prospective
+O43194,GPR39,G protein-coupled receptor 39,0.4,H40_f0a2fca73e,4,train,training_allowed,partition_scoped,True,False,False,,1.0,001_010_001_021,not_prospective
+P30989,NTSR1,Neurotensin receptor type 1,0.4,H40_f0a2fca73e,4,train,training_allowed,partition_scoped,True,True,False,,1.0,001_002_021_001,not_prospective
+Q92847,GHSR,Growth hormone secretagogue receptor type 1,0.4,H40_f0a2fca73e,4,train,training_allowed,partition_scoped,True,True,False,,1.0,001_002_010_001,not_prospective
+P16473,TSHR,Thyrotropin receptor,0.4,H40_f15261391f,3,train,training_allowed,partition_scoped,False,True,False,,1.0,001_003_003_003,not_prospective
+P22888,LHCGR,Lutropin-choriogonadotropic hormone receptor,0.4,H40_f15261391f,3,train,training_allowed,partition_scoped,False,True,False,,1.0,001_003_003_002,not_prospective
+P23945,FSHR,Follicle-stimulating hormone receptor,0.4,H40_f15261391f,3,train,training_allowed,partition_scoped,False,True,False,,1.0,001_003_003_001,not_prospective
+Q96P68,OXGR1,2-oxoglutarate receptor 1,0.4,H40_f16c81d6d2,1,train,training_allowed,partition_scoped,True,False,False,,1.0,001_008_002_001,not_prospective
+Q15760,GPR19,Probable G protein-coupled receptor 19,0.4,H40_f441e4a2b3,1,retrospective_test,sealed,fit_prohibited_evaluation_only,True,False,False,,1.0,001_010_001_007,not_prospective
+Q8TDV5,GPR119,Glucose-dependent insulinotropic receptor,0.4,H40_f4ea142fad,1,retrospective_test,sealed,fit_prohibited_evaluation_only,False,True,False,,1.0,001_004_006_003,not_prospective
+Q86SM8,MRGPRE,Mas-related G protein-coupled receptor member E,0.4,H40_f5cb7ae241,1,validation,tuning_only,partition_scoped,True,False,False,,1.0,001_010_001_067,not_prospective
+O95838,GLP2R,Glucagon-like peptide 2 receptor,0.4,H40_fdc8e81fe6,12,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,2.0,002_001_003_004,provisional_candidate_not_final_D4
+P32241,VIPR1,Vasoactive intestinal polypeptide receptor 1,0.4,H40_fdc8e81fe6,12,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,2.0,002_001_005_002,provisional_candidate_not_final_D4
+P41586,ADCYAP1R1,Pituitary adenylate cyclase-activating polypeptide type I receptor,0.4,H40_fdc8e81fe6,12,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,2.0,002_001_005_001,provisional_candidate_not_final_D4
+P41587,VIPR2,Vasoactive intestinal polypeptide receptor 2,0.4,H40_fdc8e81fe6,12,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,2.0,002_001_005_003,provisional_candidate_not_final_D4
+P43220,GLP1R,Glucagon-like peptide 1 receptor,0.4,H40_fdc8e81fe6,12,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,2.0,002_001_003_003,provisional_candidate_not_final_D4
+P47871,GCGR,Glucagon receptor,0.4,H40_fdc8e81fe6,12,prospective_quarantine_candidate,sealed,prohibited,True,True,True,GCGR,2.0,002_001_003_005,provisional_candidate_not_final_D4
+P47872,SCTR,Secretin receptor,0.4,H40_fdc8e81fe6,12,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,2.0,002_001_003_006,provisional_candidate_not_final_D4
+P48546,GIPR,Gastric inhibitory polypeptide receptor,0.4,H40_fdc8e81fe6,12,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,2.0,002_001_003_002,provisional_candidate_not_final_D4
+P49190,PTH2R,Parathyroid hormone 2 receptor,0.4,H40_fdc8e81fe6,12,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,2.0,002_001_004_002,provisional_candidate_not_final_D4
+Q02643,GHRHR,Growth hormone-releasing hormone receptor,0.4,H40_fdc8e81fe6,12,prospective_quarantine_candidate,sealed,prohibited,True,False,False,,2.0,002_001_003_001,provisional_candidate_not_final_D4
+Q03431,PTH1R,Parathyroid hormone/parathyroid hormone-related peptide receptor,0.4,H40_fdc8e81fe6,12,prospective_quarantine_candidate,sealed,prohibited,True,True,False,,2.0,002_001_004_001,provisional_candidate_not_final_D4
+Q9HB45,GHRHR,GHRH receptor splice variant 1,0.4,H40_fdc8e81fe6,12,prospective_quarantine_candidate,sealed,prohibited,False,True,False,,2.0,002_001_003_001,provisional_candidate_not_final_D4
+Q86SQ4,ADGRG6,Adhesion G protein-coupled receptor G6,0.4,H40_fe0522e077,5,train,training_allowed,partition_scoped,True,False,False,,3.0,003_001_008_006,not_prospective
+Q86Y34,ADGRG3,Adhesion G protein-coupled receptor G3,0.4,H40_fe0522e077,5,train,training_allowed,partition_scoped,True,True,False,,3.0,003_001_008_003,not_prospective
+Q8IZF4,ADGRG5,Adhesion G protein-coupled receptor G5,0.4,H40_fe0522e077,5,train,training_allowed,partition_scoped,True,True,False,,3.0,003_001_008_005,not_prospective
+Q8IZF6,ADGRG4,Adhesion G protein-coupled receptor G4,0.4,H40_fe0522e077,5,train,training_allowed,partition_scoped,False,True,False,,3.0,003_001_008_004,not_prospective
+Q8IZP9,ADGRG2,Adhesion G protein-coupled receptor G2,0.4,H40_fe0522e077,5,train,training_allowed,partition_scoped,True,False,False,,3.0,003_001_008_002,not_prospective

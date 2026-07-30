@@ -1,0 +1,375 @@
+{
+  "canvas": {
+    "height_mm": 144.78,
+    "width_mm": 180.0
+  },
+  "figure": "S2",
+  "panels": {
+    "A": [
+      {
+        "contrast": "Gq-Gs",
+        "gateway_expected_triplicate_sampling_mad": 0.0320488095951906,
+        "gateway_mean_absolute_difference": 0.1102380952380952,
+        "gateway_sampling_null_p": 4.999750012499375e-05,
+        "gateway_sampling_null_q": 0.0005999700014999,
+        "receptor": "H1R"
+      },
+      {
+        "contrast": "Gq-Gs",
+        "gateway_expected_triplicate_sampling_mad": 0.0609751981244111,
+        "gateway_mean_absolute_difference": 0.1097619047619047,
+        "gateway_sampling_null_p": 0.0173491325433728,
+        "gateway_sampling_null_q": 0.0693965301734913,
+        "receptor": "OX2R"
+      },
+      {
+        "contrast": "Gq-Gs",
+        "gateway_expected_triplicate_sampling_mad": 0.0700262700292415,
+        "gateway_mean_absolute_difference": 0.089047619047619,
+        "gateway_sampling_null_p": 0.1971401429928503,
+        "gateway_sampling_null_q": 0.3379545308448863,
+        "receptor": "NK1R"
+      },
+      {
+        "contrast": "Gi-Gs",
+        "gateway_expected_triplicate_sampling_mad": 0.0252210867576397,
+        "gateway_mean_absolute_difference": 0.0857142857142857,
+        "gateway_sampling_null_p": 4.999750012499375e-05,
+        "gateway_sampling_null_q": 0.0005999700014999,
+        "receptor": "CRHR2"
+      },
+      {
+        "contrast": "Gi-Gq",
+        "gateway_expected_triplicate_sampling_mad": 0.0500749576262511,
+        "gateway_mean_absolute_difference": 0.0838095238095238,
+        "gateway_sampling_null_p": 0.0287485625718714,
+        "gateway_sampling_null_q": 0.0985665002464162,
+        "receptor": "EDNRB"
+      },
+      {
+        "contrast": "Gq-Gs",
+        "gateway_expected_triplicate_sampling_mad": 0.0673396229381818,
+        "gateway_mean_absolute_difference": 0.0766666666666666,
+        "gateway_sampling_null_p": 0.3252337383130843,
+        "gateway_sampling_null_q": 0.4878506074696265,
+        "receptor": "P2Y1R"
+      },
+      {
+        "contrast": "Gi-Gs",
+        "gateway_expected_triplicate_sampling_mad": 0.0614929788400987,
+        "gateway_mean_absolute_difference": 0.0759523809523809,
+        "gateway_sampling_null_p": 0.2285385730713464,
+        "gateway_sampling_null_q": 0.3656617169141543,
+        "receptor": "OX2R"
+      },
+      {
+        "contrast": "Gi-Gq",
+        "gateway_expected_triplicate_sampling_mad": 0.0470203977711069,
+        "gateway_mean_absolute_difference": 0.0754761904761904,
+        "gateway_sampling_null_p": 0.0631468426578671,
+        "gateway_sampling_null_q": 0.1683915804209789,
+        "receptor": "FFAR4"
+      },
+      {
+        "contrast": "Gi-Gs",
+        "gateway_expected_triplicate_sampling_mad": 0.0748286321475937,
+        "gateway_mean_absolute_difference": 0.0730952380952381,
+        "gateway_sampling_null_p": 0.4892755362231888,
+        "gateway_sampling_null_q": 0.5871306434678266,
+        "receptor": "FFAR4"
+      },
+      {
+        "contrast": "Gi-Gq",
+        "gateway_expected_triplicate_sampling_mad": 0.0477153567515979,
+        "gateway_mean_absolute_difference": 0.0699999999999999,
+        "gateway_sampling_null_p": 0.1185440727963601,
+        "gateway_sampling_null_q": 0.2586416133738767,
+        "receptor": "SSTR2"
+      },
+      {
+        "contrast": "Gq-Gs",
+        "gateway_expected_triplicate_sampling_mad": 0.0634630583227556,
+        "gateway_mean_absolute_difference": 0.0680952380952381,
+        "gateway_sampling_null_p": 0.3775811209439528,
+        "gateway_sampling_null_q": 0.5034414945919371,
+        "receptor": "FFAR4"
+      },
+      {
+        "contrast": "Gi-Gq",
+        "gateway_expected_triplicate_sampling_mad": 0.0259525423279613,
+        "gateway_mean_absolute_difference": 0.0509523809523809,
+        "gateway_sampling_null_p": 0.0120493975301234,
+        "gateway_sampling_null_q": 0.0578371081445927,
+        "receptor": "OX2R"
+      },
+      {
+        "contrast": "Gq-G12-13",
+        "gateway_expected_triplicate_sampling_mad": 0.0316865320506441,
+        "gateway_mean_absolute_difference": 0.0492857142857142,
+        "gateway_sampling_null_p": 0.0944452777361131,
+        "gateway_sampling_null_q": 0.2266686665666716,
+        "receptor": "ADGRE5"
+      },
+      {
+        "contrast": "Gi-Gq",
+        "gateway_expected_triplicate_sampling_mad": 0.0781466501078971,
+        "gateway_mean_absolute_difference": 0.0388095238095238,
+        "gateway_sampling_null_p": 0.944002799860007,
+        "gateway_sampling_null_q": 0.953052347382631,
+        "receptor": "CCKBR"
+      },
+      {
+        "contrast": "Gi-Gq",
+        "gateway_expected_triplicate_sampling_mad": 0.0647628262970207,
+        "gateway_mean_absolute_difference": 0.0364285714285714,
+        "gateway_sampling_null_p": 0.9180040997950104,
+        "gateway_sampling_null_q": 0.953052347382631,
+        "receptor": "CCKAR"
+      },
+      {
+        "contrast": "Gq-Gs",
+        "gateway_expected_triplicate_sampling_mad": 0.0678968907004693,
+        "gateway_mean_absolute_difference": 0.0342857142857142,
+        "gateway_sampling_null_p": 0.9530523473826308,
+        "gateway_sampling_null_q": 0.953052347382631,
+        "receptor": "EDNRA"
+      },
+      {
+        "contrast": "Gi-Gs",
+        "gateway_expected_triplicate_sampling_mad": 0.0579817088151147,
+        "gateway_mean_absolute_difference": 0.0278571428571428,
+        "gateway_sampling_null_p": 0.9338033098345084,
+        "gateway_sampling_null_q": 0.953052347382631,
+        "receptor": "GCGR"
+      }
+    ],
+    "B": [
+      {
+        "between_context_mean_replica_jaccard": 0.5013560615176021,
+        "contrast": "Gq-Gs",
+        "receptor": "OX2R"
+      },
+      {
+        "between_context_mean_replica_jaccard": 0.5553621187709569,
+        "contrast": "Gq-Gs",
+        "receptor": "FFAR4"
+      },
+      {
+        "between_context_mean_replica_jaccard": 0.5784451778029669,
+        "contrast": "Gi-Gq",
+        "receptor": "FFAR4"
+      },
+      {
+        "between_context_mean_replica_jaccard": 0.5901188739212012,
+        "contrast": "Gi-Gs",
+        "receptor": "OX2R"
+      },
+      {
+        "between_context_mean_replica_jaccard": 0.5911923563765404,
+        "contrast": "Gi-Gq",
+        "receptor": "OX2R"
+      },
+      {
+        "between_context_mean_replica_jaccard": 0.6512902638467805,
+        "contrast": "Gi-Gs",
+        "receptor": "FFAR4"
+      },
+      {
+        "between_context_mean_replica_jaccard": 0.708678450686357,
+        "contrast": "Gq-Gs",
+        "receptor": "H1R"
+      },
+      {
+        "between_context_mean_replica_jaccard": 0.7298424375154413,
+        "contrast": "Gi-Gq",
+        "receptor": "CCKBR"
+      },
+      {
+        "between_context_mean_replica_jaccard": 0.7636770396144619,
+        "contrast": "Gi-Gs",
+        "receptor": "GCGR"
+      },
+      {
+        "between_context_mean_replica_jaccard": 0.7736625514403292,
+        "contrast": "Gi-Gs",
+        "receptor": "CRHR2"
+      },
+      {
+        "between_context_mean_replica_jaccard": 0.7868451871544376,
+        "contrast": "Gi-Gq",
+        "receptor": "EDNRB"
+      },
+      {
+        "between_context_mean_replica_jaccard": 0.8066209730409919,
+        "contrast": "Gq-Gs",
+        "receptor": "P2Y1R"
+      },
+      {
+        "between_context_mean_replica_jaccard": 0.8537148940530203,
+        "contrast": "Gi-Gq",
+        "receptor": "CCKAR"
+      },
+      {
+        "between_context_mean_replica_jaccard": 0.8769535660256429,
+        "contrast": "Gi-Gq",
+        "receptor": "SSTR2"
+      },
+      {
+        "between_context_mean_replica_jaccard": 0.8884740111073028,
+        "contrast": "Gq-Gs",
+        "receptor": "NK1R"
+      },
+      {
+        "between_context_mean_replica_jaccard": 0.9445412732994432,
+        "contrast": "Gq-G12-13",
+        "receptor": "ADGRE5"
+      },
+      {
+        "between_context_mean_replica_jaccard": 0.957411735652232,
+        "contrast": "Gq-Gs",
+        "receptor": "EDNRA"
+      }
+    ],
+    "C": [
+      {
+        "context_exceeds_replica_noise": false,
+        "mean_context_distance": 0.7736625514403292,
+        "mean_replica_noise": 0.8333333333333334,
+        "mean_signal_to_noise": 0.928395061728395,
+        "n_contrasts": 1,
+        "receptor": "CRHR2",
+        "receptor_uniprot": "Q13324"
+      },
+      {
+        "context_exceeds_replica_noise": true,
+        "mean_context_distance": 0.7298424375154413,
+        "mean_replica_noise": 0.6940774514141292,
+        "mean_signal_to_noise": 1.051528811414985,
+        "n_contrasts": 1,
+        "receptor": "CCKBR",
+        "receptor_uniprot": "P32239"
+      },
+      {
+        "context_exceeds_replica_noise": true,
+        "mean_context_distance": 0.957411735652232,
+        "mean_replica_noise": 0.8985629763810589,
+        "mean_signal_to_noise": 1.0654920810427615,
+        "n_contrasts": 1,
+        "receptor": "EDNRA",
+        "receptor_uniprot": "P25101"
+      },
+      {
+        "context_exceeds_replica_noise": true,
+        "mean_context_distance": 0.8537148940530203,
+        "mean_replica_noise": 0.7946017266564303,
+        "mean_signal_to_noise": 1.0743934544986828,
+        "n_contrasts": 1,
+        "receptor": "CCKAR",
+        "receptor_uniprot": "P32238"
+      },
+      {
+        "context_exceeds_replica_noise": true,
+        "mean_context_distance": 0.7636770396144619,
+        "mean_replica_noise": 0.6881766531834589,
+        "mean_signal_to_noise": 1.1097107640628947,
+        "n_contrasts": 1,
+        "receptor": "GCGR",
+        "receptor_uniprot": "P47871"
+      },
+      {
+        "context_exceeds_replica_noise": true,
+        "mean_context_distance": 0.7868451871544376,
+        "mean_replica_noise": 0.698945545984709,
+        "mean_signal_to_noise": 1.1257603566897207,
+        "n_contrasts": 1,
+        "receptor": "EDNRB",
+        "receptor_uniprot": "P24530"
+      },
+      {
+        "context_exceeds_replica_noise": true,
+        "mean_context_distance": 0.9445412732994432,
+        "mean_replica_noise": 0.8265371690294291,
+        "mean_signal_to_noise": 1.142769265184507,
+        "n_contrasts": 1,
+        "receptor": "ADGRE5",
+        "receptor_uniprot": "P48960"
+      },
+      {
+        "context_exceeds_replica_noise": true,
+        "mean_context_distance": 0.5950325201402348,
+        "mean_replica_noise": 0.5100331110111322,
+        "mean_signal_to_noise": 1.1664281672665815,
+        "n_contrasts": 3,
+        "receptor": "FFAR4",
+        "receptor_uniprot": "Q5NUL3"
+      },
+      {
+        "context_exceeds_replica_noise": true,
+        "mean_context_distance": 0.5608890972717813,
+        "mean_replica_noise": 0.4829604377331222,
+        "mean_signal_to_noise": 1.1675344929149982,
+        "n_contrasts": 3,
+        "receptor": "OX2R",
+        "receptor_uniprot": "O43614"
+      },
+      {
+        "context_exceeds_replica_noise": true,
+        "mean_context_distance": 0.8769535660256429,
+        "mean_replica_noise": 0.7213008712256833,
+        "mean_signal_to_noise": 1.2157944084213623,
+        "n_contrasts": 1,
+        "receptor": "SSTR2",
+        "receptor_uniprot": "P30874"
+      },
+      {
+        "context_exceeds_replica_noise": true,
+        "mean_context_distance": 0.8066209730409919,
+        "mean_replica_noise": 0.6438817630942868,
+        "mean_signal_to_noise": 1.2527470403333576,
+        "n_contrasts": 1,
+        "receptor": "P2Y1R",
+        "receptor_uniprot": "P47900"
+      },
+      {
+        "context_exceeds_replica_noise": true,
+        "mean_context_distance": 0.708678450686357,
+        "mean_replica_noise": 0.5238774091900921,
+        "mean_signal_to_noise": 1.352756271323028,
+        "n_contrasts": 1,
+        "receptor": "H1R",
+        "receptor_uniprot": "P35367"
+      },
+      {
+        "context_exceeds_replica_noise": true,
+        "mean_context_distance": 0.8884740111073028,
+        "mean_replica_noise": 0.531263783386425,
+        "mean_signal_to_noise": 1.672378277781179,
+        "n_contrasts": 1,
+        "receptor": "NK1R",
+        "receptor_uniprot": "P25103"
+      }
+    ],
+    "D": {
+      "All covariates": {
+        "matched": 0,
+        "total": 17
+      },
+      "All labels supported": {
+        "matched": 3,
+        "total": 17
+      },
+      "Binder": {
+        "matched": 3,
+        "total": 17
+      },
+      "Ligand": {
+        "matched": 9,
+        "total": 17
+      },
+      "Receptor construct": {
+        "matched": 9,
+        "total": 17
+      }
+    }
+  }
+}

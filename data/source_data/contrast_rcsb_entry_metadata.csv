@@ -1,0 +1,28 @@
+pdb_id,experimental_method,resolution_angstrom,deposited_modeled_polymer_monomers,deposited_unmodeled_polymer_monomers,deposited_atom_count,structure_title,primary_citation_doi,primary_citation_year,initial_release_date
+6LML,EM,3.9,1219,255,9438,Cryo-EM structure of the human glucagon receptor in complex with Gi1,10.1126/science.aaz5346,2020.0,2020-04-01T00:00:00.000+00:00
+6PB1,EM,2.8,1069,292,8785,Cryo-EM structure of Urocortin 1-bound Corticotropin-releasing factor 2 receptor in complex with Gs protein and Nb35,10.1016/j.molcel.2020.01.013,2020.0,2020-02-12T00:00:00.000+00:00
+7DFL,EM,3.3,1133,353,8987,Cryo-EM structure of histamine H1 receptor Gq complex,10.1038/s41467-021-22427-2,2021.0,2021-03-31T00:00:00.000+00:00
+7EZH,EM,3.2,1150,310,8838,Cryo-EM structure of an activated Cholecystokinin A receptor (CCKAR)-Gi complex,10.1038/s41589-021-00841-3,2021.0,2021-08-25T00:00:00.000+00:00
+7EZM,EM,2.9,1171,288,9008,Cryo-EM structure of an activated Cholecystokinin A receptor (CCKAR)-Gq complex,10.1038/s41589-021-00841-3,2021.0,2021-08-25T00:00:00.000+00:00
+7F8V,EM,3.3,848,411,6601,Cryo-EM structure of the cholecystokinin receptor CCKBR in complex with gastrin-17 and Gi,10.1038/s41589-021-00866-8,2021.0,2021-10-13T00:00:00.000+00:00
+7F8W,EM,3.1,1087,438,8486,Cryo-EM structure of the cholecystokinin receptor CCKBR in complex with gastrin-17 and Gq,10.1038/s41589-021-00866-8,2021.0,2021-10-13T00:00:00.000+00:00
+7L1V,EM,3.0,1253,153,9606,Orexin Receptor 2 (OX2R) in Complex with G Protein and Small-Molecule Agonist Compound 1,10.1038/s41467-021-21087-6,2021.0,2021-02-10T00:00:00.000+00:00
+7P00,EM,2.71,1145,218,9110,Human Neurokinin 1 receptor (NK1R) substance P Gq chimera (mGsqi) complex,10.1126/sciadv.abk2872,2021.0,2021-12-15T00:00:00.000+00:00
+7RMH,EM,3.1,987,271,7434,Substance P bound to active human neurokinin 1 receptor in complex with miniGs399,10.1038/s41589-021-00890-8,2022.0,2021-11-03T00:00:00.000+00:00
+7SQO,EM,3.17,1111,356,8618,"Structure of the orexin-2 receptor(OX2R) bound to TAK-925, Gi and scFv16",10.1038/s41467-022-30601-3,2022.0,2022-05-25T00:00:00.000+00:00
+7SR8,EM,3.3,1141,185,9083,Molecular mechanism of the the wake-promoting agent TAK-925,10.1038/s41467-022-30601-3,2022.0,2022-06-08T00:00:00.000+00:00
+7T10,EM,2.5,1146,304,8429,CryoEM structure of somatostatin receptor 2 in complex with somatostatin-14 and Gi3,10.1038/s41594-022-00727-5,2022.0,2022-03-09T00:00:00.000+00:00
+7TS0,EM,2.8,1186,485,9383,Cryo-EM structure of corticotropin releasing factor receptor 2 bound to Urocortin 1 and coupled with heterotrimeric Go protein,10.1038/s41467-022-33851-3,2022.0,2022-11-09T00:00:00.000+00:00
+7XXH,EM,2.9,1158,272,8847,Cryo-EM structure of the purinergic receptor P2Y1R in complex with 2MeSADP and G11,10.1093/procel/pwac025,2023.0,2023-06-07T00:00:00.000+00:00
+7Y26,EM,3.3,1113,142,8014,Cryo-EM structure of the octreotide-bound SSTR2-miniGq-scFv16 complex,10.1038/s41589-022-01130-3,2023.0,2022-10-19T00:00:00.000+00:00
+7YDM,EM,2.89,1031,215,8131,Cryo-EM structure of CD97/Gq complex,10.1016/j.chembiol.2023.08.003,2023.0,2023-07-12T00:00:00.000+00:00
+8FU6,EM,2.9,1112,360,8834,GCGR-Gs complex in the presence of RAMP2,10.1016/j.cell.2023.02.028,2023.0,2023-04-12T00:00:00.000+00:00
+8H4I,EM,3.06,1035,264,7965,DHA-bound FFAR4 in complex with Gs,10.1038/s41422-023-00835-x,2023.0,2023-06-21T00:00:00.000+00:00
+8HCQ,EM,3.01,1157,465,8991,Cryo-EM structure of endothelin1-bound ETAR-Gq complex,10.1038/s41467-023-36998-9,2023.0,2023-03-22T00:00:00.000+00:00
+8HCX,EM,3.5,1159,444,8933,Cryo-EM structure of Endothelin1-bound ETBR-Gq complex,10.1038/s41467-023-36998-9,2023.0,2023-03-22T00:00:00.000+00:00
+8ID9,EM,3.0,1095,315,7996,Cryo-EM structure of the eicosapentaenoic acid bound GPR120-Gi complex,10.1126/science.add6220,2023.0,2023-03-15T00:00:00.000+00:00
+8IKL,EM,2.33,875,41,6942,Cryo-EM structure of the CD97-G13 complex,10.1016/j.molcel.2023.12.020,2024.0,2024-01-24T00:00:00.000+00:00
+8IY5,EM,2.8,1177,509,9176,ETB-Gi complex bound to endothelin-1,10.7554/eLife.85821,2023.0,2023-08-16T00:00:00.000+00:00
+8IYS,EM,2.95,1269,112,9671,TUG891-bound FFAR4 in complex with Gq,10.1038/s41422-023-00835-x,2023.0,2023-06-21T00:00:00.000+00:00
+8WJX,EM,3.2,1034,516,7535,ADP-bound purinergic receptor 1 in complex with miniGs/q,,,2024-10-02T00:00:00.000+00:00
+8YN2,EM,2.66,1131,533,8979,Cryo-EM structure of histamine H1 receptor in complex with histamine and miniGq,10.1038/s41467-024-52585-y,2024.0,2024-10-09T00:00:00.000+00:00

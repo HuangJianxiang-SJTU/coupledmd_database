@@ -1,0 +1,14 @@
+{
+  "empirical_p_value": 0.34865134865134867,
+  "generic_position_features": 406,
+  "interpretation": "Sequential multivariate sums of squares; family is the increment beyond receptor identity, and residual is variation among the three replicas of each system.",
+  "null_95th_percentile_family_sum_of_squares": 3.2850205740297698,
+  "null_mean_family_sum_of_squares": 2.902278210750004,
+  "observed_family_sum_of_squares_after_receptor": 2.9673799995211287,
+  "partition_order": "GPCR class -> receptor identity -> administrative G-protein family -> system/context -> residual replica",
+  "primary_transform": "Hellinger-normalized fingerprint",
+  "receptor_blocks": 175,
+  "replica_observations": 621,
+  "systems": 207,
+  "within_receptor_system_label_permutations": 1000
+}

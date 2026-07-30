@@ -1,0 +1,172 @@
+{
+  "Fig1": {
+    "A": {
+      "systems": 207,
+      "receptor_entities": 175,
+      "mapped_accessions": 174,
+      "h40_groups": 69,
+      "gateway_contrasts": 24,
+      "gateway_receptors": 16,
+      "pocket_contrasts": 17,
+      "pocket_receptors": 13,
+      "interface_contrasts": 4
+    },
+    "B": {
+      "receptor_identity": [0.488, 0.457, 0.511],
+      "residual_replica": [0.426, 0.409, 0.445],
+      "system_context": [0.055, 0.035, 0.067],
+      "gpcr_class": [0.025, 0.018, 0.037],
+      "family_increment": [0.0067, 0.0050, 0.0170],
+      "family_permutation_p": 0.349,
+      "replica_observations": 621,
+      "receptor_blocks": 175
+    },
+    "C": {
+      "within_system": [0.634, 0.638, 207],
+      "same_receptor_context": [0.739, 0.764, 17],
+      "different_receptor": [0.875, 0.892, 21285],
+      "pooled_pairwise_median": 0.623,
+      "receptors_exceeding_noise": 12,
+      "receptors_total": 13,
+      "median_signal_to_noise": [1.143, 1.074, 1.216],
+      "sign_test_p": 0.0017
+    },
+    "D": {
+      "TM7-TM1": 0.824,
+      "TM4-TM5": 0.746,
+      "TM3-TM4": 0.744,
+      "TM1-TM2": 0.644,
+      "TM6-TM7": 0.591,
+      "TM5-TM6": 0.573,
+      "TM2-TM3": 0.405
+    }
+  },
+  "Fig2": {
+    "A": {
+      "pooled_clusters": 65,
+      "pooled_core": 14,
+      "pooled_core_ids": [
+        "C13", "C0", "C10", "C7", "C28", "C57", "C24",
+        "C11", "C39", "C30", "C68", "C4", "C27", "C21"
+      ],
+      "replica_clusters": 54,
+      "replica_core": 11,
+      "replica_core_ids": [
+        "R0", "R1", "R2", "R3", "R5", "R6",
+        "R7", "R8", "R9", "R11", "R13"
+      ],
+      "pooled_no_successor": 5,
+      "pooled_no_successor_ids": ["C57", "C11", "C30", "C68", "C21"]
+    },
+    "B": {
+      "pooled_predecessors": [
+        "C0", "C4", "C7", "C10", "C13", "C14",
+        "C16", "C24", "C27", "C28", "C39"
+      ],
+      "highlighted_correspondence": {
+        "R0": "C13",
+        "R1": "C10",
+        "R6": "C7"
+      },
+      "promoted_correspondence": {
+        "R8": "C14",
+        "R9": "C16"
+      }
+    },
+    "C": {
+      "R0": 1.0,
+      "R1": 1.0,
+      "R2": 1.000,
+      "R6": 0.985,
+      "average_0p66_ari": 0.896,
+      "average_0p66_recovered": 0.87,
+      "baseline_split_ari": 0.831,
+      "baseline_split_recovered": 0.521,
+      "average_0p78_ari": 0.788,
+      "average_0p78_recovered": 0.78,
+      "single_linkage_ari": 0.015
+    },
+    "D": {
+      "pooled": [4.46, 2.45, 8.88, 0.0008],
+      "primary": [19.51, 5.64, 54.80, 0.0001],
+      "primary_katz": [4.45, 85.62],
+      "class_a": [17.56, 0.0002],
+      "hook_supported": [19.25, 0.0002],
+      "receptor_context": 18.05,
+      "single_family": 13.61,
+      "direct_accession": [10.67, 0.129]
+    }
+  },
+  "Fig3": {
+    "B": {
+      "R0": [62, 53, 21],
+      "R1_receptors": 43,
+      "R2_receptors": 34,
+      "R6": [12, 12, 9, 14]
+    },
+    "D": {
+      "NaP": [0.471, 1.0, 0.0007],
+      "IC56": [0.750, 1.0, 0.0021],
+      "TM345_T35": [0.444, 0.80, 0.0079],
+      "IC345": [0.444, 0.80, 0.0114],
+      "UP124": [0.400, 0.667, 0.0114],
+      "OBP": [0.242, 1.0, 0.0114],
+      "IC23H8_p": 0.309
+    },
+    "E": {
+      "observed": 0.365,
+      "null_mean": 0.360,
+      "null_interval": [0.330, 0.392],
+      "two_sided_p": 0.765,
+      "spearman_rho": -0.166,
+      "spearman_p": 0.626,
+      "positions": 127,
+      "accessions": 151,
+      "h40_groups": 62,
+      "minimum_h40_groups": 15
+    }
+  },
+  "Fig4": {
+    "B": {
+      "TM3-TM4": 0.499,
+      "TM7-TM1": 0.434
+    },
+    "D": {
+      "TM7-TM1": [0.437, 0.299, 0.563, 0.0076],
+      "TM1-TM2": [0.042, -0.097, 0.180, 0.620],
+      "significant_portals": 6,
+      "between_portal": [0.179, 0.702]
+    },
+    "E": {
+      "rank_rho": 0.964,
+      "TM3-TM4": [0.010, -0.010, 0.029, 0.520]
+    }
+  },
+  "Fig5": {
+    "B": {
+      "cells_per_screen": 162,
+      "total_cells": 486,
+      "survivors": 3
+    },
+    "C": {
+      "core_jaccard": 0.75,
+      "shared_positions": 12,
+      "legacy_core_size": 14,
+      "next_best_jaccard": 0.467,
+      "rr_range": [13.61, 19.51],
+      "largest_powered_fisher_p": 0.000461,
+      "resampling_draws": 5000,
+      "resampling_max_p": 0.00126,
+      "leave_receptor_max_p": 0.0000205,
+      "leave_h40_max_p": 0.0000801
+    },
+    "D": {
+      "hook_supported": 10,
+      "full_hook_match": 8,
+      "direct_accession": 1,
+      "cohort_hook_supported": 200,
+      "cohort_total": 207,
+      "cohort_conflicts": 7
+    }
+  }
+}

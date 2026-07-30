@@ -1,0 +1,25 @@
+{
+  "across_7_portal_mean_rank_naive_p": 0.7016579425162729,
+  "across_7_portal_mean_rank_spearman": 0.1785714285714286,
+  "gateway_replica_input": "/MDdata/data02/jxhuang/gpcr_g/a/paper1_figures_rigor_v2/source_data/gateway_replica_long_v2.csv",
+  "gateway_replica_input_sha256": "f78ed6910b9072c9b22d74059ae5de74b3c3e394df702d3592ad83568babfd8b",
+  "input_inventory_sha256": "8c9328dc4b346209f6c40f798cc0b20f6c215fadcce5d7f8a3038007b0b8f02d",
+  "interpretation_rule": "A corrected positive association supports a prepared-packing contribution but does not imply that dynamics are absent. A null result means this single static width descriptor does not explain opening frequency.",
+  "portal_rows": 1449,
+  "primary_portals_q_lt_0p05": [
+    "TM2-TM3",
+    "TM3-TM4",
+    "TM4-TM5",
+    "TM5-TM6",
+    "TM6-TM7",
+    "TM7-TM1"
+  ],
+  "primary_static_metric": "ca_symmetric_nearest_mean_angstrom",
+  "primary_tests": 7,
+  "receptor_block_bootstrap_draws_per_portal": 10000,
+  "receptor_block_permutations_per_portal": 10000,
+  "receptors": 175,
+  "strongest_primary_portal": "TM7-TM1",
+  "strongest_primary_spearman_rho": 0.4372239820878642,
+  "systems": 207
+}

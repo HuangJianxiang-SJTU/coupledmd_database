@@ -1,0 +1,66 @@
+{
+  "context_contrasts_exceeding_sampling_null_q_lt_0p05": 4,
+  "family_lrt_survivors_q_lt_0p05": [],
+  "icc": {
+    "TM1-TM2": 0.6437797925218847,
+    "TM2-TM3": 0.40477704486395855,
+    "TM3-TM4": 0.7441513804945922,
+    "TM4-TM5": 0.7459879360173198,
+    "TM5-TM6": 0.5725837176438392,
+    "TM6-TM7": 0.5909577760998875,
+    "TM7-TM1": 0.824356062228624
+  },
+  "legacy_pocket_matched_contrasts": 17,
+  "median_context_signal_to_sampling_noise": 1.3018805279987624,
+  "method_note": "The triplicate-equivalent floor propagates within-system replica variance to the difference of two independent three-replica means. It does not control ligand, construct, or starting-structure differences.",
+  "portals": 7,
+  "replicas_per_system": 3,
+  "stationarity": {
+    "first_block_rank": [
+      "TM3-TM4",
+      "TM7-TM1",
+      "TM4-TM5",
+      "TM1-TM2",
+      "TM5-TM6",
+      "TM6-TM7",
+      "TM2-TM3"
+    ],
+    "first_last_portal_rank_p_value": 0.0004541491691941689,
+    "first_last_portal_rank_spearman_rho": 0.9642857142857145,
+    "last_block_rank": [
+      "TM3-TM4",
+      "TM7-TM1",
+      "TM4-TM5",
+      "TM5-TM6",
+      "TM1-TM2",
+      "TM6-TM7",
+      "TM2-TM3"
+    ]
+  },
+  "stationarity_survivors_q_lt_0p05": [
+    "TM1-TM2",
+    "TM2-TM3",
+    "TM5-TM6",
+    "TM6-TM7"
+  ],
+  "systems": 207,
+  "threshold_top_two": {
+    "0.3": [
+      "TM3-TM4",
+      "TM7-TM1"
+    ],
+    "0.5": [
+      "TM3-TM4",
+      "TM7-TM1"
+    ],
+    "0.7": [
+      "TM3-TM4",
+      "TM7-TM1"
+    ],
+    "1.0": [
+      "TM3-TM4",
+      "TM7-TM1"
+    ]
+  },
+  "within_receptor_family_contrasts": 24
+}

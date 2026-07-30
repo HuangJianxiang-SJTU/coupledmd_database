@@ -1,0 +1,25 @@
+analysis,cluster,family,n_systems,observed_cluster_systems,observed_family_cluster_systems,hypergeometric_p_value,minus_log10_p,max_stat_fwer_p_value,display
+replica atlas: all classes,R6,Gq,201,12,10,2.2744721741657195e-06,5.643119371949086,0.0001999800019998,"R6–Gαq/11
+all"
+replica atlas: alpha5-hook-supported systems,R6,Gq,194,12,10,2.4678957517601973e-06,5.607673189611048,0.0001999800019998,"R6–Gαq/11
+α5 hook"
+replica atlas: Class A only,R6,Gq,176,12,10,4.898025406322541e-06,5.30997896649651,9.999000099990002e-05,"R6–Gαq/11
+Class A"
+replica atlas: alpha5-hook-supported systems,R33,Gs,194,3,3,0.028560840767053,1.5442290120528244,0.9162083791620838,"R33–Gαs
+α5 hook"
+replica atlas: all classes,R33,Gs,201,3,3,0.0327608190204755,1.4846452494138522,0.9322067793220676,"R33–Gαs
+all"
+replica atlas: all classes,R47,Gq,201,2,2,0.0407960199004975,1.389382205036772,0.9914008599140086,"R47–Gαq/11
+all"
+replica atlas: all classes,R49,Gq,201,2,2,0.0407960199004975,1.389382205036772,0.9914008599140086,"R49–Gαq/11
+all"
+replica atlas: all classes,R50,Gq,201,2,2,0.0407960199004975,1.389382205036772,0.9914008599140086,"R50–Gαq/11
+all"
+replica atlas: all classes,R52,Gq,201,2,2,0.0407960199004975,1.389382205036772,0.9914008599140086,"R52–Gαq/11
+all"
+replica atlas: alpha5-hook-supported systems,R47,Gq,194,2,2,0.0416644410020832,1.3802344405835385,0.992100789921008,"R47–Gαq/11
+α5 hook"
+replica atlas: alpha5-hook-supported systems,R50,Gq,194,2,2,0.0416644410020832,1.3802344405835385,0.992100789921008,"R50–Gαq/11
+α5 hook"
+replica atlas: alpha5-hook-supported systems,R52,Gq,194,2,2,0.0416644410020832,1.3802344405835385,0.992100789921008,"R52–Gαq/11
+α5 hook"

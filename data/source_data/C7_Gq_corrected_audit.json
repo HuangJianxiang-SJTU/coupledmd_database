@@ -1,0 +1,42 @@
+{
+  "status": "PASS",
+  "scope": "superseded pooled C7 comparator only",
+  "systems": 207,
+  "all_class_inferential_systems": 201,
+  "all_class_inferential_receptors": 170,
+  "c7_present_gq": 16,
+  "gq_total": 41,
+  "c7_present_other": 14,
+  "other_total": 160,
+  "risk_ratio": 4.459930313588851,
+  "receptor_bootstrap_ci95": [
+    2.4527036050053956,
+    8.87810125379939
+  ],
+  "maxstat_fwer_p_value": 0.0007999200079992001,
+  "receptor_bootstrap_iterations": 10000,
+  "maxstat_permutations": 10000,
+  "metadata_loader": "paper1_rigor_common_v4.load_s1",
+  "files": {
+    "C7_Gq_sensitivity_variants_v9_corrected.csv": {
+      "bytes": 2194,
+      "sha256": "035297e95267469d70120d92d67b540dbf73f0a0f1c1ce174acf144a437131b9"
+    },
+    "C7_Gq_one_system_per_receptor_resamples_v9_corrected.csv": {
+      "bytes": 362985,
+      "sha256": "1e64a3ceba63eddce0badeeb7b20b394a587b42030d12f66801d2a8fcd658688"
+    },
+    "C7_Gq_leave_one_out_v9_corrected.csv": {
+      "bytes": 18270,
+      "sha256": "c4d25e28bdf58ad11257e7d45de9a3aea9a73fe5ebb9491aaf9b159e1afd4811"
+    },
+    "C7_Gq_maxstat_all_classes_v9_corrected.csv": {
+      "bytes": 11859,
+      "sha256": "ebaca57e1bbf4b4c9baadc6139df56d262ed4a2dad04a89221d599d41c464504"
+    },
+    "C7_Gq_maxstat_null_all_classes_v9_corrected.csv": {
+      "bytes": 355859,
+      "sha256": "cd5a6d9235d82a337c1ad7ba7ceb3534ac653776e570ccccbf8eeb99576d9669"
+    }
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "canvas": {
+    "height_mm": 149.86,
+    "minimum_text_pt": 5,
+    "width_mm": 180.0
+  },
+  "figure": 2,
+  "panels": {
+    "A": {
+      "pooled_consensus_clusters": 65,
+      "pooled_core": [
+        "C13",
+        "C0",
+        "C10",
+        "C7",
+        "C28",
+        "C24",
+        "C57",
+        "C11",
+        "C68",
+        "C39",
+        "C30",
+        "C27",
+        "C4",
+        "C21"
+      ],
+      "pooled_without_replica_stable_successor": [
+        "C57",
+        "C11",
+        "C68",
+        "C30",
+        "C21"
+      ],
+      "replica_consensus_clusters": 54,
+      "replica_core": [
+        "R0",
+        "R1",
+        "R2",
+        "R3",
+        "R5",
+        "R6",
+        "R7",
+        "R8",
+        "R9",
+        "R11",
+        "R13"
+      ]
+    },
+    "B": {
+      "links": [
+        {
+          "core_jaccard": 0.8181818181818182,
+          "pooled_predecessor": "C13",
+          "predecessor_in_pooled_core": true,
+          "replica_cluster": "R0"
+        },
+        {
+          "core_jaccard": 0.875,
+          "pooled_predecessor": "C10",
+          "predecessor_in_pooled_core": true,
+          "replica_cluster": "R1"
+        },
+        {
+          "core_jaccard": 0.8888888888888888,
+          "pooled_predecessor": "C0",
+          "predecessor_in_pooled_core": true,
+          "replica_cluster": "R2"
+        },
+        {
+          "core_jaccard": 0.5,
+          "pooled_predecessor": "C28",
+          "predecessor_in_pooled_core": true,
+          "replica_cluster": "R3"
+        },
+        {
+          "core_jaccard": 0.9090909090909092,
+          "pooled_predecessor": "C39",
+          "predecessor_in_pooled_core": true,
+          "replica_cluster": "R5"
+        },
+        {
+          "core_jaccard": 0.75,
+          "pooled_predecessor": "C7",
+          "predecessor_in_pooled_core": true,
+          "replica_cluster": "R6"
+        },
+        {
+          "core_jaccard": 0.6666666666666666,
+          "pooled_predecessor": "C4",
+          "predecessor_in_pooled_core": true,
+          "replica_cluster": "R7"
+        },
+        {
+          "core_jaccard": 0.5,
+          "pooled_predecessor": "C14",
+          "predecessor_in_pooled_core": false,
+          "replica_cluster": "R8"
+        },
+        {
+          "core_jaccard": 0.6923076923076923,
+          "pooled_predecessor": "C16",
+          "predecessor_in_pooled_core": false,
+          "replica_cluster": "R9"
+        },
+        {
+          "core_jaccard": 0.6829268292682927,
+          "pooled_predecessor": "C24",
+          "predecessor_in_pooled_core": true,
+          "replica_cluster": "R11"
+        },
+        {
+          "core_jaccard": 0.6363636363636364,
+          "pooled_predecessor": "C27",
+          "predecessor_in_pooled_core": true,
+          "replica_cluster": "R13"
+        }
+      ]
+    },
+    "C": {
+      "core_jaccard_threshold": 0.5,
+      "half_atlas_reconstructions": 200,
+      "recovery_threshold": 0.8,
+      "sensitivity": [
+        {
+          "ari": 0.8964321752345156,
+          "fraction_recovered": 0.8703703703703703,
+          "setting": "Full\navg 0.66"
+        },
+        {
+          "ari": 0.8313043409315094,
+          "fraction_recovered": 0.5212962962962963,
+          "setting": "Split halves\navg 0.72"
+        },
+        {
+          "ari": 0.7880614028064108,
+          "fraction_recovered": 0.7777777777777778,
+          "setting": "Full\navg 0.78"
+        },
+        {
+          "ari": 0.0145195921116777,
+          "fraction_recovered": null,
+          "setting": "Full\nsingle 0.72"
+        }
+      ],
+      "split_iterations": 100,
+      "stable_cluster_recovery": [
+        {
+          "cluster": "R0",
+          "mean_split_half_best_core_jaccard": 0.8555314455160223,
+          "median_split_half_best_core_jaccard": 0.8529411764705882,
+          "n_receptors": 53,
+          "n_reproducible_pockets": 62,
+          "n_systems": 62,
+          "split_half_best_j_ci90_hi": 0.9696969696969696,
+          "split_half_best_j_ci90_lo": 0.7714285714285715,
+          "split_half_recovery_probability_j_ge_0p5": 1.0
+        },
+        {
+          "cluster": "R1",
+          "mean_split_half_best_core_jaccard": 0.9489722222222222,
+          "median_split_half_best_core_jaccard": 1.0,
+          "n_receptors": 43,
+          "n_reproducible_pockets": 47,
+          "n_systems": 47,
+          "split_half_best_j_ci90_hi": 1.0,
+          "split_half_best_j_ci90_lo": 0.8888888888888888,
+          "split_half_recovery_probability_j_ge_0p5": 1.0
+        },
+        {
+          "cluster": "R2",
+          "mean_split_half_best_core_jaccard": 0.8851704545454546,
+          "median_split_half_best_core_jaccard": 0.8888888888888888,
+          "n_receptors": 34,
+          "n_reproducible_pockets": 36,
+          "n_systems": 36,
+          "split_half_best_j_ci90_hi": 1.0,
+          "split_half_best_j_ci90_lo": 0.6666666666666666,
+          "split_half_recovery_probability_j_ge_0p5": 1.0
+        },
+        {
+          "cluster": "R3",
+          "mean_split_half_best_core_jaccard": 0.6874201770451771,
+          "median_split_half_best_core_jaccard": 0.7,
+          "n_receptors": 25,
+          "n_reproducible_pockets": 26,
+          "n_systems": 26,
+          "split_half_best_j_ci90_hi": 0.8888888888888888,
+          "split_half_best_j_ci90_lo": 0.5,
+          "split_half_recovery_probability_j_ge_0p5": 0.96
+        },
+        {
+          "cluster": "R5",
+          "mean_split_half_best_core_jaccard": 0.7920728309047275,
+          "median_split_half_best_core_jaccard": 0.8181818181818182,
+          "n_receptors": 12,
+          "n_reproducible_pockets": 13,
+          "n_systems": 13,
+          "split_half_best_j_ci90_hi": 1.0,
+          "split_half_best_j_ci90_lo": 0.5972727272727273,
+          "split_half_recovery_probability_j_ge_0p5": 0.975
+        },
+        {
+          "cluster": "R6",
+          "mean_split_half_best_core_jaccard": 0.7214677306620233,
+          "median_split_half_best_core_jaccard": 0.7368421052631579,
+          "n_receptors": 12,
+          "n_reproducible_pockets": 12,
+          "n_systems": 12,
+          "split_half_best_j_ci90_hi": 0.9285714285714286,
+          "split_half_best_j_ci90_lo": 0.5185185185185185,
+          "split_half_recovery_probability_j_ge_0p5": 0.985
+        },
+        {
+          "cluster": "R7",
+          "mean_split_half_best_core_jaccard": 0.6522733066350245,
+          "median_split_half_best_core_jaccard": 0.6666666666666666,
+          "n_receptors": 12,
+          "n_reproducible_pockets": 12,
+          "n_systems": 12,
+          "split_half_best_j_ci90_hi": 0.8531512605042015,
+          "split_half_best_j_ci90_lo": 0.3869727047146402,
+          "split_half_recovery_probability_j_ge_0p5": 0.83
+        },
+        {
+          "cluster": "R8",
+          "mean_split_half_best_core_jaccard": 0.620773964597494,
+          "median_split_half_best_core_jaccard": 0.625,
+          "n_receptors": 8,
+          "n_reproducible_pockets": 8,
+          "n_systems": 8,
+          "split_half_best_j_ci90_hi": 0.8888888888888888,
+          "split_half_best_j_ci90_lo": 0.4,
+          "split_half_recovery_probability_j_ge_0p5": 0.89
+        },
+        {
+          "cluster": "R9",
+          "mean_split_half_best_core_jaccard": 0.7200347095082492,
+          "median_split_half_best_core_jaccard": 0.7777777777777778,
+          "n_receptors": 8,
+          "n_reproducible_pockets": 8,
+          "n_systems": 8,
+          "split_half_best_j_ci90_hi": 1.0,
+          "split_half_best_j_ci90_lo": 0.3333333333333333,
+          "split_half_recovery_probability_j_ge_0p5": 0.91
+        },
+        {
+          "cluster": "R11",
+          "mean_split_half_best_core_jaccard": 0.6874482314124525,
+          "median_split_half_best_core_jaccard": 0.729020979020979,
+          "n_receptors": 7,
+          "n_reproducible_pockets": 7,
+          "n_systems": 7,
+          "split_half_best_j_ci90_hi": 0.8783323879750424,
+          "split_half_best_j_ci90_lo": 0.4179249011857707,
+          "split_half_recovery_probability_j_ge_0p5": 0.885
+        },
+        {
+          "cluster": "R13",
+          "mean_split_half_best_core_jaccard": 0.7297530205204013,
+          "median_split_half_best_core_jaccard": 0.8,
+          "n_receptors": 7,
+          "n_reproducible_pockets": 7,
+          "n_systems": 7,
+          "split_half_best_j_ci90_hi": 1.0,
+          "split_half_best_j_ci90_lo": 0.2,
+          "split_half_recovery_probability_j_ge_0p5": 0.88
+        }
+      ]
+    },
+    "D": {
+      "analyses": [
+        {
+          "hi": 8.87810125379939,
+          "label": "Pooled C7 \u00d7 Gq\nsuperseded",
+          "lo": 2.452703605005396,
+          "p": 0.0007999200079992,
+          "rr": 4.459930313588851,
+          "status": "superseded",
+          "test_label": "FWER"
+        },
+        {
+          "hi": 54.7967097532315,
+          "katz_hi": 85.62488157243759,
+          "katz_lo": 4.446438365640339,
+          "label": "Replica R6 \u00d7 Gq\nprimary",
+          "lo": 5.640529363110009,
+          "p": 9.999000099990002e-05,
+          "rr": 19.51219512195122,
+          "status": "primary",
+          "test_label": "FWER"
+        },
+        {
+          "hi": 48.65583333333333,
+          "katz_hi": null,
+          "katz_lo": null,
+          "label": "R6 \u00d7 Gq, Class A",
+          "lo": 5.278808510638298,
+          "p": 0.0001999800019998,
+          "rr": 17.564102564102562,
+          "status": "standard",
+          "test_label": "FWER"
+        },
+        {
+          "hi": 54.37894736842103,
+          "katz_hi": null,
+          "katz_lo": null,
+          "label": "R6 \u00d7 Gq, \u03b15-hook",
+          "lo": 5.6625,
+          "p": 0.0001999800019998,
+          "rr": 19.25,
+          "status": "standard",
+          "test_label": "FWER"
+        },
+        {
+          "hi": null,
+          "katz_hi": null,
+          "katz_lo": null,
+          "label": "R6 \u00d7 Gq, receptor contexts",
+          "lo": null,
+          "p": 4.172835684248517e-06,
+          "rr": 18.04878048780488,
+          "status": "standard",
+          "test_label": "Fisher"
+        },
+        {
+          "hi": null,
+          "katz_hi": null,
+          "katz_lo": null,
+          "label": "R6 \u00d7 Gq, single-family",
+          "lo": null,
+          "p": 0.0004606505813277,
+          "rr": 13.607142857142856,
+          "status": "standard",
+          "test_label": "Fisher"
+        },
+        {
+          "hi": null,
+          "katz_hi": null,
+          "katz_lo": null,
+          "label": "Direct-G\u03b1 accession\nunderpowered",
+          "lo": null,
+          "p": 0.129329429407984,
+          "rr": 10.666666666666666,
+          "status": "underpowered",
+          "test_label": "Fisher"
+        }
+      ],
+      "reference_risk_ratio": 1,
+      "replica_to_pooled_fold_change": 4.374999999999999
+    }
+  }
+}

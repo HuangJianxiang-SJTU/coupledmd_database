@@ -1,0 +1,134 @@
+{
+  "OBP": [
+    {
+      "alias": "OBP",
+      "cluster_precision": 0.2962962962962963,
+      "empirical_p_value": 0.06129387061293871,
+      "jaccard": 0.2962962962962963,
+      "reference_recall": 1.0,
+      "track": "druggable"
+    },
+    {
+      "alias": "OBP-orth-track",
+      "cluster_precision": 0.2727272727272727,
+      "empirical_p_value": 0.005599440055994401,
+      "jaccard": 0.25,
+      "reference_recall": 0.75,
+      "track": "orthosteric"
+    }
+  ],
+  "druggable_clusters": 65,
+  "heldout_empirical_q_lt_0p05": [
+    "b2AR-IC15",
+    "CCR-IC"
+  ],
+  "nonredundant_prespecified_site_families": 7,
+  "null_interpretation": "Random definitions preserve reference-set size, generic segment composition, and within-segment position offsets, and are scored by their maximum overlap across the same atlas clusters.",
+  "parameter_sensitivity": [
+    {
+      "adjusted_rand_index_vs_baseline": 0.5709718750656388,
+      "distance_threshold": 0.6,
+      "fraction_baseline_clusters_best_j_ge_0p5": 0.7846153846153846,
+      "linkage": "average",
+      "mean_baseline_cluster_best_core_jaccard": 0.7126026538973793,
+      "n_consensus_clusters_min_2_members": 86,
+      "n_raw_clusters": 202
+    },
+    {
+      "adjusted_rand_index_vs_baseline": 0.7823874188957766,
+      "distance_threshold": 0.66,
+      "fraction_baseline_clusters_best_j_ge_0p5": 0.9230769230769231,
+      "linkage": "average",
+      "mean_baseline_cluster_best_core_jaccard": 0.8405124133552242,
+      "n_consensus_clusters_min_2_members": 79,
+      "n_raw_clusters": 150
+    },
+    {
+      "adjusted_rand_index_vs_baseline": 1.0,
+      "distance_threshold": 0.72,
+      "fraction_baseline_clusters_best_j_ge_0p5": 1.0,
+      "linkage": "average",
+      "mean_baseline_cluster_best_core_jaccard": 1.0,
+      "n_consensus_clusters_min_2_members": 65,
+      "n_raw_clusters": 109
+    },
+    {
+      "adjusted_rand_index_vs_baseline": 0.8193378217755247,
+      "distance_threshold": 0.78,
+      "fraction_baseline_clusters_best_j_ge_0p5": 0.8,
+      "linkage": "average",
+      "mean_baseline_cluster_best_core_jaccard": 0.7812553983394743,
+      "n_consensus_clusters_min_2_members": 55,
+      "n_raw_clusters": 80
+    },
+    {
+      "adjusted_rand_index_vs_baseline": 0.6468341749637111,
+      "distance_threshold": 0.84,
+      "fraction_baseline_clusters_best_j_ge_0p5": 0.5846153846153846,
+      "linkage": "average",
+      "mean_baseline_cluster_best_core_jaccard": 0.5703261025080804,
+      "n_consensus_clusters_min_2_members": 41,
+      "n_raw_clusters": 53
+    },
+    {
+      "adjusted_rand_index_vs_baseline": 0.34413596654791284,
+      "distance_threshold": 0.72,
+      "fraction_baseline_clusters_best_j_ge_0p5": 0.9846153846153847,
+      "linkage": "complete",
+      "mean_baseline_cluster_best_core_jaccard": 0.8503183365132007,
+      "n_consensus_clusters_min_2_members": 112,
+      "n_raw_clusters": 164
+    },
+    {
+      "adjusted_rand_index_vs_baseline": 0.02664495975129631,
+      "distance_threshold": 0.72,
+      "fraction_baseline_clusters_best_j_ge_0p5": 0.13846153846153847,
+      "linkage": "single",
+      "mean_baseline_cluster_best_core_jaccard": 0.2171728504404561,
+      "n_consensus_clusters_min_2_members": 12,
+      "n_raw_clusters": 32
+    }
+  ],
+  "prespecified_definitions": 8,
+  "prespecified_empirical_q_lt_0p05": [
+    "NaP",
+    "IC56",
+    "IC345",
+    "TM345core",
+    "UP124",
+    "IC23H8",
+    "TM35mid"
+  ],
+  "significant_nonredundant_prespecified_site_families": [
+    "IC23H8",
+    "IC345",
+    "IC56",
+    "NaP",
+    "TM345/TM35 mid-membrane family",
+    "UP124"
+  ],
+  "split_half": {
+    "mean_adjusted_rand_index_vs_full": 0.8079839838998624,
+    "mean_fraction_clusters_recovered_j_ge_0p5": 0.5149230769230769,
+    "runs": 100,
+    "top20_median_recovery_probability_j_ge_0p5": 0.8474999999999999
+  },
+  "stable_recurrent_core_clusters": 14,
+  "stable_recurrent_core_definition": "at least 5 receptors and split-half recovery probability at least 0.80 at best-core Jaccard at least 0.50",
+  "stable_recurrent_core_ids": [
+    "C13",
+    "C0",
+    "C10",
+    "C7",
+    "C28",
+    "C24",
+    "C57",
+    "C11",
+    "C68",
+    "C39",
+    "C30",
+    "C27",
+    "C4",
+    "C21"
+  ]
+}

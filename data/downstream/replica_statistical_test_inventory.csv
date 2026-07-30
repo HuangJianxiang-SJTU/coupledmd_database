@@ -1,0 +1,8 @@
+analysis_family,status,unit,n_tests_or_estimands,multiplicity_or_uncertainty,source_table
+Replica consensus split-half stability,final207,receptor-disjoint cohort half,54,100 repeated splits; 90% empirical interval and recovery probability per cluster,replica_cluster_split_half_stability.csv
+Class-A known-site concordance (primary),final207,non-redundant prespecified site family,7,10000 topology-matched null draws per definition; BH across non-redundant prespecified families,replica_known_site_null_calibrated_concordance.csv
+Orthosteric replica-track positive control,final207; not estimable after combined repair,prespecified OBP definition,0,orthosteric control track too sparse; no null test run,replica_known_site_null_calibrated_concordance.csv
+Complete replica-cluster × family screen,final207,binary cluster presence per system,486,"three class/receptor-aware screens; 10,000 receptor-block max-statistic permutations per screen",replica_cluster_family_maxstat_permutation.csv
+Legacy C7 anatomical replication,final207,outcome-blind replica-cluster mapping,6,targeted sensitivity variants; receptor-block bootstrap; interpretation requires core Jaccard >= 0.30,legacy_C7_replica_sensitivity.csv
+Pocket context versus replica noise,final207,receptor-collapsed context contrast,13,one receptor-level sign test and receptor bootstrap CI,replica_pocket_context_receptor_inference.csv
+Pocket-fingerprint multivariate variance partition,final207,replica fingerprint with receptor blocks,5,500 receptor-block bootstraps; 1000 within-receptor family-label permutations for the family increment,replica_pocket_fingerprint_variance_partition.csv

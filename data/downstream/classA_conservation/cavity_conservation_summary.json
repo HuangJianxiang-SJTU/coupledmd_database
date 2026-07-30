@@ -1,0 +1,86 @@
+{
+  "analysis_mode": "replica-final",
+  "classA_h40_groups": 62,
+  "classA_receptor_accessions": 151,
+  "classA_stable_core_clusters": 11,
+  "classA_systems": 179,
+  "cluster_conservation_two_sided_q_lt_0p05": [
+    "A0",
+    "A6",
+    "A11"
+  ],
+  "cluster_selection_audit": {
+    "downstream_stable_classA_clusters": [
+      "A0",
+      "A1",
+      "A2",
+      "A3",
+      "A5",
+      "A6",
+      "A7",
+      "A8",
+      "A9",
+      "A10",
+      "A11"
+    ],
+    "downstream_status": "final207",
+    "downstream_summary": "/MDdata/data02/jxhuang/gpcr_g/a/paper1_figures_rigor_v2/pocket_replica_v2/analysis_final207/downstream_final207_v2/replica_pocket_downstream_summary_v2.json",
+    "downstream_summary_sha256": "fb5a1a28645a63e153127e5a67dee116b2629b316c7f4cdafd739c7a668d24ce",
+    "downstream_systems_complete": 207,
+    "input_clusters": 48,
+    "selected_cluster_ids": [
+      "A0",
+      "A1",
+      "A2",
+      "A3",
+      "A5",
+      "A6",
+      "A7",
+      "A8",
+      "A9",
+      "A10",
+      "A11"
+    ],
+    "selected_clusters": 11,
+    "selection_rule": "n_receptors >= 5 and receptor-split recovery probability >= 0.80 at best-core Jaccard >= 0.50"
+  },
+  "conservation_depleted_clusters_q_lt_0p05": [
+    "A0"
+  ],
+  "conservation_enriched_clusters_q_lt_0p05": [
+    "A6",
+    "A11"
+  ],
+  "eligible_for_manuscript_interpretation": true,
+  "input_cluster_table": "/MDdata/data02/jxhuang/gpcr_g/a/paper1_figures_rigor_v2/pocket_replica_v2/analysis_final207/downstream_final207_v2/replica_classA_cluster_effective_recurrence_v2.csv",
+  "input_cluster_table_sha256": "991995369af88633553d43279c16d69fd2e9eab1a28b0a833ae0ccbdccf2c717",
+  "input_inventory": "/MDdata/data02/jxhuang/gpcr_g/a/inventory_paper1_207.csv",
+  "input_inventory_sha256": "8c9328dc4b346209f6c40f798cc0b20f6c215fadcce5d7f8a3038007b0b8f02d",
+  "input_uniprot_manifest": "/MDdata/data02/jxhuang/gpcr_g/a/dynamic_activation/manifests/uniprot_receptor_records_v1.json",
+  "input_uniprot_manifest_sha256": "e46f995da657e1a2a3c95a6b6889474a835ed640f856515a38c320eae2e2a30d",
+  "mapped_generic_positions": 466,
+  "matched_candidates_per_position": 20,
+  "matched_null_draws": 10000,
+  "minimum_h40_coverage": 15,
+  "output_tables": [
+    "/MDdata/data02/jxhuang/gpcr_g/a/paper1_figures_rigor_v2/pocket_replica_v2/analysis_final207/downstream_final207_v2/classA_conservation_v2/source_data/audits/classA_conservation_representative_receptors_v2.csv",
+    "/MDdata/data02/jxhuang/gpcr_g/a/paper1_figures_rigor_v2/pocket_replica_v2/analysis_final207/downstream_final207_v2/classA_conservation_v2/source_data/audits/classA_canonical_generic_mapping_v2.csv",
+    "/MDdata/data02/jxhuang/gpcr_g/a/paper1_figures_rigor_v2/pocket_replica_v2/analysis_final207/downstream_final207_v2/classA_conservation_v2/source_data/classA_generic_position_conservation_v2.csv",
+    "/MDdata/data02/jxhuang/gpcr_g/a/paper1_figures_rigor_v2/pocket_replica_v2/analysis_final207/downstream_final207_v2/classA_conservation_v2/source_data/cavity_classA_conservation_matched_null_v2.csv",
+    "/MDdata/data02/jxhuang/gpcr_g/a/paper1_figures_rigor_v2/pocket_replica_v2/analysis_final207/downstream_final207_v2/classA_conservation_v2/source_data/cavity_classA_core_position_conservation_v2.csv"
+  ],
+  "positions_passing_h40_coverage_gate": 308,
+  "recurrence_vs_mean_conservation_naive_p": 0.6258684515208088,
+  "recurrence_vs_mean_conservation_spearman_rho": -0.16591447367346088,
+  "status": "final207 replica-reproducible Class-A stable-core conservation analysis",
+  "union": {
+    "empirical_lower_tail_p_value": 0.6176382361763824,
+    "empirical_two_sided_p_value": 0.7649235076492351,
+    "empirical_upper_tail_p_value": 0.38246175382461756,
+    "matched_null_ci95_hi": 0.39182149284504997,
+    "matched_null_ci95_lo": 0.3302473401999681,
+    "matched_null_mean": 0.3604914104005863,
+    "observed_mean_h40_conservation": 0.36500907748999184,
+    "unique_classA_stable_core_positions": 127
+  }
+}

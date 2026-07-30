@@ -1,0 +1,225 @@
+{
+  "canvas": {
+    "height_mm": 83.82,
+    "width_mm": 180.0
+  },
+  "figure": "S1",
+  "panels": {
+    "A": [
+      {
+        "analysis_gpcr_class": "A",
+        "g_protein_family": "G12-13",
+        "systems": 3
+      },
+      {
+        "analysis_gpcr_class": "B",
+        "g_protein_family": "G12-13",
+        "systems": 3
+      },
+      {
+        "analysis_gpcr_class": "A",
+        "g_protein_family": "Gi",
+        "systems": 92
+      },
+      {
+        "analysis_gpcr_class": "B",
+        "g_protein_family": "Gi",
+        "systems": 3
+      },
+      {
+        "analysis_gpcr_class": "A",
+        "g_protein_family": "Gq",
+        "systems": 39
+      },
+      {
+        "analysis_gpcr_class": "B",
+        "g_protein_family": "Gq",
+        "systems": 2
+      },
+      {
+        "analysis_gpcr_class": "A",
+        "g_protein_family": "Gs",
+        "systems": 45
+      },
+      {
+        "analysis_gpcr_class": "B",
+        "g_protein_family": "Gs",
+        "systems": 20
+      }
+    ],
+    "B": {
+      "family_counts": {
+        "columns": [
+          "Gi",
+          "Gq",
+          "Gs",
+          "G12-13"
+        ],
+        "data": [
+          [
+            1.0,
+            1.0,
+            1.0,
+            0.0
+          ],
+          [
+            1.0,
+            1.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            1.0
+          ],
+          [
+            1.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            1.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            1.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            1.0,
+            0.0
+          ],
+          [
+            1.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            1.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            1.0,
+            0.0
+          ],
+          [
+            1.0,
+            1.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "index": [
+          [
+            "FFAR4",
+            "Q5NUL3"
+          ],
+          [
+            "OX2R",
+            "O43614"
+          ],
+          [
+            "ADGRE5",
+            "P48960"
+          ],
+          [
+            "CCKAR",
+            "P32238"
+          ],
+          [
+            "CCKBR",
+            "P32239"
+          ],
+          [
+            "CRHR2",
+            "Q13324"
+          ],
+          [
+            "EDNRA",
+            "P25101"
+          ],
+          [
+            "EDNRB",
+            "P24530"
+          ],
+          [
+            "GCGR",
+            "P47871"
+          ],
+          [
+            "H1R",
+            "P35367"
+          ],
+          [
+            "NK1R",
+            "P25103"
+          ],
+          [
+            "P2Y1R",
+            "P47900"
+          ],
+          [
+            "SSTR2",
+            "P30874"
+          ]
+        ]
+      },
+      "receptor_uniprots": [
+        "Q5NUL3",
+        "O43614",
+        "P48960",
+        "P32238",
+        "P32239",
+        "Q13324",
+        "P25101",
+        "P24530",
+        "P47871",
+        "P35367",
+        "P25103",
+        "P47900",
+        "P30874"
+      ],
+      "receptors": [
+        "FFAR4",
+        "OX2R",
+        "ADGRE5",
+        "CCKAR",
+        "CCKBR",
+        "CRHR2",
+        "EDNRA",
+        "EDNRB",
+        "GCGR",
+        "H1R",
+        "NK1R",
+        "P2Y1R",
+        "SSTR2"
+      ]
+    }
+  }
+}

@@ -1,0 +1,541 @@
+{
+  "canvas": {
+    "height_mm": 194.31,
+    "minimum_text_pt": 5,
+    "width_mm": 180.0
+  },
+  "figure": 4,
+  "panels": {
+    "A": {
+      "placeholder_note": "Gi_6K42 \u2014 ADRA2B\u2013Gi, seven portal definitions",
+      "required_aspect_width_over_height": 1.3333333333333333,
+      "reserved_box": {
+        "aspect_width_over_height": 1.3333333333333333,
+        "height_mm": 33.47174496644296,
+        "panel": "4A",
+        "width_mm": 44.628993288590614
+      }
+    },
+    "B": {
+      "n_systems": 207,
+      "portal_cohort_means": {
+        "TM1-TM2": 0.1852021265709981,
+        "TM2-TM3": 0.0202168705586399,
+        "TM3-TM4": 0.4992127636304265,
+        "TM4-TM5": 0.2415745769851855,
+        "TM5-TM6": 0.1963564511349171,
+        "TM6-TM7": 0.1549486168732934,
+        "TM7-TM1": 0.4341390702305168
+      },
+      "portal_colors": {
+        "TM1-TM2": "#481d6f",
+        "TM2-TM3": "#3e4989",
+        "TM3-TM4": "#2e6f8e",
+        "TM4-TM5": "#21918c",
+        "TM5-TM6": "#2cb17e",
+        "TM6-TM7": "#6ece58",
+        "TM7-TM1": "#cae11f"
+      },
+      "primary_depth_threshold_angstrom": 0.5,
+      "primary_threshold_source_discrepancy": {
+        "0.3": 0.05250429741250695,
+        "0.5": 1.4070620050765648e-06,
+        "0.7": 0.05344451377786996,
+        "1.0": 0.13343674148482637
+      }
+    },
+    "C": {
+      "leading_portals_at_every_threshold": {
+        "0.3": [
+          "TM3-TM4",
+          "TM7-TM1"
+        ],
+        "0.5": [
+          "TM3-TM4",
+          "TM7-TM1"
+        ],
+        "0.7": [
+          "TM3-TM4",
+          "TM7-TM1"
+        ],
+        "1.0": [
+          "TM3-TM4",
+          "TM7-TM1"
+        ]
+      },
+      "portal_colors": {
+        "TM1-TM2": "#481d6f",
+        "TM2-TM3": "#3e4989",
+        "TM3-TM4": "#2e6f8e",
+        "TM4-TM5": "#21918c",
+        "TM5-TM6": "#2cb17e",
+        "TM6-TM7": "#6ece58",
+        "TM7-TM1": "#cae11f"
+      },
+      "threshold_rank_rows": [
+        {
+          "depth_threshold_angstrom": 0.3,
+          "mean": 0.2094793465942688,
+          "median": 0.15,
+          "portal": "TM1-TM2",
+          "rank": 5.0,
+          "std": 0.18970393881325
+        },
+        {
+          "depth_threshold_angstrom": 0.3,
+          "mean": 0.0242666698712556,
+          "median": 0.0033333333333333,
+          "portal": "TM2-TM3",
+          "rank": 7.0,
+          "std": 0.0553647955562027
+        },
+        {
+          "depth_threshold_angstrom": 0.3,
+          "mean": 0.5517184681049385,
+          "median": 0.555,
+          "portal": "TM3-TM4",
+          "rank": 1.0,
+          "std": 0.204687463264711
+        },
+        {
+          "depth_threshold_angstrom": 0.3,
+          "mean": 0.2706324593796309,
+          "median": 0.2083333333333333,
+          "portal": "TM4-TM5",
+          "rank": 3.0,
+          "std": 0.213468570618961
+        },
+        {
+          "depth_threshold_angstrom": 0.3,
+          "mean": 0.2275499777500599,
+          "median": 0.1816666666666666,
+          "portal": "TM5-TM6",
+          "rank": 4.0,
+          "std": 0.1803674876908801
+        },
+        {
+          "depth_threshold_angstrom": 0.3,
+          "mean": 0.1793700977664697,
+          "median": 0.1276948590381426,
+          "portal": "TM6-TM7",
+          "rank": 6.0,
+          "std": 0.1750840348140644
+        },
+        {
+          "depth_threshold_angstrom": 0.3,
+          "mean": 0.4767782187246749,
+          "median": 0.51,
+          "portal": "TM7-TM1",
+          "rank": 2.0,
+          "std": 0.268953608083336
+        },
+        {
+          "depth_threshold_angstrom": 0.5,
+          "mean": 0.1852021265709981,
+          "median": 0.1316666666666666,
+          "portal": "TM1-TM2",
+          "rank": 5.0,
+          "std": 0.1802337335202409
+        },
+        {
+          "depth_threshold_angstrom": 0.5,
+          "mean": 0.0202168705586399,
+          "median": 0.0016666666666666,
+          "portal": "TM2-TM3",
+          "rank": 7.0,
+          "std": 0.0496687797741925
+        },
+        {
+          "depth_threshold_angstrom": 0.5,
+          "mean": 0.4992127636304265,
+          "median": 0.4966666666666667,
+          "portal": "TM3-TM4",
+          "rank": 1.0,
+          "std": 0.206425515638514
+        },
+        {
+          "depth_threshold_angstrom": 0.5,
+          "mean": 0.2415745769851855,
+          "median": 0.1833333333333333,
+          "portal": "TM4-TM5",
+          "rank": 3.0,
+          "std": 0.2065076850081755
+        },
+        {
+          "depth_threshold_angstrom": 0.5,
+          "mean": 0.1963564511349171,
+          "median": 0.1483333333333333,
+          "portal": "TM5-TM6",
+          "rank": 4.0,
+          "std": 0.1727242858998542
+        },
+        {
+          "depth_threshold_angstrom": 0.5,
+          "mean": 0.1549486168732934,
+          "median": 0.1028192371475953,
+          "portal": "TM6-TM7",
+          "rank": 6.0,
+          "std": 0.1626975932369765
+        },
+        {
+          "depth_threshold_angstrom": 0.5,
+          "mean": 0.4341390702305168,
+          "median": 0.4466666666666666,
+          "portal": "TM7-TM1",
+          "rank": 2.0,
+          "std": 0.2614046319251825
+        },
+        {
+          "depth_threshold_angstrom": 0.7,
+          "mean": 0.1644394958011009,
+          "median": 0.11,
+          "portal": "TM1-TM2",
+          "rank": 5.0,
+          "std": 0.1716758603859279
+        },
+        {
+          "depth_threshold_angstrom": 0.7,
+          "mean": 0.0172378445934578,
+          "median": 0.0016666666666666,
+          "portal": "TM2-TM3",
+          "rank": 7.0,
+          "std": 0.0449326551778272
+        },
+        {
+          "depth_threshold_angstrom": 0.7,
+          "mean": 0.4457696569145616,
+          "median": 0.425,
+          "portal": "TM3-TM4",
+          "rank": 1.0,
+          "std": 0.2045839606147851
+        },
+        {
+          "depth_threshold_angstrom": 0.7,
+          "mean": 0.214098097867753,
+          "median": 0.1466666666666666,
+          "portal": "TM4-TM5",
+          "rank": 3.0,
+          "std": 0.1980894263441424
+        },
+        {
+          "depth_threshold_angstrom": 0.7,
+          "mean": 0.1688903421818664,
+          "median": 0.1216666666666666,
+          "portal": "TM5-TM6",
+          "rank": 4.0,
+          "std": 0.1645743739985458
+        },
+        {
+          "depth_threshold_angstrom": 0.7,
+          "mean": 0.1328040215864567,
+          "median": 0.0883333333333333,
+          "portal": "TM6-TM7",
+          "rank": 6.0,
+          "std": 0.1518838136463827
+        },
+        {
+          "depth_threshold_angstrom": 0.7,
+          "mean": 0.3930078068385076,
+          "median": 0.3866666666666666,
+          "portal": "TM7-TM1",
+          "rank": 2.0,
+          "std": 0.2534071690949484
+        },
+        {
+          "depth_threshold_angstrom": 1.0,
+          "mean": 0.1372323953530198,
+          "median": 0.0833333333333333,
+          "portal": "TM1-TM2",
+          "rank": 4.0,
+          "std": 0.1589145472653399
+        },
+        {
+          "depth_threshold_angstrom": 1.0,
+          "mean": 0.0134456942341432,
+          "median": 0.0,
+          "portal": "TM2-TM3",
+          "rank": 7.0,
+          "std": 0.0378617272320303
+        },
+        {
+          "depth_threshold_angstrom": 1.0,
+          "mean": 0.3657774292076052,
+          "median": 0.3349999999999999,
+          "portal": "TM3-TM4",
+          "rank": 1.0,
+          "std": 0.1996133730850814
+        },
+        {
+          "depth_threshold_angstrom": 1.0,
+          "mean": 0.1769586116313038,
+          "median": 0.1066666666666666,
+          "portal": "TM4-TM5",
+          "rank": 3.0,
+          "std": 0.1826602149036302
+        },
+        {
+          "depth_threshold_angstrom": 1.0,
+          "mean": 0.1322505189849886,
+          "median": 0.0733333333333333,
+          "portal": "TM5-TM6",
+          "rank": 5.0,
+          "std": 0.152369645828918
+        },
+        {
+          "depth_threshold_angstrom": 1.0,
+          "mean": 0.105094695604105,
+          "median": 0.0613598673300165,
+          "portal": "TM6-TM7",
+          "rank": 6.0,
+          "std": 0.1368156024210269
+        },
+        {
+          "depth_threshold_angstrom": 1.0,
+          "mean": 0.3326192675640575,
+          "median": 0.3133333333333333,
+          "portal": "TM7-TM1",
+          "rank": 2.0,
+          "std": 0.2395280718158785
+        }
+      ]
+    },
+    "D": {
+      "between_portal_means": [
+        {
+          "mean_open_fraction": 0.18520128824476648,
+          "mean_prepared_width": 8.118545074934007,
+          "portal": "TM1-TM2"
+        },
+        {
+          "mean_open_fraction": 0.0202173913043478,
+          "mean_prepared_width": 7.801015648832818,
+          "portal": "TM2-TM3"
+        },
+        {
+          "mean_open_fraction": 0.49921417069243157,
+          "mean_prepared_width": 8.09285659715644,
+          "portal": "TM3-TM4"
+        },
+        {
+          "mean_open_fraction": 0.24157326892109499,
+          "mean_prepared_width": 13.636546739843967,
+          "portal": "TM4-TM5"
+        },
+        {
+          "mean_open_fraction": 0.19635748792270527,
+          "mean_prepared_width": 9.41559531910301,
+          "portal": "TM5-TM6"
+        },
+        {
+          "mean_open_fraction": 0.15494847020933974,
+          "mean_prepared_width": 8.44473763835711,
+          "portal": "TM6-TM7"
+        },
+        {
+          "mean_open_fraction": 0.43414009661835745,
+          "mean_prepared_width": 8.357731156917351,
+          "portal": "TM7-TM1"
+        }
+      ],
+      "between_portal_rank_p": 0.7016579425162729,
+      "between_portal_rank_spearman": 0.1785714285714286,
+      "n_receptors": 175,
+      "n_systems": 207,
+      "portal_colors": {
+        "TM1-TM2": "#481d6f",
+        "TM2-TM3": "#3e4989",
+        "TM3-TM4": "#2e6f8e",
+        "TM4-TM5": "#21918c",
+        "TM5-TM6": "#2cb17e",
+        "TM6-TM7": "#6ece58",
+        "TM7-TM1": "#cae11f"
+      },
+      "within_portal_associations": [
+        {
+          "analysis_status": "primary inferential",
+          "n_receptors": 175,
+          "n_systems": 207,
+          "naive_spearman_p_value": 4.4876177983925465e-11,
+          "portal": "TM7-TM1",
+          "q_bh_28_naive_sensitivity_tests": 6.282664917749564e-10,
+          "q_bh_7_primary_portals": 0.0075592440755924,
+          "receptor_block_permutation_p_value": 0.0053994600539946,
+          "receptor_bootstrap_ci95_hi": 0.5630292852274181,
+          "receptor_bootstrap_ci95_lo": 0.2994624754960586,
+          "spearman_rho": 0.4372239820878642,
+          "static_geometry_metric": "ca_symmetric_nearest_mean_angstrom"
+        },
+        {
+          "analysis_status": "primary inferential",
+          "n_receptors": 175,
+          "n_systems": 207,
+          "naive_spearman_p_value": 7.660971047235601e-10,
+          "portal": "TM6-TM7",
+          "q_bh_28_naive_sensitivity_tests": 5.3626797330649215e-09,
+          "q_bh_7_primary_portals": 0.0002333100023331,
+          "receptor_block_permutation_p_value": 9.999000099990002e-05,
+          "receptor_bootstrap_ci95_hi": 0.519365983031718,
+          "receptor_bootstrap_ci95_lo": 0.2895448498072815,
+          "spearman_rho": 0.4110215067769245,
+          "static_geometry_metric": "ca_symmetric_nearest_mean_angstrom"
+        },
+        {
+          "analysis_status": "primary inferential",
+          "n_receptors": 175,
+          "n_systems": 207,
+          "naive_spearman_p_value": 0.0001468913849286,
+          "portal": "TM5-TM6",
+          "q_bh_28_naive_sensitivity_tests": 0.0003739053434548,
+          "q_bh_7_primary_portals": 0.0005249475052494,
+          "receptor_block_permutation_p_value": 0.0002999700029997,
+          "receptor_bootstrap_ci95_hi": 0.385046890766417,
+          "receptor_bootstrap_ci95_lo": 0.1321523025685898,
+          "spearman_rho": 0.2608554472626794,
+          "static_geometry_metric": "ca_symmetric_nearest_mean_angstrom"
+        },
+        {
+          "analysis_status": "primary inferential",
+          "n_receptors": 175,
+          "n_systems": 207,
+          "naive_spearman_p_value": 5.783157798937598e-10,
+          "portal": "TM4-TM5",
+          "q_bh_28_naive_sensitivity_tests": 5.3626797330649215e-09,
+          "q_bh_7_primary_portals": 0.0002333100023331,
+          "receptor_block_permutation_p_value": 9.999000099990002e-05,
+          "receptor_bootstrap_ci95_hi": 0.5389731974365094,
+          "receptor_bootstrap_ci95_lo": 0.2770770135990686,
+          "spearman_rho": 0.4137211395348478,
+          "static_geometry_metric": "ca_symmetric_nearest_mean_angstrom"
+        },
+        {
+          "analysis_status": "primary inferential",
+          "n_receptors": 175,
+          "n_systems": 207,
+          "naive_spearman_p_value": 0.0113610817477037,
+          "portal": "TM3-TM4",
+          "q_bh_28_naive_sensitivity_tests": 0.0187123699373944,
+          "q_bh_7_primary_portals": 0.0145818751458187,
+          "receptor_block_permutation_p_value": 0.0124987501249875,
+          "receptor_bootstrap_ci95_hi": 0.3088277808366231,
+          "receptor_bootstrap_ci95_lo": 0.0339208714996723,
+          "spearman_rho": 0.175637600751061,
+          "static_geometry_metric": "ca_symmetric_nearest_mean_angstrom"
+        },
+        {
+          "analysis_status": "primary inferential",
+          "n_receptors": 175,
+          "n_systems": 207,
+          "naive_spearman_p_value": 4.8415146439495135e-08,
+          "portal": "TM2-TM3",
+          "q_bh_28_naive_sensitivity_tests": 1.936605857579805e-07,
+          "q_bh_7_primary_portals": 0.0002333100023331,
+          "receptor_block_permutation_p_value": 9.999000099990002e-05,
+          "receptor_bootstrap_ci95_hi": 0.48894998578416,
+          "receptor_bootstrap_ci95_lo": 0.2393905601451877,
+          "spearman_rho": 0.3681161313067893,
+          "static_geometry_metric": "ca_symmetric_nearest_mean_angstrom"
+        },
+        {
+          "analysis_status": "primary inferential",
+          "n_receptors": 175,
+          "n_systems": 207,
+          "naive_spearman_p_value": 0.5523788586878915,
+          "portal": "TM1-TM2",
+          "q_bh_28_naive_sensitivity_tests": 0.5728373349355912,
+          "q_bh_7_primary_portals": 0.6196380361963804,
+          "receptor_block_permutation_p_value": 0.6196380361963804,
+          "receptor_bootstrap_ci95_hi": 0.1802531807014267,
+          "receptor_bootstrap_ci95_lo": -0.0966898489758259,
+          "spearman_rho": 0.0415333810304606,
+          "static_geometry_metric": "ca_symmetric_nearest_mean_angstrom"
+        }
+      ]
+    },
+    "E": {
+      "first_last_rank_spearman": 0.9642857142857145,
+      "n_receptors": 175,
+      "n_systems": 207,
+      "portal_changes": [
+        {
+          "ci95_hi_receptor_bootstrap": 0.0477925727145154,
+          "ci95_lo_receptor_bootstrap": 0.0021821587209779,
+          "mean_last_minus_first": 0.0246701132770831,
+          "n_receptors": 175,
+          "n_systems": 207,
+          "portal": "TM7-TM1",
+          "q_bh_7_portals": 0.0899168491413938,
+          "receptor_level_wilcoxon_p": 0.0642263208152813
+        },
+        {
+          "ci95_hi_receptor_bootstrap": 0.0587778959100607,
+          "ci95_lo_receptor_bootstrap": 0.022487454778854,
+          "mean_last_minus_first": 0.0404121930986547,
+          "n_receptors": 175,
+          "n_systems": 207,
+          "portal": "TM6-TM7",
+          "q_bh_7_portals": 0.0014341239413188,
+          "receptor_level_wilcoxon_p": 0.0004097496975196
+        },
+        {
+          "ci95_hi_receptor_bootstrap": 0.0779843577010953,
+          "ci95_lo_receptor_bootstrap": 0.0328767981645606,
+          "mean_last_minus_first": 0.0552191265086073,
+          "n_receptors": 175,
+          "n_systems": 207,
+          "portal": "TM5-TM6",
+          "q_bh_7_portals": 0.000132566678651,
+          "receptor_level_wilcoxon_p": 1.893809695014314e-05
+        },
+        {
+          "ci95_hi_receptor_bootstrap": 0.0173075725062493,
+          "ci95_lo_receptor_bootstrap": -0.0219489425141892,
+          "mean_last_minus_first": -0.0011783006563951,
+          "n_receptors": 175,
+          "n_systems": 207,
+          "portal": "TM4-TM5",
+          "q_bh_7_portals": 0.6552115554902732,
+          "receptor_level_wilcoxon_p": 0.6552115554902733
+        },
+        {
+          "ci95_hi_receptor_bootstrap": 0.0293949752990169,
+          "ci95_lo_receptor_bootstrap": -0.0102945418612169,
+          "mean_last_minus_first": 0.0098681623087461,
+          "n_receptors": 175,
+          "n_systems": 207,
+          "portal": "TM3-TM4",
+          "q_bh_7_portals": 0.5202274742586018,
+          "receptor_level_wilcoxon_p": 0.4459092636502301
+        },
+        {
+          "ci95_hi_receptor_bootstrap": 0.0222818075663823,
+          "ci95_lo_receptor_bootstrap": 0.003029172320217,
+          "mean_last_minus_first": 0.0121204980165743,
+          "n_receptors": 175,
+          "n_systems": 207,
+          "portal": "TM2-TM3",
+          "q_bh_7_portals": 0.0127913037366665,
+          "receptor_level_wilcoxon_p": 0.0073093164209523
+        },
+        {
+          "ci95_hi_receptor_bootstrap": 0.0642714349529921,
+          "ci95_lo_receptor_bootstrap": 0.0207966296766357,
+          "mean_last_minus_first": 0.0421748676333543,
+          "n_receptors": 175,
+          "n_systems": 207,
+          "portal": "TM1-TM2",
+          "q_bh_7_portals": 0.0052076629170219,
+          "receptor_level_wilcoxon_p": 0.0022318555358665
+        }
+      ],
+      "portal_colors": {
+        "TM1-TM2": "#481d6f",
+        "TM2-TM3": "#3e4989",
+        "TM3-TM4": "#2e6f8e",
+        "TM4-TM5": "#21918c",
+        "TM5-TM6": "#2cb17e",
+        "TM6-TM7": "#6ece58",
+        "TM7-TM1": "#cae11f"
+      }
+    }
+  }
+}

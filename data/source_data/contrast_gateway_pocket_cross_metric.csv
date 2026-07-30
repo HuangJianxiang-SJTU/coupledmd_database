@@ -1,0 +1,2 @@
+predictor,outcome,spearman_rho,receptor_bootstrap_ci95_lo,receptor_bootstrap_ci95_hi,n_contrasts,n_receptors
+gateway_mean_absolute_difference,pocket_set_jaccard_distance,0.11663428741450656,-0.2892528444417275,0.6960372269976196,17,13
