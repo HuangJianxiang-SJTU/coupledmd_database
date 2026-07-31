@@ -1,7 +1,8 @@
 # CoupledMD GPCR–G-protein Database — Paper 1 Figure Package
 
 This repository contains the figure-generation scripts and source data for the
-GPCR atlas manuscript (5 main-text figures, 4 supplementary figures).
+GPCR atlas manuscript (5 main-text figures, 4 supplementary figures) and the
+machine-readable supplementary data bundle (SI v12 numbering).
 
 ## Repository structure
 
@@ -14,8 +15,8 @@ scripts/          Figure-generation scripts (one per figure)
   figure4.py          Fig 4 — Lateral-opening hierarchy
   figure5.py          Fig 5 — Cavity association & evidence collapse
   figure_s1.py        Fig S1 — Cohort design
-  figure_s2.py        Fig S2 — Within-receptor contrasts
-  figure_s3.py        Fig S3 — Gateway variance components
+  figure_s2.py        Fig S2 — Gateway variance components
+  figure_s3.py        Fig S3 — Within-receptor contrasts
   figure_s4.py        Fig S4 — Interface descriptors
 
 data/             Source data consumed by the figure scripts
@@ -30,6 +31,10 @@ data/             Source data consumed by the figure scripts
   gateway_static_geometry_summary.json
 
 figures/          Generated SVG figures (output after running scripts)
+
+supplementary_data/  Machine-readable data files backing the SI tables
+  S01–S10/           Supplementary Data S1–S10 delivery bundle
+  S11_statistical_inventory/  Statistical-test inventory artifacts (SI Table S11)
 ```
 
 ## Dependencies
@@ -63,8 +68,8 @@ numerical sources.
 | Fig 4  | Seven-portal hierarchy, rank stability, prepared-geometry control, stationarity |
 | Fig 5  | 486-cell screen, R6–Gq robustness, construct evidence |
 | Fig S1 | Cohort composition, receptor-by-family contrast design |
-| Fig S2 | Gateway context differences, pocket context distances, signal/noise |
-| Fig S3 | Per-portal mixed-model variance components |
+| Fig S2 | Per-portal mixed-model variance components |
+| Fig S3 | Gateway context differences, pocket context distances, signal/noise |
 | Fig S4 | Interface-descriptor replica reliability, descriptor–outcome correlations |
 
 ## Zenodo

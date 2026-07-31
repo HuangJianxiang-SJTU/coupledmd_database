@@ -2,94 +2,194 @@
   "bundle": "Supplementary_Data",
   "files": [
     {
-      "name": "README.txt",
-      "bytes": 998,
-      "sha256": "d8f44fb30e406b5d180642e7bc954cf3d122d34d58c1a016e2f5ef5f424826b2"
+      "path": "README.md",
+      "bytes": 7736,
+      "sha256": "eae158ca069a0889488245403f6e72c8280f51c621858f6e4626dd1dd4e956d8"
     },
     {
-      "name": "Supplementary_Data_S10_conservation_matched_null.csv",
-      "bytes": 3136,
-      "sha256": "2c39a22c905948859be4d095ea108717293de65e6018e8114774b180dfbaf8d7"
-    },
-    {
-      "name": "Supplementary_Data_S1_system_inventory.csv",
+      "path": "S01_system_inventory/Supplementary_Data_S1_system_inventory.csv",
       "bytes": 16031,
       "sha256": "239071c25804fdb9afd916e13bec93be8fae8dd89a940807827a35cd7134f3e9"
     },
     {
-      "name": "Supplementary_Data_S1_system_inventory_audit.json",
+      "path": "S01_system_inventory/Supplementary_Data_S1_system_inventory_audit.json",
       "bytes": 767,
       "sha256": "99ea1a01863318a50b4b123a210d44d40895c98ff8f9e6a4967bfc9bc7177e95"
     },
     {
-      "name": "Supplementary_Data_S2_fingerprint_variance_partition.csv",
+      "path": "S02_fingerprint_variance_partition/Supplementary_Data_S2_fingerprint_variance_partition.csv",
       "bytes": 1440,
       "sha256": "da28efef2a1cca7cb672dbeb88abfdcc6cc0a90cc291098ab22e4bf4c9c4c808"
     },
     {
-      "name": "Supplementary_Data_S3_resampling_and_multiplicity_design.csv",
+      "path": "S03_resampling_multiplicity_design/Supplementary_Data_S3_resampling_and_multiplicity_design.csv",
       "bytes": 2314,
       "sha256": "a3e8f6ab9e549cff203183350819c15c5782e02da22d9033f4b249fc5aa74adc"
     },
     {
-      "name": "Supplementary_Data_S4_known_site_concordance.csv",
+      "path": "S04_known_site_concordance/Supplementary_Data_S4_known_site_concordance.csv",
       "bytes": 18521,
       "sha256": "c1f3ee4d6dde0591e415506ca552a84cff78ebb038371c8233ee10430a39f8da"
     },
     {
-      "name": "Supplementary_Data_S5_interface_receptor_level_coherence.csv",
+      "path": "S05_interface_coherence/Supplementary_Data_S5_interface_receptor_level_coherence.csv",
       "bytes": 1136,
       "sha256": "db0942b71065e70c523ca97a29693321059e2d540b2cbf9c20f96963b4e77443"
     },
     {
-      "name": "Supplementary_Data_S6_alpha5_hook_audit.csv",
+      "path": "S06_alpha5_hook_audit/Supplementary_Data_S6_alpha5_hook_audit.csv",
       "bytes": 128613,
       "sha256": "c55a980a20015219de711acab498a8ade6b24ab7d5c3546b3f34aef84e4c64c3"
     },
     {
-      "name": "Supplementary_Data_S7a_gateway_replica_long.csv",
+      "path": "S07_gateway/Supplementary_Data_S7a_gateway_replica_long.csv",
       "bytes": 376052,
       "sha256": "f78ed6910b9072c9b22d74059ae5de74b3c3e394df702d3592ad83568babfd8b"
     },
     {
-      "name": "Supplementary_Data_S7b_gateway_replica_icc.csv",
+      "path": "S07_gateway/Supplementary_Data_S7b_gateway_replica_icc.csv",
       "bytes": 555,
       "sha256": "f8c4073d56f9fdf8268a2e59a1a8f3b02ef802ebfeb2d4e58ab91a00b7fa332b"
     },
     {
-      "name": "Supplementary_Data_S7c_gateway_threshold_sensitivity.csv",
+      "path": "S07_gateway/Supplementary_Data_S7c_gateway_threshold_sensitivity.csv",
       "bytes": 2073,
       "sha256": "268762cf8093aa9fcad0c1880f835bad3fd1bf21516140b2596ba8cd021d984c"
     },
     {
-      "name": "Supplementary_Data_S7d_gateway_stationarity.csv",
+      "path": "S07_gateway/Supplementary_Data_S7d_gateway_stationarity.csv",
       "bytes": 982,
       "sha256": "48950d97ecf2f2dd5c06533fb62861f6c172c3cc002895d202d5cc054bf49939"
     },
     {
-      "name": "Supplementary_Data_S7e_gateway_static_associations.csv",
+      "path": "S07_gateway/Supplementary_Data_S7e_gateway_static_associations.csv",
       "bytes": 4524,
       "sha256": "d9c15d995326b78ebc82b1b9b236a0abe054c53afb2fad2c1285e0ba8bb2f101"
     },
     {
-      "name": "Supplementary_Data_S8_R6_robustness.csv",
+      "path": "S08_R6_robustness/Supplementary_Data_S8_R6_robustness.csv",
       "bytes": 2394,
       "sha256": "5ef1bba2fd8f95ef0f8b2d643c063762359e0ad811ecb58b13d48ea216b4b96d"
     },
     {
-      "name": "Supplementary_Data_S8b_pooled_C7_comparator.csv",
+      "path": "S08_R6_robustness/Supplementary_Data_S8b_pooled_C7_comparator.csv",
       "bytes": 2194,
       "sha256": "035297e95267469d70120d92d67b540dbf73f0a0f1c1ce174acf144a437131b9"
     },
     {
-      "name": "Supplementary_Data_S9a_stable_cluster_recurrence.csv",
+      "path": "S09_stable_cluster/Supplementary_Data_S9a_stable_cluster_recurrence.csv",
       "bytes": 13971,
       "sha256": "6d4ed27528d0e4893f9da467484baf80c80a712e0b9f02a4399bb062bec0b73b"
     },
     {
-      "name": "Supplementary_Data_S9b_split_half_stability.csv",
+      "path": "S09_stable_cluster/Supplementary_Data_S9b_split_half_stability.csv",
       "bytes": 4137,
       "sha256": "cc45f453bf2cfd6dd0a4ddd4ed80dfa82f7754dcaed13a456d9175aa700d9cf8"
+    },
+    {
+      "path": "S10_conservation_matched_null/Supplementary_Data_S10_conservation_matched_null.csv",
+      "bytes": 3136,
+      "sha256": "2c39a22c905948859be4d095ea108717293de65e6018e8114774b180dfbaf8d7"
+    },
+    {
+      "path": "S11_statistical_inventory/comparison_summary.json",
+      "bytes": 5992,
+      "sha256": "91c1b53533bfce7a23b38030a1d4ea658de0429dd66e6a616d43b4b7ad609f0a"
+    },
+    {
+      "path": "S11_statistical_inventory/comparison_summary.md",
+      "bytes": 1985,
+      "sha256": "426a08a48fd2a83ff98696b4c4da58332d9a08e19de69df2400dbd9bf616860e"
+    },
+    {
+      "path": "S11_statistical_inventory/contrast_binary_confound_associations.csv",
+      "bytes": 1803,
+      "sha256": "73c9663e92034e367f67529d66ac2000050af4adf5e325dababde09e24f6a5f4"
+    },
+    {
+      "path": "S11_statistical_inventory/contrast_continuous_confound_associations.csv",
+      "bytes": 1183,
+      "sha256": "eccb1c3477dae14b0eed46ea3f34629063bf38e5c90170f0e636c4725dfea06c"
+    },
+    {
+      "path": "S11_statistical_inventory/contrast_gateway_pocket_cross_metric.csv",
+      "bytes": 235,
+      "sha256": "065daf5573eb0fd68814b7d6460598f6edfe70b214223c7cb272e7e64963eb50"
+    },
+    {
+      "path": "S11_statistical_inventory/gateway_context_noise_controlled_contrasts.csv",
+      "bytes": 4641,
+      "sha256": "853b901934e9f853aa292b02cabd69519bca8337eddf981b70e30dce87a91a37"
+    },
+    {
+      "path": "S11_statistical_inventory/gateway_replica_icc.csv",
+      "bytes": 555,
+      "sha256": "f8c4073d56f9fdf8268a2e59a1a8f3b02ef802ebfeb2d4e58ab91a00b7fa332b"
+    },
+    {
+      "path": "S11_statistical_inventory/gateway_stationarity_tests.csv",
+      "bytes": 982,
+      "sha256": "48950d97ecf2f2dd5c06533fb62861f6c172c3cc002895d202d5cc054bf49939"
+    },
+    {
+      "path": "S11_statistical_inventory/gateway_threshold_sensitivity.csv",
+      "bytes": 2073,
+      "sha256": "268762cf8093aa9fcad0c1880f835bad3fd1bf21516140b2596ba8cd021d984c"
+    },
+    {
+      "path": "S11_statistical_inventory/gateway_variance_components.csv",
+      "bytes": 2393,
+      "sha256": "bcbb5b28bb3a220714ac61e8b41b9d4b356850ecdb9f4b575998ea794ecdd8ae"
+    },
+    {
+      "path": "S11_statistical_inventory/gprotein_alpha5_hook_sequence_audit.csv",
+      "bytes": 128613,
+      "sha256": "c55a980a20015219de711acab498a8ade6b24ab7d5c3546b3f34aef84e4c64c3"
+    },
+    {
+      "path": "S11_statistical_inventory/interface_descriptor_coherence_checks.csv",
+      "bytes": 1136,
+      "sha256": "db0942b71065e70c523ca97a29693321059e2d540b2cbf9c20f96963b4e77443"
+    },
+    {
+      "path": "S11_statistical_inventory/interface_descriptor_outcome_correlations.csv",
+      "bytes": 2821,
+      "sha256": "4d11a70cde6015068107f54f687e9ebb113edb7c89a50507f351493a292468d3"
+    },
+    {
+      "path": "S11_statistical_inventory/legacy_C7_replica_sensitivity.csv",
+      "bytes": 2394,
+      "sha256": "5ef1bba2fd8f95ef0f8b2d643c063762359e0ad811ecb58b13d48ea216b4b96d"
+    },
+    {
+      "path": "S11_statistical_inventory/replica_cluster_family_maxstat_permutation.csv",
+      "bytes": 40287,
+      "sha256": "597fe9744c02d3792d62f2101aa32dfc211255be1c243fc6ff4437be1f6e6726"
+    },
+    {
+      "path": "S11_statistical_inventory/replica_cluster_parameter_sensitivity.csv",
+      "bytes": 682,
+      "sha256": "d24c7d45a76ffbabdad7e31e15ccc879f7628221da0dec90aba6ee1575b8b3ec"
+    },
+    {
+      "path": "S11_statistical_inventory/replica_cluster_split_half_stability.csv",
+      "bytes": 4137,
+      "sha256": "cc45f453bf2cfd6dd0a4ddd4ed80dfa82f7754dcaed13a456d9175aa700d9cf8"
+    },
+    {
+      "path": "S11_statistical_inventory/replica_known_site_null_calibrated_concordance.csv",
+      "bytes": 18521,
+      "sha256": "c1f3ee4d6dde0591e415506ca552a84cff78ebb038371c8233ee10430a39f8da"
+    },
+    {
+      "path": "S11_statistical_inventory/replica_pocket_context_receptor_inference.csv",
+      "bytes": 1119,
+      "sha256": "2701606adf333d63c6996128d3e56d32d68a9dc5ccf2cfeecba79bb52422084f"
+    },
+    {
+      "path": "S11_statistical_inventory/replica_pocket_fingerprint_variance_partition.csv",
+      "bytes": 1440,
+      "sha256": "da28efef2a1cca7cb672dbeb88abfdcc6cc0a90cc291098ab22e4bf4c9c4c808"
     }
   ]
 }
