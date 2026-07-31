@@ -1,15 +1,14 @@
 # Replica-aware GPCR cavity atlas — Supplementary Data
 
 This directory contains the machine-readable data files supporting the
-manuscript's supplementary information (**SI v12**). All files have been
-renamed to remove internal `_v2` and `_v9` version suffixes; the content
-matches the SI v12 artifact-identifier and machine-readable-source
-references.
+manuscript's supplementary information. All files have been renamed to
+remove internal version suffixes; the content matches the
+artifact-identifier and machine-readable-source references in the
+supplementary information.
 
-> **Renumbering note (v11 → v12):** supplementary tables, results, and
-> figures were renumbered by first-citation order. Folder names follow the
-> delivery-bundle numbering (Supplementary Data S1–S10) and are unchanged;
-> the SI Table column below uses the **v12** table numbers.
+> **Note:** folder names follow the delivery-bundle numbering
+> (Supplementary Data S1–S10); the SI Table column below gives the
+> supplementary-table numbers.
 
 ---
 

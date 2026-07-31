@@ -1,4 +1,4 @@
-# Class-A cavity conservation overlay (v2)
+# Class-A cavity conservation overlay
 
 Status: **final207 replica-reproducible analysis**.
 
@@ -49,9 +49,8 @@ positions. These final-replica values are eligible for manuscript interpretation
 
 ## Outputs
 
-- `source_data/classA_generic_position_conservation_v2.csv`
-- `source_data/cavity_classA_conservation_matched_null_v2.csv`
-- `source_data/cavity_classA_core_position_conservation_v2.csv`
-- `diagnostic_cavity_conservation_v2.pdf/png`
-- `cavity_conservation_summary_v2.json`
-- generator: `/MDdata/data02/jxhuang/gpcr_g/a/paper1_cavity_conservation_v2.py`
+- `source_data/classA_generic_position_conservation.csv`
+- `source_data/cavity_classA_conservation_matched_null.csv`
+- `source_data/cavity_classA_core_position_conservation.csv`
+- `diagnostic_cavity_conservation.pdf/png`
+- `cavity_conservation_summary.json`

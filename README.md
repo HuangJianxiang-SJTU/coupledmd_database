@@ -1,8 +1,8 @@
-# CoupledMD GPCR–G-protein Database — Paper 1 Figure Package
+# CoupledMD GPCR–G-protein Database — Figure Package
 
 This repository contains the figure-generation scripts and source data for the
 GPCR atlas manuscript (5 main-text figures, 4 supplementary figures) and the
-machine-readable supplementary data bundle (SI v12 numbering).
+machine-readable supplementary data bundle.
 
 ## Repository structure
 

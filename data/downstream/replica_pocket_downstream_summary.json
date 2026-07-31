@@ -55,32 +55,32 @@
   "input_files": [
     {
       "bytes": 388759,
-      "path": "paper1_figures_rigor_v2/pocket_replica_v2/analysis_final207/replica_reproducible_system_pockets_v2.json",
+      "path": "replica_reproducible_system_pockets.json",
       "sha256": "9ce9d5efde580485ee4dd74531c8e1725cea1f0a66eee2ac5375973c1dff98ec"
     },
     {
       "bytes": 75756,
-      "path": "paper1_figures_rigor_v2/pocket_replica_v2/analysis_final207/replica_reproducible_consensus_clusters_v2.json",
+      "path": "replica_reproducible_consensus_clusters.json",
       "sha256": "a569322ab18e029fe45d926ad508d521a07cb734ce55ad54cd1721c04694e575"
     },
     {
       "bytes": 9874,
-      "path": "paper1_figures_rigor_v2/pocket_replica_v2/analysis_final207/replica_reproducible_orthosteric_system_pockets_v2.json",
+      "path": "replica_reproducible_orthosteric_system_pockets.json",
       "sha256": "da31bfec282407246f92208faedf1d94ada6eb2114362f271e364ba824761ee4"
     },
     {
       "bytes": 3975,
-      "path": "paper1_figures_rigor_v2/pocket_replica_v2/analysis_final207/replica_reproducible_orthosteric_consensus_clusters_v2.json",
+      "path": "replica_reproducible_orthosteric_consensus_clusters.json",
       "sha256": "78de72ed1db605f59ca3fd3b072af7d1fc6c02ed088a9632b4e0a61efc2d6b02"
     },
     {
       "bytes": 1607,
-      "path": "paper1_figures_rigor_v2/pocket_replica_v2/analysis_final207/replica_pocket_reduction_summary_v2.json",
+      "path": "replica_pocket_reduction_summary.json",
       "sha256": "7e75fc21df68a6834843f069eee6e500f2fe590e80cd780ca0f20b51196281f4"
     },
     {
       "bytes": 240414,
-      "path": "paper1_figures_rigor_v2/pocket_replica_v2/analysis_final207/replica_pocket_fingerprints_long_v2.csv",
+      "path": "replica_pocket_fingerprints_long.csv",
       "sha256": "dc9644f8ca7eb1b5b47ad126527ba1592c86a36efd197d57262ec587e3268d3c"
     }
   ],
@@ -149,7 +149,7 @@
           "system_id": "Gi_6K42"
         }
       ],
-      "path": "paper1_metadata_corrections_v3.csv",
+      "path": "metadata_corrections.csv",
       "producer_call_jsons_modified": false,
       "sha256": "3c5c7f3d100fcf412787db14d675a8e20ed7ae81cb539d8e86ceba19b067c726"
     },
