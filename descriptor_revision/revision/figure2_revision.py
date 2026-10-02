@@ -21,7 +21,7 @@ import pandas as pd
 
 
 HERE = Path(__file__).resolve().parent
-PACKAGE_ROOT = HERE
+PACKAGE_ROOT = HERE.parent
 SOURCE = PACKAGE_ROOT / "supplementary_data"
 OUT = PACKAGE_ROOT / "figures"
 
@@ -269,8 +269,8 @@ def figure2() -> None:
         "protein\ncomplex",
         "ligand\ncontact",
         "lipid\ngateways",
-        "ion\ncoordinates",
-        "solvent\ncoordinates",
+        "ion\ncoords",
+        "solvent\ncoords",
     ]
     x_positions = [0.365, 0.4875, 0.61, 0.7325, 0.855]
     for x, label in zip(x_positions, columns):

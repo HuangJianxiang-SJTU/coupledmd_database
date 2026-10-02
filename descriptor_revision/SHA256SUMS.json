@@ -13,11 +13,11 @@
   },
   {
     "file": "figures/Figure_2.pdf",
-    "sha256": "1266affcde7fdc42d7b3563677cd239165a02b7682d69eed604f28fca41a263f"
+    "sha256": "5a2f8827aadc3364dc0115a57e7e2bc15283cf84bc7490a2722f2d94d4cc7b85"
   },
   {
     "file": "figures/Figure_2.png",
-    "sha256": "e8bea98701de890b2f93fa089f52fabcbcea3dbe5bf997e3e7f35f7131ab33d2"
+    "sha256": "1fee155efffb73921824d51b3d7382407f716652229acc6f40aa3dfe6b24cd96"
   },
   {
     "file": "figures/Figure_6.pdf",
@@ -57,7 +57,7 @@
   },
   {
     "file": "revision/figure2_revision.py",
-    "sha256": "7bc542fc9304c830a07ff0b021451d30d32fc6a86c35139fd991fbde79d26640"
+    "sha256": "691348f47011c077a596751d1025e3f8bf7c2c9e35dde7e7c59c96ed984ff04d"
   },
   {
     "file": "revision/grafted_revision.py",
@@ -425,7 +425,7 @@
   },
   {
     "file": "supplementary_data/Supplementary_Data_S7_equilibration.xlsx",
-    "sha256": "e87e538f10ce421cf7bac3293c837eb28d9011a1e13f0e8a8cde06b497f07051"
+    "sha256": "2b8d181fa97faf8293ad38f7282cf76634b89c04e2d95987861558ba1642d07c"
   },
   {
     "file": "supplementary_data/Supplementary_Data_S8_README.md",
@@ -437,7 +437,7 @@
   },
   {
     "file": "supplementary_data/Supplementary_Data_S8_grafted_segments.xlsx",
-    "sha256": "57f941992b8dca46da56449afadd64769e95eca76e00698b11fa699580c49f77"
+    "sha256": "daa72b4e0e9d341fc80744b5be14e04d672f289f103cd040f5eef8526b1a05c4"
   },
   {
     "file": "supplementary_data/Supplementary_Data_S8_recovered_segments.json",
