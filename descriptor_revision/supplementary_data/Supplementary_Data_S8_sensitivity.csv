@@ -1,0 +1,4 @@
+selection,n_segments,n_systems,n_short_loops,short_loop_scaffold_median_A,short_loop_n_le_3A,short_loop_fraction_le_3A,short_loop_self_fit_median_A,short_loop_self_fit_median_ge_3res_A
+all_inferred_segments,938,205,437,4.176,125,0.28604118993135014,1.105,1.25
+match_ratio_ge_0p9,296,140,143,5.066,22,0.15384615384615385,1.486,1.594
+exclude_Gq_8F7X_chain_0,936,204,436,4.17,125,0.286697247706422,1.1059999999999999,1.253

@@ -1,0 +1,622 @@
+system_id,replica,g_protein_family,source_format,duration_ns,measured_span_ps,audit_route,audit_source,n_nonfinite_times,n_nonfinite_sampled_frames,n_chain_break_role_frames,duration_500ns_ok,finite_time_axis_ok,finite_coordinates_ok,chain_continuity_ok,selected_validated_ok
+G12_7SF7,1,G12-13,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+G12_7SF7,2,G12-13,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+G12_7SF7,3,G12-13,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+G12_7SF8,1,G12-13,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+G12_7SF8,2,G12-13,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+G12_7SF8,3,G12-13,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+G12_7T6B,1,G12-13,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+G12_7T6B,2,G12-13,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+G12_7T6B,3,G12-13,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+G12_8IKL,1,G12-13,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+G12_8IKL,2,G12-13,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+G12_8IKL,3,G12-13,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+G12_8KGG,1,G12-13,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+G12_8KGG,2,G12-13,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+G12_8KGG,3,G12-13,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+G12_9IY8,1,G12-13,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+G12_9IY8,2,G12-13,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+G12_9IY8,3,G12-13,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_6CMO,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_6CMO,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_6CMO,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_6D9H,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_6D9H,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_6D9H,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_6G79,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_6G79,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_6G79,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_6K42,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_6K42,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_6K42,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_6LFO,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_6LFO,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_6LFO,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_6LML,1,Gi,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/corrected_role_audit/corrected_role_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gi_6LML,2,Gi,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/corrected_role_audit/corrected_role_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gi_6LML,3,Gi,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/corrected_role_audit/corrected_role_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gi_6OSA,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_6OSA,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_6OSA,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_6PT0,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_6PT0,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_6PT0,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_6WWZ,1,Gi,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/interface_centered_pilot_20260713/Gi_6WWZ/three_replica_audit_corrected/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gi_6WWZ,2,Gi,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/interface_centered_pilot_20260713/Gi_6WWZ/three_replica_audit_corrected/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gi_6WWZ,3,Gi,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/interface_centered_pilot_20260713/Gi_6WWZ/three_replica_audit_corrected/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gi_7CMV,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7CMV,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7CMV,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7D77,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7D77,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7D77,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7E2X,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7E2X,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7E2X,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7E32,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7E32,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7E32,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7E33,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7E33,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7E33,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7EJX,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7EJX,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7EJX,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7EW1,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7EW1,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7EW1,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7EW4,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7EW4,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7EW4,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7EXD,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7EXD,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7EXD,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7EZH,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7EZH,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7EZH,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7F1Q,1,Gi,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/amber_three_replica_repair_20260713/exhaustive_audit_corrected_receptor_fragments/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gi_7F1Q,2,Gi,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/amber_three_replica_repair_20260713/exhaustive_audit_corrected_receptor_fragments/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gi_7F1Q,3,Gi,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/amber_three_replica_repair_20260713/exhaustive_audit_corrected_receptor_fragments/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gi_7F8V,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7F8V,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7F8V,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7NA7,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7NA7,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7NA7,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7QVM,1,Gi,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/amber_three_replica_repair_20260713/exhaustive_audit_corrected_receptor_fragments/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gi_7QVM,2,Gi,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/amber_three_replica_repair_20260713/exhaustive_audit_corrected_receptor_fragments/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gi_7QVM,3,Gi,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/amber_three_replica_repair_20260713/exhaustive_audit_corrected_receptor_fragments/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gi_7SQO,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7SQO,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7SQO,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7T10,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7T10,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7T10,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7T96,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7T96,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7T96,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7TS0,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7TS0,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7TS0,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7TUZ,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7TUZ,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7TUZ,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7VDL,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7VDL,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7VDL,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7VGZ,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7VGZ,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7VGZ,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7VH0,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7VH0,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7VH0,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7VIF,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7VIF,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7VIF,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7VKT,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7VKT,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7VKT,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7VL9,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7VL9,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7VL9,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7W0N,1,Gi,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/amber_three_replica_repair_20260713/exhaustive_audit_corrected_receptor_fragments/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gi_7W0N,2,Gi,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/amber_three_replica_repair_20260713/exhaustive_audit_corrected_receptor_fragments/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gi_7W0N,3,Gi,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/amber_three_replica_repair_20260713/exhaustive_audit_corrected_receptor_fragments/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gi_7W6P,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7W6P,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7W6P,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7WQ3,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7WQ3,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7WQ3,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7WU9,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7WU9,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7WU9,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7WV9,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7WV9,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7WV9,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7WVU,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7WVU,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7WVU,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7WVX,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7WVX,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7WVX,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7X5H,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7X5H,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7X5H,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7X9A,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7X9A,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7X9A,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7X9C,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7X9C,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7X9C,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7X9Y,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7X9Y,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7X9Y,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7XA3,1,Gi,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/interface_centered_rescue_20260713/Gi_7XA3/audit/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gi_7XA3,2,Gi,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/interface_centered_rescue_20260713/Gi_7XA3/audit/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gi_7XA3,3,Gi,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/amber_three_replica_repair_20260713/exhaustive_audit_corrected_receptor_fragments/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gi_7XBX,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7XBX,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7XBX,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7XK2,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7XK2,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7XK2,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7XK8,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7XK8,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7XK8,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7XMS,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7XMS,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7XMS,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7XTA,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7XTA,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7XTA,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7XXI,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7XXI,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7XXI,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7Y12,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7Y12,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7Y12,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7Y89,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7Y89,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7Y89,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7YK6,1,Gi,trr,500,500000.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits + trajectory_readiness/component_timeseries/Gi_7YK6_rep1_components.csv.gz,0.0,0.0,0.0,True,True,True,True,True
+Gi_7YK6,2,Gi,trr,500,500000.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits + trajectory_readiness/component_timeseries/Gi_7YK6_rep2_components.csv.gz,0.0,0.0,0.0,True,True,True,True,True
+Gi_7YK6,3,Gi,trr,500,500000.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits + trajectory_readiness/component_timeseries/Gi_7YK6_rep3_components.csv.gz,0.0,0.0,0.0,True,True,True,True,True
+Gi_7YK7,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7YK7,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7YK7,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7YKD,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7YKD,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7YKD,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7YON,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7YON,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7YON,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7YU8,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7YU8,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_7YU8,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8DZQ,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8DZQ,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8DZQ,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8EFO,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8EFO,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8EFO,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8F7S,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8F7S,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8F7S,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8HK2,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8HK2,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8HK2,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8HK5,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8HK5,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8HK5,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8HQM,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8HQM,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8HQM,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8HS3,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8HS3,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8HS3,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8IC0,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8IC0,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8IC0,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8ID9,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8ID9,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8ID9,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8IHJ,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8IHJ,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8IHJ,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8IRU,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8IRU,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8IRU,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8IU2,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8IU2,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8IU2,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8IY5,1,Gi,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/amber_three_replica_repair_20260713/exhaustive_audit_corrected_receptor_fragments/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gi_8IY5,2,Gi,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/amber_three_replica_repair_20260713/exhaustive_audit_corrected_receptor_fragments/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gi_8IY5,3,Gi,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/amber_three_replica_repair_20260713/exhaustive_audit_corrected_receptor_fragments/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gi_8J18,1,Gi,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/continuations/Gi_8J18/interface_recovery/exhaustive_audit_corrected/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gi_8J18,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8J18,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8J21,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8J21,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8J21,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8J6D,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8J6D,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8J6D,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8JZZ,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8JZZ,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8JZZ,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8K3Z,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8K3Z,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8K3Z,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8K6O,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8K6O,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8K6O,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8KFX,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8KFX,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8KFX,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8PJK,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8PJK,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8PJK,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8UGY,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8UGY,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8UGY,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8WWH,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8WWH,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8WWH,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8X8L,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8X8L,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8X8L,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8XGM,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8XGM,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8XGM,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8XIP,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8XIP,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8XIP,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8XIQ,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8XIQ,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8XIQ,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8XXU,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8XXU,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8XXU,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8XYD,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8XYD,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8XYD,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8XZI,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8XZI,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8XZI,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8YIC,1,Gi,trr,500,500000.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits + trajectory_readiness/component_timeseries/Gi_8YIC_rep1_components.csv.gz,0.0,0.0,0.0,True,True,True,True,True
+Gi_8YIC,2,Gi,trr,500,500000.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits + trajectory_readiness/component_timeseries/Gi_8YIC_rep2_components.csv.gz,0.0,0.0,0.0,True,True,True,True,True
+Gi_8YIC,3,Gi,trr,500,500000.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits + trajectory_readiness/component_timeseries/Gi_8YIC_rep3_components.csv.gz,0.0,0.0,0.0,True,True,True,True,True
+Gi_8YNA,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8YNA,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8YNA,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8ZQE,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8ZQE,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_8ZQE,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_9AST,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_9AST,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_9AST,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_9IIX,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_9IIX,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_9IIX,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_9J5V,1,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_9J5V,2,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gi_9J5V,3,Gi,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_6OIJ,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_6OIJ,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_6OIJ,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7DFL,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7DFL,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7DFL,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7EIB,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7EIB,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7EIB,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7EZM,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7EZM,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7EZM,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7F2O,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7F2O,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7F2O,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7F6G,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7F6G,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7F6G,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7F8W,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7F8W,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7F8W,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7P00,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7P00,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7P00,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7RAN,1,Gq,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/Gq_7RAN_direct_final_audit/corrected_role_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gq_7RAN,2,Gq,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/Gq_7RAN_direct_final_audit/corrected_role_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gq_7RAN,3,Gq,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/Gq_7RAN_direct_final_audit/corrected_role_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gq_7S8L,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7S8L,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7S8L,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7S8P,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7S8P,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7S8P,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7SR8,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7SR8,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7SR8,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7SRR,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7SRR,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7SRR,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7TRY,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7TRY,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7TRY,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7W3Z,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7W3Z,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7W3Z,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7W53,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7W53,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7W53,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7W55,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7W55,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7W55,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7XW9,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7XW9,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7XW9,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7XWO,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7XWO,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7XWO,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7XXH,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7XXH,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7XXH,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7Y26,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7Y26,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7Y26,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7YDM,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7YDM,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_7YDM,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8DWC,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8DWC,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8DWC,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8E9W,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8E9W,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8E9W,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8EJC,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8EJC,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8EJC,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8F7X,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8F7X,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8F7X,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8H0P,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8H0P,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8H0P,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8HCQ,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8HCQ,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8HCQ,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8HCX,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8HCX,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8HCX,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8IBV,1,Gq,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/amber_three_replica_repair_20260713/exhaustive_audit_corrected_receptor_fragments/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gq_8IBV,2,Gq,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/amber_three_replica_repair_20260713/exhaustive_audit_corrected_receptor_fragments/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gq_8IBV,3,Gq,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/interface_centered_rescue_20260713/Gq_8IBV/audit/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gq_8IUK,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8IUK,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8IUK,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8IYS,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8IYS,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8IYS,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8J9N,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8J9N,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8J9N,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8JBG,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8JBG,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8JBG,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8WST,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8WST,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8WST,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8WZ2,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8WZ2,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8WZ2,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8XGS,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8XGS,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8XGS,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8XOJ,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8XOJ,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8XOJ,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8XOR,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8XOR,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8XOR,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8Y53,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8Y53,2,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8Y53,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8ZPT,1,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gq_8ZPT,2,Gq,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/continuations/Gq_8ZPT/interface_recovery/exhaustive_audit_corrected/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gq_8ZPT,3,Gq,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_3SN6,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_3SN6,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_3SN6,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_6GDG,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_6GDG,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_6GDG,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_6LI3,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_6LI3,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_6LI3,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_6NBI,1,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/amber_three_replica_repair_20260713/exhaustive_audit_corrected_receptor_fragments/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_6NBI,2,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/amber_three_replica_repair_20260713/exhaustive_audit_corrected_receptor_fragments/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_6NBI,3,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/amber_three_replica_repair_20260713/exhaustive_audit_corrected_receptor_fragments/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_6PB0,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_6PB0,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_6PB0,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_6PB1,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_6PB1,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_6PB1,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_6UVA,1,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/corrected_role_audit/corrected_role_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_6UVA,2,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/corrected_role_audit/corrected_role_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_6UVA,3,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/corrected_role_audit/corrected_role_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_6WZG,1,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/amber_three_replica_repair_20260713/exhaustive_audit_corrected_receptor_fragments/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_6WZG,2,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/amber_three_replica_repair_20260713/exhaustive_audit_corrected_receptor_fragments/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_6WZG,3,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/amber_three_replica_repair_20260713/exhaustive_audit_corrected_receptor_fragments/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_7CFN,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7CFN,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7CFN,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7CX2,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7CX2,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7CX2,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7D68,1,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/amber_three_replica_repair_20260713/exhaustive_audit_corrected_receptor_fragments/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_7D68,2,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/amber_three_replica_repair_20260713/exhaustive_audit_corrected_receptor_fragments/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_7D68,3,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/amber_three_replica_repair_20260713/exhaustive_audit_corrected_receptor_fragments/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_7D7M,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7D7M,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7D7M,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7DUQ,1,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/corrected_role_audit/corrected_role_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_7DUQ,2,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/corrected_role_audit/corrected_role_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_7DUQ,3,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/corrected_role_audit/corrected_role_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_7EQ1,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7EQ1,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7EQ1,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7F16,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7F16,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7F16,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7F4H,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7F4H,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7F4H,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7F54,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7F54,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7F54,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7FIG,1,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/continuous_review_audit/continuous_review_replica_audit_with_rmsd.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_7FIG,2,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/continuous_review_audit/continuous_review_replica_audit_with_rmsd.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_7FIG,3,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/continuous_review_audit/continuous_review_replica_audit_with_rmsd.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_7FIN,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7FIN,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7FIN,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7JVQ,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7JVQ,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7JVQ,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7KH0,1,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/amber_three_replica_repair_20260713/exhaustive_audit_corrected_receptor_fragments/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_7KH0,2,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/amber_three_replica_repair_20260713/exhaustive_audit_corrected_receptor_fragments/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_7KH0,3,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/amber_three_replica_repair_20260713/exhaustive_audit_corrected_receptor_fragments/candidate_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_7L1V,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7L1V,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7L1V,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7MBX,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7MBX,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7MBX,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7RMH,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7RMH,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7RMH,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7T9N,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7T9N,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7T9N,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7TMW,1,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/continuous_review_audit/continuous_review_replica_audit_with_rmsd.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_7TMW,2,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/continuous_review_audit/continuous_review_replica_audit_with_rmsd.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_7TMW,3,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/continuous_review_audit/continuous_review_replica_audit_with_rmsd.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_7V9M,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7V9M,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7V9M,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7WBJ,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7WBJ,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7WBJ,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7WU2,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7WU2,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7WU2,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7WU3,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7WU3,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7WU3,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7WUJ,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7WUJ,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7WUJ,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7XT8,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7XT8,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7XT8,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7XTB,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7XTB,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7XTB,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7XTC,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7XTC,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7XTC,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7XV3,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7XV3,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7XV3,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7XZ5,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7XZ5,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7XZ5,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7Y3G,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7Y3G,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_7Y3G,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8E3X,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8E3X,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8E3X,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8E3Y,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8E3Y,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8E3Y,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8F0J,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8F0J,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8F0J,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8F76,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8F76,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8F76,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8FU6,1,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/corrected_role_audit/corrected_role_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_8FU6,2,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/corrected_role_audit/corrected_role_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_8FU6,3,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/corrected_role_audit/corrected_role_replica_audit.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_8H4I,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8H4I,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8H4I,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8HDP,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8HDP,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8HDP,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8HJ1,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8HJ1,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8HJ1,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8HJ2,1,Gs,nc,500,499949.98828125,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8HJ2,2,Gs,nc,500,499949.98828125,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8HJ2,3,Gs,nc,500,499949.98828125,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8HTI,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8HTI,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8HTI,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8I2G,1,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/continuous_review_audit/continuous_review_replica_audit_with_rmsd.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_8I2G,2,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/continuous_review_audit/continuous_review_replica_audit_with_rmsd.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_8I2G,3,Gs,nc,500,499950.0,corrected / reviewed evidence,trajectory_readiness/continuous_review_audit/continuous_review_replica_audit_with_rmsd.csv,0.0,0.0,0.0,True,True,True,True,True
+Gs_8INR,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8INR,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8INR,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8IOC,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8IOC,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8IOC,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8IRV,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8IRV,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8IRV,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8JPP,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8JPP,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8JPP,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8KGK,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8KGK,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8KGK,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8KH5,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8KH5,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8KH5,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8SMV,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8SMV,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8SMV,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8U8F,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8U8F,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8U8F,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8W87,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8W87,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8W87,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8W8Q,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8W8Q,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8W8Q,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8WJX,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8WJX,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8WJX,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8X79,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8X79,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8X79,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8XVI,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8XVI,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8XVI,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8YN2,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8YN2,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8YN2,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8YUT,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8YUT,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8YUT,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8YUV,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8YUV,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_8YUV,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_9BLC,1,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_9BLC,2,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True
+Gs_9BLC,3,Gs,nc,500,499950.0,baseline evidence,trajectory_readiness/strict_full_length_replica_audit.csv + component/time-axis audits,0.0,0.0,0.0,True,True,True,True,True

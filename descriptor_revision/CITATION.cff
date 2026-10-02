@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the CoupledMD dataset and this software revision."
+type: software
+title: "CoupledMD Scientific Data descriptor workflows"
+authors:
+  - family-names: Huang
+    given-names: Jianxiang
+license: MIT
+repository-code: https://github.com/HuangJianxiang-SJTU/coupledmd_database

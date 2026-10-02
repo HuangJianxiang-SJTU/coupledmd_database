@@ -1,0 +1,8 @@
+record,format,scope,distributed,supports,does_not_support
+system metadata,CSV/JSON,207 systems,"supplementary data, API and paper repository","discovery, identifiers and cohort joins",coordinate analysis
+reduced structure,PDB,one matched structure per system and release replica,Zenodo private drafts pending publication,atom order and reduced-topology interpretation,"membrane, solvent or ion analyses"
+reduced trajectory,XTC,"2,500 protein-complex frames per system and replica",Zenodo private drafts pending publication,protein-complex structural analyses at 200-ps spacing,"lipid gateways, solvent, ions or fast kinetics"
+full-system source simulation,NetCDF/TRR plus engine topology,three production replicas per system,not deposited in the present release,source provenance and locally executed analyses,independent reuse without a stable access route
+pocket annotations,CSV/JSON/NPZ,207 system records,"supplementary data, API and code repository",technical annotation reuse,experimental druggability or mechanism
+gateway summaries,CSV/JSON,207 systems × 7 interfaces × 4 metrics,supplementary data and API,reproduction of reported summary tables,recalculation from reduced trajectories
+release QC and checksums,CSV/JSON,file and system level,with each reduced release record,integrity verification,validation of unavailable full-system files

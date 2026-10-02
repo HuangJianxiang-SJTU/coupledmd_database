@@ -1,0 +1,13 @@
+name: coupledmd-reproducibility
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12.3
+  - numpy=1.26.4
+  - pandas=2.2.3
+  - matplotlib=3.10.1
+  - scipy=1.15.3
+  - mdanalysis=2.10.0
+  - scikit-learn=1.7.2
+  - requests=2.32.5
+  - fpocket=4.2.3

@@ -1,0 +1,17 @@
+{
+  "n_replica_tasks": 621,
+  "n_evaluated": 618,
+  "n_no_selection": 3,
+  "n_errors": 0,
+  "n_nonstationary": 29,
+  "n_iface_nonstationary": 289,
+  "t_eq_median_ns": 50.0,
+  "t_eq_mean_ns": 127.89473684210526,
+  "t_eq_p75_ns": 230.0,
+  "t_eq_p90_ns": 380.0,
+  "t_eq_max_ns": 480.0,
+  "frac_t_eq_le_50ns": 0.5042444821731749,
+  "frac_t_eq_le_100ns": 0.601018675721562,
+  "frac_t_eq_le_250ns": 0.769100169779287,
+  "plateau_rmsd_median_A": 1.9855703042734065
+}

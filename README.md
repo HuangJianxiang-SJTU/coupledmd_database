@@ -82,3 +82,8 @@ available at the companion Zenodo record (reserved DOI).
 Please use the version-specific CITATION.cff in the manuscript package (see
 Zenodo record, reserved DOI) when citing CoupledMD. Data are licensed under
 CC BY 4.0, and code is licensed under the MIT License.
+
+
+## Scientific Data descriptor revision
+
+The 207-system, 621-replica descriptor workflows and S1–S8 tables are in [descriptor_revision](descriptor_revision/README.md). This is distinct from the atlas figure package above.

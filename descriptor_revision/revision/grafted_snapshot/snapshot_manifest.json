@@ -1,0 +1,50 @@
+[
+  {
+    "source": "grafted_segment_rmsd_summary_v2.csv",
+    "snapshot": "grafted_segment_rmsd_summary_v2.csv",
+    "sha256": "43810b90b059835d6467d8426064fa1b1dd52461985b72d4c5bf772a81c18003",
+    "bytes": 78711
+  },
+  {
+    "source": "grafted_segment_run_log_v2.csv",
+    "snapshot": "grafted_segment_run_log_v2.csv",
+    "sha256": "9216d7891d6b3132a0400d69e17476877a8424e1a7a463037beb45d8435d8d48",
+    "bytes": 4786
+  },
+  {
+    "source": "grafted_segments_recovered_v2.json",
+    "snapshot": "grafted_segments_recovered_v2.json",
+    "sha256": "d1d493cff879fe00beebe72d9b09078f4864d17f5020c4f74ced6866090d50ff",
+    "bytes": 503999
+  },
+  {
+    "source": "grafted_segment_validation_v2.md",
+    "snapshot": "grafted_segment_validation_v2.md",
+    "sha256": "ccfbd4e0887b13ec4de0d7acd7caf826c6827605e84110d0bb05a56fa93fadc8",
+    "bytes": 7165
+  },
+  {
+    "source": "resolved_loop_control_rmsd.csv",
+    "snapshot": "resolved_loop_control_rmsd.csv",
+    "sha256": "8a5726adff95871c2e4f6c420134d8377612604d0ed67cad8dd299e6ddd9f593",
+    "bytes": 23312
+  },
+  {
+    "source": "grafted_segment_analysis.py",
+    "snapshot": "grafted_segment_analysis.py",
+    "sha256": "74e628492bcb49694af8ce6ded85706dde42b847b53441305f3d8bd390b4402a",
+    "bytes": 14388
+  },
+  {
+    "source": "resolved_loop_control.py",
+    "snapshot": "resolved_loop_control.py",
+    "sha256": "38f834f772d2d439b64c34ed6ac5265472ab59b6284cb3861284bca61d5e988d",
+    "bytes": 4801
+  },
+  {
+    "source": "summarize_grafted_segments.py",
+    "snapshot": "summarize_grafted_segments.py",
+    "sha256": "bcf7fc2b04c06863f560373e6a0005c4aeaa5dcd8daf8265d0730537ec3697a5",
+    "bytes": 9827
+  }
+]

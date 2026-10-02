@@ -1,0 +1,16 @@
+{
+  "n_replicas": 618,
+  "n_evaluated": 618,
+  "t_eq_median_ns": 50.0,
+  "t_eq_p90_ns": 380.0,
+  "t_eq_min_ns": 0.0,
+  "t_eq_max_ns": 480.0,
+  "frac_t_eq_le_50ns": 0.5042444821731749,
+  "frac_t_eq_le_100ns": 0.601018675721562,
+  "n_nonstationary": 29,
+  "pct_nonstationary": 4.692556634304207,
+  "discard_median_ns": 250.0,
+  "discard_p90_ns": 430.0,
+  "n_stationary": 589,
+  "fraction_denominator": "589 stationary replicas"
+}

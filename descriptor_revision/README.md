@@ -1,0 +1,11 @@
+# CoupledMD Scientific Data descriptor workflows
+
+This directory is the code package for “CoupledMD: molecular dynamics trajectories of active GPCR–G-protein complexes”, distinct from the GPCR-atlas analyses elsewhere in the repository. The dataset has 207 systems, 621 repeats and Supplementary Data S1–S8. Dataset DOI: https://doi.org/10.5281/zenodo.21395291; version used: https://doi.org/10.5281/zenodo.23105632.
+
+`python verify_tables.py` checks the deposited-table boundary without opening trajectories. The original analysis code is in `scripts/workflows/`: reduction_qc, structural_validation, persistent_pockets, example_analyses, stationarity and grafted_segments. Environment files and the claim-to-implementation map are in that directory. `source_data/` contains figure inputs; `revision/` contains the S7/S8 methods and frozen outputs; `figures/` contains the current revised figures.
+
+These are the authored scientific workflows, not a zero-configuration reanalysis service. Some preserve institutional absolute paths and repaired-trajectory routing; configure paths before running them. Structural selection/routing CSVs and their correction-audit dependencies are packaged with structural_validation. Its ordinal selections refer to the original source topologies: do not substitute a reduced topology without remapping selections. The historical “624/208” filenames predate the frozen 207-system release and are provenance names, not current cohort counts. Use supplementary_data/Supplementary_Data_S1_system_inventory.csv as the release allow-list.
+
+Persistent-pocket and lipid-gateway recalculation require source trajectories requested through the portal. The released reduced records alone do not reproduce the original annotation frame grid. Grafted-region code is preserved from the frozen validated v2 lineage; comments in its historical header overstate removal of interdomain motion. The authoritative limitations are in supplementary_data/Supplementary_Data_S8_README.md. Its sequence comparison infers candidate segments and does not prove template provenance, experimental accuracy or absence of drift. The disabled alternative graft script is excluded.
+
+No trajectories were recomputed while assembling this package. Code is MIT licensed; data tables use CC BY 4.0. See LICENSE-CODE and the dataset license.
