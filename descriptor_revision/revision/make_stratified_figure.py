@@ -6,8 +6,12 @@ import pandas as pd, numpy as np, matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
-BASE = "/MDdata/data02/jxhuang/gpcr_g/coupledmd_database/manuscript_figure_package_v14/supplementary_files/"
-OUT = "Figure_stratified_metrics"
+from pathlib import Path
+PACKAGE_ROOT = Path(__file__).resolve().parents[1]
+BASE = str(PACKAGE_ROOT / "supplementary_data") + "/"
+FIG_OUT = PACKAGE_ROOT / "figures" / "regenerated"
+FIG_OUT.mkdir(parents=True, exist_ok=True)
+OUT = str(FIG_OUT / "Figure_6")
 
 s1 = pd.read_csv(BASE + "Supplementary_Data_S1_system_inventory.csv")
 s5 = pd.read_csv(BASE + "Supplementary_Data_S5_structural_validation.csv")
@@ -17,8 +21,8 @@ df = df.dropna(subset=["tm_core_rmsd_A_p95"])  # drops 3 null-metric Gs_8HTI rep
 fam_map = {"Gi": "Gi/o", "Gq": "Gq/11", "Gs": "Gs", "G12-13": "G12/13"}
 df["family"] = df.g_protein_family.map(fam_map)
 fam_order = ["Gs", "Gi/o", "Gq/11", "G12/13"]
-metrics = [("tm_core_rmsd_A_p95", "TM-core Ca RMSD P95 (A)"),
-           ("galpha_interface_rmsd_A_p95", "Ga-interface Ca RMSD P95 (A)"),
+metrics = [("tm_core_rmsd_A_p95", "TM-core Cα RMSD P95 (Å)"),
+           ("galpha_interface_rmsd_A_p95", "Gα-interface Cα RMSD P95 (Å)"),
            ("contact_retention_p05", "Interface contact retention P05")]
 colors = {"Gs": "#4C9BD6", "Gi/o": "#E07B39", "Gq/11": "#54A24B", "G12/13": "#B279A2"}
 

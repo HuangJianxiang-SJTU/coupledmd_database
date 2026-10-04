@@ -1,4 +1,26 @@
-# CoupledMD GPCR–G-protein Database — Figure Package
+# CoupledMD
+
+## Scientific Data descriptor
+
+**CoupledMD: molecular dynamics trajectories of active GPCR–G-protein complexes**
+
+The descriptor release contains 207 systems and 621 computational repeats (three 500-ns runs per system).
+
+- [Descriptor code, methods and reuse guidance](descriptor_revision/README.md)
+- [Final main Figures 1–6 and Supplementary Figures S1–S4](descriptor_revision/figures/README.md)
+- [Supplementary Data S1–S8](descriptor_revision/supplementary_data/)
+- [Stationarity results, including the interface assessment](descriptor_revision/revision/equilibration_out/)
+- [Verify the packaged data and checksums](descriptor_revision/verify_tables.py)
+- Dataset: [all versions](https://doi.org/10.5281/zenodo.21395291), [version used for this revision](https://doi.org/10.5281/zenodo.23106855)
+
+The repository-root URL is the entry point for the manuscript's code citation:
+https://github.com/HuangJianxiang-SJTU/coupledmd_database/
+
+## Separate GPCR-atlas package
+
+The legacy atlas scripts and S01–S11 bundle below concern a separate analysis. They are not the descriptor's Figures 1–6 or Supplementary Data S1–S8.
+
+### Atlas figure package
 
 This repository contains the figure-generation scripts and source data for the
 GPCR atlas manuscript (5 main-text figures, 4 supplementary figures) and the
@@ -82,8 +104,3 @@ available at the companion Zenodo record (reserved DOI).
 Please use the version-specific CITATION.cff in the manuscript package (see
 Zenodo record, reserved DOI) when citing CoupledMD. Data are licensed under
 CC BY 4.0, and code is licensed under the MIT License.
-
-
-## Scientific Data descriptor revision
-
-The 207-system, 621-replica descriptor workflows and S1–S8 tables are in [descriptor_revision](descriptor_revision/README.md). This is distinct from the atlas figure package above.

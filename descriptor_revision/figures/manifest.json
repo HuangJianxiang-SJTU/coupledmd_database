@@ -1,0 +1,102 @@
+[
+  {
+    "figure": "1",
+    "png": "Figure_1.png",
+    "png_sha256": "a3b7936079c1c9519a5d9de9fea996e893f9a13b3833781accd117d9eba1bfa0",
+    "pdf": "Figure_1.pdf",
+    "pdf_sha256": "b89cdd1a37a97440575bd2228900c4e84f71766f716604d56ee82d743c850f21",
+    "pdf_kind": "PDF containing exact final raster image",
+    "source_document": "CoupledMD_manuscript.R1.v5.docx",
+    "source_media": "word/media/image1.png"
+  },
+  {
+    "figure": "2",
+    "png": "Figure_2.png",
+    "png_sha256": "1fee155efffb73921824d51b3d7382407f716652229acc6f40aa3dfe6b24cd96",
+    "pdf": "Figure_2.pdf",
+    "pdf_sha256": "28dea35bce1ad9b9d5d939c72d27f9d5771a70b9f0848f9396168f9146efade2",
+    "pdf_kind": "Original plot PDF paired with final PNG",
+    "source_document": "CoupledMD_manuscript.R1.v5.docx",
+    "source_media": "word/media/image2.png"
+  },
+  {
+    "figure": "3",
+    "png": "Figure_3.png",
+    "png_sha256": "1781a9fbc1f64b68e0ac5da7aa4d536505c9fc2428d38396e29f0e54b1f5c032",
+    "pdf": "Figure_3.pdf",
+    "pdf_sha256": "e93a643b0787646994b4b6dbb8813e0b18a93b5bce0d10dcaee6afa497badafc",
+    "pdf_kind": "PDF containing exact final raster image",
+    "source_document": "CoupledMD_manuscript.R1.v5.docx",
+    "source_media": "word/media/image3.png"
+  },
+  {
+    "figure": "4",
+    "png": "Figure_4.png",
+    "png_sha256": "684ba738acf3436d93e062d1ff72ffda9645c80e7bb7a4bbf857406ee10403ae",
+    "pdf": "Figure_4.pdf",
+    "pdf_sha256": "15912915bd312285586b6d2cdae5561a2e12d2f4146446c6e7038d85e9b04bca",
+    "pdf_kind": "PDF containing exact final raster image",
+    "source_document": "CoupledMD_manuscript.R1.v5.docx",
+    "source_media": "word/media/image4.png"
+  },
+  {
+    "figure": "5",
+    "png": "Figure_5.png",
+    "png_sha256": "543e2d4a159d2d5f96c1e186eb996e640aff1670fcbbb7b86d4045cf22478944",
+    "pdf": "Figure_5.pdf",
+    "pdf_sha256": "b8b778df808c42ea30f9b4d446fc6a0cae7f97e9c681bec45ce3fb7e9bd797e2",
+    "pdf_kind": "PDF containing exact final raster image",
+    "source_document": "CoupledMD_manuscript.R1.v5.docx",
+    "source_media": "word/media/image5.png"
+  },
+  {
+    "figure": "6",
+    "png": "Figure_6.png",
+    "png_sha256": "4c2178a14a9f6d83d20052776dba2fb1a1682d138e9cd8d56662994f49ec60f1",
+    "pdf": "Figure_6.pdf",
+    "pdf_sha256": "7c619c36160a01971e7c953b5d9c5054ed4d08a41b6423bd3337113f65bd3b68",
+    "pdf_kind": "PDF containing exact final raster image",
+    "source_document": "CoupledMD_manuscript.R1.v5.docx",
+    "source_media": "word/media/image6.png"
+  },
+  {
+    "figure": "S1",
+    "png": "Figure_S1.png",
+    "png_sha256": "fb15fe8407b43c5de9998f15aeac627464a348fa228aae8892aea3a5fee051f9",
+    "pdf": "Figure_S1.pdf",
+    "pdf_sha256": "fce30ce09e84dc9e602197241b4fda8a167babc502b54708a5c3c538dc543988",
+    "pdf_kind": "PDF containing exact final raster image",
+    "source_document": "CoupledMD_SI.R1.v5.docx",
+    "source_media": "word/media/image1.png"
+  },
+  {
+    "figure": "S2",
+    "png": "Figure_S2.png",
+    "png_sha256": "033570910c48474010e19ea9472bd8d7d91e611cd91e2a1bc5fcbb0124fe3d51",
+    "pdf": "Figure_S2.pdf",
+    "pdf_sha256": "ce0d8069683a74b172d11cc7d45be456eb542f7b35cf573f8f9106e115dfe73d",
+    "pdf_kind": "PDF containing exact final raster image",
+    "source_document": "CoupledMD_SI.R1.v5.docx",
+    "source_media": "word/media/image2.png"
+  },
+  {
+    "figure": "S3",
+    "png": "Figure_S3.png",
+    "png_sha256": "451efbff6c4a36704b6da947bc2f6d8400576355e72285b1454d6b6e278f901b",
+    "pdf": "Figure_S3.pdf",
+    "pdf_sha256": "fc13eeb89eb2711b0289a380cd62874f588599f27f417425ad0fe36a80600c3d",
+    "pdf_kind": "PDF containing exact final raster image",
+    "source_document": "CoupledMD_SI.R1.v5.docx",
+    "source_media": "word/media/image3.png"
+  },
+  {
+    "figure": "S4",
+    "png": "Figure_S4.png",
+    "png_sha256": "c0f5ee70c1da98132ccb4dca9c9d01613b5bc70659ce93bcacc7c3469bf6d998",
+    "pdf": "Figure_S4.pdf",
+    "pdf_sha256": "3eb49af940deade28527f60db16d4527b9152ff07639bd1d5442059a92da222d",
+    "pdf_kind": "Original plot PDF paired with final PNG",
+    "source_document": "CoupledMD_SI.R1.v5.docx",
+    "source_media": "word/media/image4.png"
+  }
+]

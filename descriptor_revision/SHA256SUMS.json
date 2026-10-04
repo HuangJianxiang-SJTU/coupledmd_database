@@ -9,23 +9,79 @@
   },
   {
     "file": "README.md",
-    "sha256": "dec8e7c87196369e3a0af6aedad115065d692ba082c92f62faad957735820766"
+    "sha256": "2a731bf8ba1d33dcc8db1f3368e92ed4253ab09aefaf20a130056b2096484531"
+  },
+  {
+    "file": "figures/Figure_1.pdf",
+    "sha256": "b89cdd1a37a97440575bd2228900c4e84f71766f716604d56ee82d743c850f21"
+  },
+  {
+    "file": "figures/Figure_1.png",
+    "sha256": "a3b7936079c1c9519a5d9de9fea996e893f9a13b3833781accd117d9eba1bfa0"
   },
   {
     "file": "figures/Figure_2.pdf",
-    "sha256": "5a2f8827aadc3364dc0115a57e7e2bc15283cf84bc7490a2722f2d94d4cc7b85"
+    "sha256": "28dea35bce1ad9b9d5d939c72d27f9d5771a70b9f0848f9396168f9146efade2"
   },
   {
     "file": "figures/Figure_2.png",
     "sha256": "1fee155efffb73921824d51b3d7382407f716652229acc6f40aa3dfe6b24cd96"
   },
   {
+    "file": "figures/Figure_3.pdf",
+    "sha256": "e93a643b0787646994b4b6dbb8813e0b18a93b5bce0d10dcaee6afa497badafc"
+  },
+  {
+    "file": "figures/Figure_3.png",
+    "sha256": "1781a9fbc1f64b68e0ac5da7aa4d536505c9fc2428d38396e29f0e54b1f5c032"
+  },
+  {
+    "file": "figures/Figure_4.pdf",
+    "sha256": "15912915bd312285586b6d2cdae5561a2e12d2f4146446c6e7038d85e9b04bca"
+  },
+  {
+    "file": "figures/Figure_4.png",
+    "sha256": "684ba738acf3436d93e062d1ff72ffda9645c80e7bb7a4bbf857406ee10403ae"
+  },
+  {
+    "file": "figures/Figure_5.pdf",
+    "sha256": "b8b778df808c42ea30f9b4d446fc6a0cae7f97e9c681bec45ce3fb7e9bd797e2"
+  },
+  {
+    "file": "figures/Figure_5.png",
+    "sha256": "543e2d4a159d2d5f96c1e186eb996e640aff1670fcbbb7b86d4045cf22478944"
+  },
+  {
     "file": "figures/Figure_6.pdf",
-    "sha256": "7c95fda1ba3c90dd674b2198237b999d5f9cbf66b8eef586a354c7d9b83de001"
+    "sha256": "7c619c36160a01971e7c953b5d9c5054ed4d08a41b6423bd3337113f65bd3b68"
   },
   {
     "file": "figures/Figure_6.png",
-    "sha256": "68857d4c6cca4f53ab407e92e72f6b556ea8614ebf442b5cd3bcef9997428bb3"
+    "sha256": "4c2178a14a9f6d83d20052776dba2fb1a1682d138e9cd8d56662994f49ec60f1"
+  },
+  {
+    "file": "figures/Figure_S1.pdf",
+    "sha256": "fce30ce09e84dc9e602197241b4fda8a167babc502b54708a5c3c538dc543988"
+  },
+  {
+    "file": "figures/Figure_S1.png",
+    "sha256": "fb15fe8407b43c5de9998f15aeac627464a348fa228aae8892aea3a5fee051f9"
+  },
+  {
+    "file": "figures/Figure_S2.pdf",
+    "sha256": "ce0d8069683a74b172d11cc7d45be456eb542f7b35cf573f8f9106e115dfe73d"
+  },
+  {
+    "file": "figures/Figure_S2.png",
+    "sha256": "033570910c48474010e19ea9472bd8d7d91e611cd91e2a1bc5fcbb0124fe3d51"
+  },
+  {
+    "file": "figures/Figure_S3.pdf",
+    "sha256": "fc13eeb89eb2711b0289a380cd62874f588599f27f417425ad0fe36a80600c3d"
+  },
+  {
+    "file": "figures/Figure_S3.png",
+    "sha256": "451efbff6c4a36704b6da947bc2f6d8400576355e72285b1454d6b6e278f901b"
   },
   {
     "file": "figures/Figure_S4.pdf",
@@ -34,6 +90,18 @@
   {
     "file": "figures/Figure_S4.png",
     "sha256": "c0f5ee70c1da98132ccb4dca9c9d01613b5bc70659ce93bcacc7c3469bf6d998"
+  },
+  {
+    "file": "figures/README.md",
+    "sha256": "962b4bd8b20d1456191ebd97d35b20dba65368a33b59166510531f91e1a78bb5"
+  },
+  {
+    "file": "figures/captions.md",
+    "sha256": "b850c0d13f658d61d66e0718db01ba6e8f4f225873c4e121dcd5b312b8c4669a"
+  },
+  {
+    "file": "figures/manifest.json",
+    "sha256": "879e2470fa0c13bbc98577cd392a712b7b738027e79cd2320526161de4453ae6"
   },
   {
     "file": "revision/equilibration_out/Supplementary_Data_S7_equilibration.csv",
@@ -105,11 +173,11 @@
   },
   {
     "file": "revision/make_si_figure_equilibration.py",
-    "sha256": "dedf33865aabac832ca82b809277bb22e6f645812f21e7c2a384d1eefb70ec43"
+    "sha256": "b55430b46fc8159501536fe13409775209034a5bebd5903c490cf087cc882788"
   },
   {
     "file": "revision/make_stratified_figure.py",
-    "sha256": "055ad79c09a85d1d181050922ebb5f9e94d185077789ba64fa6b0ad4095074d6"
+    "sha256": "52e2afa9a9eab5af5602eb020e3094d547a10ef4d66afcda0099283df9de08b7"
   },
   {
     "file": "revision/verified_numbers.json",
@@ -117,7 +185,7 @@
   },
   {
     "file": "scripts/_plot_v12_core.py",
-    "sha256": "b0e497b9c9bb6a56bcded52d45d36af9efef6a739dc361e7a4e8fee775b64f52"
+    "sha256": "16fb753489e7985636d9f82c81cab348b43db22f62b15541a3a3f22f5be7a6e4"
   },
   {
     "file": "scripts/figure1.py",
@@ -125,7 +193,7 @@
   },
   {
     "file": "scripts/figure2.py",
-    "sha256": "a8ca601dcab693d0ad6f03399c187c050a2bc7f0343b6c9981cce89067e8b305"
+    "sha256": "01e22370896123f9217f28416e829a1b6b30400114dff867fe3edaa7b1d8516a"
   },
   {
     "file": "scripts/figure3.py",
@@ -140,12 +208,20 @@
     "sha256": "75604613f8f0f0e25c93b26249a7a3c61e2658d2965c60724aa609c7cd222cba"
   },
   {
+    "file": "scripts/figure6.py",
+    "sha256": "4669ad4d3a01a5cf869b8e7f0529e14fb552dee8d297460ee6d03e5658b5b968"
+  },
+  {
     "file": "scripts/figure_s1.py",
     "sha256": "480c1dc5c5a873e6039eb31110b8cb64f78d24c8e05a662a371be39daa3131ef"
   },
   {
     "file": "scripts/figure_s3.py",
     "sha256": "d89fc283ab3f7fdaef64a0fe77c1deeacbf3a961101e7e45e2d6342fd8ad14ec"
+  },
+  {
+    "file": "scripts/figure_s4.py",
+    "sha256": "fc9d61ee07ddb98e81556660b7c22d633a5746dc0bf4074491435ffaa390a7fb"
   },
   {
     "file": "scripts/workflows/README.md",
@@ -425,7 +501,7 @@
   },
   {
     "file": "supplementary_data/Supplementary_Data_S7_equilibration.xlsx",
-    "sha256": "2b8d181fa97faf8293ad38f7282cf76634b89c04e2d95987861558ba1642d07c"
+    "sha256": "0b2a6e76047e9d65b0d14086614624db49ef43777327143bb1234a57ad58751b"
   },
   {
     "file": "supplementary_data/Supplementary_Data_S8_README.md",
@@ -437,7 +513,7 @@
   },
   {
     "file": "supplementary_data/Supplementary_Data_S8_grafted_segments.xlsx",
-    "sha256": "daa72b4e0e9d341fc80744b5be14e04d672f289f103cd040f5eef8526b1a05c4"
+    "sha256": "12cb796504b37a1f5876a6a16c6a0d4cb6b733b5024c15fb917a7c153aa90a0d"
   },
   {
     "file": "supplementary_data/Supplementary_Data_S8_recovered_segments.json",
@@ -461,6 +537,6 @@
   },
   {
     "file": "verify_tables.py",
-    "sha256": "d7e71c2e29fc5ec0f423d30f47aebfdb974c56f97dcbe3b22403d0561c98a428"
+    "sha256": "3a1039714c760129e69bbf1148193f54dfd8b0de0248e3932c996dcd2d1df182"
   }
 ]

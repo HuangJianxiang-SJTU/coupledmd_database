@@ -25,7 +25,9 @@ import matplotlib.pyplot as plt
 
 BASE = Path(__file__).resolve().parent
 OUT = BASE / "equilibration_out"
-FIG_BASE = "Figure_SI_equilibration_merged"
+FIG_BASE = "Figure_S4"
+FIG_OUT = BASE.parent / "figures" / "regenerated"
+FIG_OUT.mkdir(parents=True, exist_ok=True)
 
 FAM_ORDER = ["Gs", "Gi/o", "Gq/11", "G12/13"]
 FAM_MAP = {"Gs": "Gs", "Gi": "Gi/o", "Gq": "Gq/11", "G12-13": "G12/13"}
@@ -133,7 +135,7 @@ def main():
 
     fig.tight_layout()
     for ext in ("png", "pdf"):
-        fig.savefig(OUT / f"{FIG_BASE}.{ext}", dpi=300)
+        fig.savefig(FIG_OUT / f"{FIG_BASE}.{ext}", dpi=300)
     print(f"Wrote {FIG_BASE}.png / .pdf")
 
     print("\n=== Caption numbers ===")
